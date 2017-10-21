@@ -35,6 +35,9 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
