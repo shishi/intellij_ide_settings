@@ -45,4 +45,8 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="m" />
+  </action>
 </keymap>
