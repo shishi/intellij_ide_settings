@@ -1,7 +1,6 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="ctrl full_width" />
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
   <action id="Back">
@@ -35,6 +34,9 @@
     <keyboard-shortcut first-keystroke="shift f1" />
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
+  <action id="Git.Menu">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="m" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
     <keyboard-shortcut first-keystroke="ctrl z" />
@@ -44,9 +46,5 @@
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
-  </action>
-  <action id="Vcs.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="alt back_quote" />
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="m" />
   </action>
 </keymap>
