@@ -8,11 +8,17 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="alt period" />
   </action>
+  <action id="BaseOnThisFunction" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="0" />
     <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="shift back_space" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="EditorPageUp">
     <keyboard-shortcut first-keystroke="page_up" />
@@ -47,4 +53,8 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="TypeHierarchyBase.BaseOnThisType" />
 </keymap>
