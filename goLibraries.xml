@@ -3,6 +3,7 @@
     <option name="urls">
       <list>
         <option value="file://C:/working/dev" />
+        <option value="file://$USER_HOME$/dev" />
       </list>
     </option>
   </component>
