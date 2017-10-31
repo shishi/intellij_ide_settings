@@ -1,4 +1,4 @@
-<keymap version="1" name="Emacs copy" parent="Emacs">
+<keymap version="1" name="my Emacs" parent="Emacs">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
