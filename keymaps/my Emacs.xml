@@ -1,7 +1,6 @@
 <keymap version="1" name="my Emacs" parent="Emacs">
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="shift alt back_quote" />
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
