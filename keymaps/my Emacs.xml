@@ -1,4 +1,4 @@
-<keymap version="1" name="my Emacs for Gogland" parent="Emacs">
+<keymap version="1" name="my Emacs" parent="Emacs">
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
