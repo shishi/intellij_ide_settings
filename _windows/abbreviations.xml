@@ -1,9 +1,7 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="rake:spec">
-        <abbreviation name="sp" />
-      </action>
+      <action id="rake:spec" />
       <action id="$Paste" />
       <action id="CheckinProject">
         <abbreviation name="ci" />
