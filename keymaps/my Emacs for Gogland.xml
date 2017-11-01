@@ -1,18 +1,23 @@
-<keymap version="1" name="my Emacs" parent="Emacs">
+<keymap version="1" name="my Emacs for Gogland" parent="Emacs">
+  <action id="$SearchWeb">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift alt back_quote" />
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="alt period" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="alt period" />
   </action>
-  <action id="BaseOnThisFunction" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="0" />
     <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="Editor SearchWeb">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -25,9 +30,6 @@
   <action id="EditorPageUp">
     <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="alt v" />
-  </action>
-  <action id="EditorPasteSimple">
-    <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
@@ -58,5 +60,4 @@
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
-  <action id="TypeHierarchyBase.BaseOnThisType" />
 </keymap>
