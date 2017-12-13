@@ -1,5 +1,10 @@
 <application>
   <component name="GoSdkList">
+    <sdk-path>
+      <set>
+        <option value="C:/tools/go" />
+      </set>
+    </sdk-path>
     <imported-from-old-model>true</imported-from-old-model>
   </component>
 </application>
