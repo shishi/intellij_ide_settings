@@ -3,8 +3,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="shift alt back_quote" />
     <keyboard-shortcut first-keystroke="ctrl full_width" />
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
@@ -63,5 +66,8 @@
   </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
   </action>
 </keymap>
