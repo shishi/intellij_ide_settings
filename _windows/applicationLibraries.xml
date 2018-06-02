@@ -330,6 +330,14 @@
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rash_alt-0.4.6/lib" />
       </SOURCES>
     </library>
+    <library name="rash_alt (v0.4.7, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rash_alt-0.4.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rash_alt-0.4.7/lib" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v6.0.1, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/markup" />
