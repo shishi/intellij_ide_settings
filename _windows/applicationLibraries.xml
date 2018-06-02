@@ -9,82 +9,84 @@
       </SOURCES>
     </library>
     <library name="bigdecimal (v1.3.4, ruby-2.5.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/bigdecimal" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/bigdecimal" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="bundler (v1.16.1, ruby-2.5.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/man" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/exe" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/man" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/exe" />
       </SOURCES>
+    </library>
+    <library name="cmath (v1.0.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="coderay (v1.1.2, ruby-2.5.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/coderay-1.1.2/bin" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/coderay-1.1.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/coderay-1.1.2/bin" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/coderay-1.1.2/lib" />
       </SOURCES>
+    </library>
+    <library name="csv (v1.0.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="date (v1.0.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="dbm (v1.0.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="did_you_mean (v1.2.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </SOURCES>
     </library>
     <library name="diff-lcs (v1.3, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/autotest" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/autotest" />
       </SOURCES>
+    </library>
+    <library name="etc (v1.0.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="eventmachine (v1.2.5, ruby-2.5.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.5-x64-mingw32/rakelib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.5-x64-mingw32/java" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.5-x64-mingw32/ext" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.5-x64-mingw32/tests" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.5-x64-mingw32/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.5-x64-mingw32/rakelib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.5-x64-mingw32/java" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.5-x64-mingw32/ext" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.5-x64-mingw32/tests" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.5-x64-mingw32/lib" />
       </SOURCES>
     </library>
+    <library name="fcntl (v1.0.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="fiddle (v1.0.0, ruby-2.5.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/fiddle" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/fiddle" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="fileutils (v1.0.2, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="gdbm (v2.0.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="hashie (v3.5.7, ruby-2.5.0-p0) [gem]">
       <CLASSES>
@@ -97,35 +99,29 @@
     <library name="htmlentities (v4.3.4, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/htmlentities-4.3.4/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/htmlentities-4.3.4/perf" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/htmlentities-4.3.4/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/htmlentities-4.3.4/perf" />
       </SOURCES>
     </library>
+    <library name="io-console (v0.4.6, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="ipaddr (v1.2.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="json (v2.1.0, ruby-2.5.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/json/add" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/json/add" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="kramdown (v1.16.2, ruby-2.5.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/kramdown-1.16.2/man" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/kramdown-1.16.2/data" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/kramdown-1.16.2/benchmark" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/kramdown-1.16.2/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/kramdown-1.16.2/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/kramdown-1.16.2/man" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/kramdown-1.16.2/data" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/kramdown-1.16.2/benchmark" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/kramdown-1.16.2/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/kramdown-1.16.2/bin" />
       </SOURCES>
     </library>
     <library name="method_source (v0.9.0, ruby-2.5.0-p0) [gem]">
@@ -138,11 +134,9 @@
     </library>
     <library name="mini_portile2 (v2.3.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/mini_portile2-2.3.0/concourse" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/mini_portile2-2.3.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/mini_portile2-2.3.0/concourse" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/mini_portile2-2.3.0/lib" />
       </SOURCES>
     </library>
@@ -156,49 +150,31 @@
     </library>
     <library name="mustermann (v1.0.2, ruby-2.5.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/mustermann-1.0.2/bench" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/mustermann-1.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/mustermann-1.0.2/bench" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/mustermann-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="net-telnet (v0.1.1, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.8.2, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2-x64-mingw32/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2-x64-mingw32/ext" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2-x64-mingw32/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2-x64-mingw32/suppressions" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2-x64-mingw32/tasks" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2-x64-mingw32/patches" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2-x64-mingw32/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2-x64-mingw32/ext" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2-x64-mingw32/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2-x64-mingw32/suppressions" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2-x64-mingw32/tasks" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2-x64-mingw32/patches" />
       </SOURCES>
     </library>
     <library name="openssl (v2.1.0, ruby-2.5.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/openssl" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/openssl" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="parallel (v1.12.1, ruby-2.5.0-p0) [gem]">
       <CLASSES>
@@ -211,21 +187,17 @@
     <library name="parser (v2.5.1.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/parser-2.5.1.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/parser-2.5.1.0/bin" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/parser-2.5.1.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/parser-2.5.1.0/bin" />
       </SOURCES>
     </library>
     <library name="power_assert (v1.1.1, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
       </SOURCES>
     </library>
     <library name="powerpack (v0.1.1, ruby-2.5.0-p0) [gem]">
@@ -239,39 +211,21 @@
     <library name="pry (v0.11.3, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/pry-0.11.3/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/pry-0.11.3/bin" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/pry-0.11.3/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/pry-0.11.3/bin" />
       </SOURCES>
     </library>
     <library name="psych (v3.0.2, ruby-2.5.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/psych/visitors" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/psych/nodes" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/psych/handlers" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/psych/json" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/psych/visitors" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/psych/nodes" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/psych/handlers" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/psych/json" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="rack (v2.0.4, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rack-2.0.4/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rack-2.0.4/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rack-2.0.4/contrib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rack-2.0.4/example" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rack-2.0.4/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rack-2.0.4/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rack-2.0.4/contrib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rack-2.0.4/example" />
       </SOURCES>
     </library>
     <library name="rack-protection (v2.0.1, ruby-2.5.0-p0) [gem]">
@@ -292,26 +246,18 @@
     </library>
     <library name="rake (v12.3.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
       </SOURCES>
     </library>
     <library name="rake (v12.3.1, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rake-12.3.1/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rake-12.3.1/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rake-12.3.1/exe" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rake-12.3.1/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rake-12.3.1/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rake-12.3.1/exe" />
       </SOURCES>
     </library>
     <library name="rash_alt (v0.4.5, ruby-2.5.0-p0) [gem]">
@@ -339,73 +285,39 @@
       </SOURCES>
     </library>
     <library name="rdoc (v6.0.1, ruby-2.5.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/markup" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/context" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/generator" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/markdown" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/rd" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/stats" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/ri" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/parser" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/i18n" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/markup" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/context" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/generator" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/markdown" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/rd" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/stats" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/ri" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/parser" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/rdoc/i18n" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="rdoc (v6.0.3, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.3/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.3/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.3/exe" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.3/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.3/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.3/exe" />
       </SOURCES>
     </library>
     <library name="rdoc (v6.0.4, ruby-2.5.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.4/exe" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.4/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.4/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.4/exe" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.4/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.4/bin" />
       </SOURCES>
     </library>
     <library name="redcarpet (v3.4.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/redcarpet-3.4.0/ext" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/redcarpet-3.4.0/bin" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/redcarpet-3.4.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/redcarpet-3.4.0/ext" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/redcarpet-3.4.0/bin" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/redcarpet-3.4.0/lib" />
       </SOURCES>
     </library>
     <library name="reverse_markdown (v1.0.5, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/reverse_markdown-1.0.5/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/reverse_markdown-1.0.5/bin" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/reverse_markdown-1.0.5/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/reverse_markdown-1.0.5/bin" />
       </SOURCES>
     </library>
     <library name="rspec (v3.7.0, ruby-2.5.0-p0) [gem]">
@@ -418,22 +330,18 @@
     </library>
     <library name="rspec-core (v3.7.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.7.0/exe" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.7.0/exe" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.7.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-core (v3.7.1, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.7.1/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.7.1/exe" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.7.1/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.7.1/exe" />
       </SOURCES>
     </library>
     <library name="rspec-expectations (v3.7.0, ruby-2.5.0-p0) [gem]">
@@ -471,15 +379,9 @@
     <library name="rubocop (v0.54.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rubocop-0.54.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rubocop-0.54.0/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rubocop-0.54.0/assets" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rubocop-0.54.0/config" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rubocop-0.54.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rubocop-0.54.0/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rubocop-0.54.0/assets" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rubocop-0.54.0/config" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.9.0, ruby-2.5.0-p0) [gem]">
@@ -489,6 +391,14 @@
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
+    </library>
+    <library name="scanf (v1.0.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="sdbm (v1.0.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="sinatra (v2.0.1, ruby-2.5.0-p0) [gem]">
       <CLASSES>
@@ -501,90 +411,74 @@
     <library name="solargraph (v0.21.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/solargraph-0.21.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/solargraph-0.21.0/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/solargraph-0.21.0/yardoc" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/solargraph-0.21.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/solargraph-0.21.0/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/solargraph-0.21.0/yardoc" />
       </SOURCES>
+    </library>
+    <library name="stringio (v0.0.1, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="strscan (v1.0.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="test-unit (v3.2.7, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </SOURCES>
     </library>
     <library name="thor (v0.20.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/thor-0.20.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/thor-0.20.0/bin" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/thor-0.20.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/thor-0.20.0/bin" />
       </SOURCES>
     </library>
     <library name="tilt (v2.0.8, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/tilt-2.0.8/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/tilt-2.0.8/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/tilt-2.0.8/man" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/tilt-2.0.8/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/tilt-2.0.8/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/tilt-2.0.8/man" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.3.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/unicode-display_width-1.3.0/data" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/unicode-display_width-1.3.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/unicode-display_width-1.3.0/data" />
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/unicode-display_width-1.3.0/lib" />
       </SOURCES>
     </library>
     <library name="webrick (v1.4.2, ruby-2.5.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/webrick/httpservlet" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/webrick/httpauth" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/webrick/httpservlet" />
-        <root url="file://C:/tools/ruby25/lib/ruby/2.5.0/webrick/httpauth" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="xmlrpc (v0.3.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
       </SOURCES>
     </library>
     <library name="yard (v0.9.12, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/yard-0.9.12/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/yard-0.9.12/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/yard-0.9.12/templates" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/yard-0.9.12/benchmarks" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/yard-0.9.12/lib" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/yard-0.9.12/bin" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/yard-0.9.12/templates" />
-        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/yard-0.9.12/benchmarks" />
       </SOURCES>
+    </library>
+    <library name="zlib (v1.0.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
   </component>
 </application>
