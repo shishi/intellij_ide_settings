@@ -3,7 +3,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl full_width" />
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
   <action id="ActivateVersionControlToolWindow">

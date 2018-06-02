@@ -366,6 +366,18 @@
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.3/exe" />
       </SOURCES>
     </library>
+    <library name="rdoc (v6.0.4, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.4/exe" />
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.4/lib" />
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.4/exe" />
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.4/lib" />
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rdoc-6.0.4/bin" />
+      </SOURCES>
+    </library>
     <library name="redcarpet (v3.4.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/redcarpet-3.4.0/ext" />
@@ -406,6 +418,16 @@
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.7.1, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.7.1/lib" />
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.7.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.7.1/lib" />
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.7.1/exe" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.7.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-expectations-3.7.0/lib" />
@@ -428,6 +450,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-support-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.7.1, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-support-3.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/ruby25/lib/ruby/gems/2.5.0/gems/rspec-support-3.7.1/lib" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.54.0, ruby-2.5.0-p0) [gem]">
