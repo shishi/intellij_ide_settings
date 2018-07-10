@@ -1,0 +1,28 @@
+<keymap version="1" name="Default with emacs tweak" parent="$default">
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="UML.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+</keymap>
