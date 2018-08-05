@@ -1,4 +1,4 @@
-<keymap version="1" name="Default tweak" parent="$default">
+<keymap version="1" name="Default tweak" parent="Default for XWin">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
