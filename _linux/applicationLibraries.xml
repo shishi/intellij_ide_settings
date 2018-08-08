@@ -6129,6 +6129,17 @@
         <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/1038798389/1322250864/gems/logging-2.2.2/examples" />
       </excluded>
     </library>
+    <library name="lograge (v0.10.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/1038798389/1322250864/gems/lograge-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/1038798389/1322250864/gems/lograge-0.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.1.1, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -8255,6 +8266,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/1038798389/1322250864/gems/os-0.9.6/spec" />
         <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/1038798389/1322250864/gems/os-0.9.6/autotest" />
+      </excluded>
+    </library>
+    <library name="ougai (v1.7.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/1038798389/1322250864/gems/ougai-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/1038798389/1322250864/gems/ougai-1.7.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/1038798389/1322250864/gems/ougai-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/1038798389/1322250864/gems/ougai-1.7.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/1038798389/1322250864/gems/ougai-1.7.0/spec" />
       </excluded>
     </library>
     <library name="paint (v2.0.1, rbenv: 2.3.7) [gem]" type="rubylib">
