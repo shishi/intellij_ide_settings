@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="RuboCop Execution Error" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
