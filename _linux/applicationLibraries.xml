@@ -49,6 +49,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/actioncable-5.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.2.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/actioncable-5.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/actioncable-5.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="actioncable (v5.2.1, rbenv: 2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -80,6 +91,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/actionmailer-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.2.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/actionmailer-5.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/actionmailer-5.2.0/lib" />
       </SOURCES>
     </library>
     <library name="actionmailer (v5.2.1, rbenv: 2.3.7) [gem]" type="rubylib">
@@ -115,6 +137,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/actionpack-5.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.2.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/actionpack-5.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/actionpack-5.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v5.2.1, rbenv: 2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -146,6 +179,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/actionview-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.2.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/actionview-5.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/actionview-5.2.0/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v5.2.1, rbenv: 2.3.7) [gem]" type="rubylib">
@@ -219,6 +263,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/activejob-5.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.2.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activejob-5.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activejob-5.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v5.2.1, rbenv: 2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -250,6 +305,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/activemodel-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.2.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activemodel-5.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activemodel-5.2.0/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v5.2.1, rbenv: 2.3.7) [gem]" type="rubylib">
@@ -288,6 +354,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/activerecord-5.2.0/examples" />
+      </excluded>
+    </library>
+    <library name="activerecord (v5.2.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activerecord-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activerecord-5.2.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activerecord-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activerecord-5.2.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activerecord-5.2.0/examples" />
       </excluded>
     </library>
     <library name="activerecord (v5.2.1, rbenv: 2.3.7) [gem]" type="rubylib">
@@ -387,6 +469,27 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/activestorage-5.2.0/config" />
       </excluded>
     </library>
+    <library name="activestorage (v5.2.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activestorage-5.2.0/db" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activestorage-5.2.0/app" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activestorage-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activestorage-5.2.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activestorage-5.2.0/db" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activestorage-5.2.0/app" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activestorage-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activestorage-5.2.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activestorage-5.2.0/db" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activestorage-5.2.0/config" />
+      </excluded>
+    </library>
     <library name="activestorage (v5.2.1, rbenv: 2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -438,6 +541,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/activesupport-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.2.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activesupport-5.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/activesupport-5.2.0/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v5.2.1, rbenv: 2.3.7) [gem]" type="rubylib">
@@ -2972,6 +3086,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/i18n-1.0.1/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/i18n-1.0.1/gemfiles" />
+      </excluded>
+    </library>
+    <library name="i18n (v1.0.1, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/i18n-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/i18n-1.0.1/test" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/i18n-1.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/i18n-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/i18n-1.0.1/test" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/i18n-1.0.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/i18n-1.0.1/test" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/i18n-1.0.1/gemfiles" />
       </excluded>
     </library>
     <library name="i18n (v1.1.0, rbenv: 2.3.7) [gem]" type="rubylib">
@@ -5859,6 +5992,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="rails (v5.2.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="rails (v5.2.1, rbenv: 2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -6015,6 +6155,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/railties-5.2.0/exe" />
+      </excluded>
+    </library>
+    <library name="railties (v5.2.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/railties-5.2.0/exe" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/railties-5.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/railties-5.2.0/exe" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/railties-5.2.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/railties-5.2.0/exe" />
       </excluded>
     </library>
     <library name="railties (v5.2.1, rbenv: 2.3.7) [gem]" type="rubylib">
