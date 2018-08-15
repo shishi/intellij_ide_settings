@@ -844,6 +844,22 @@
         <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/autoprefixer-rails-8.6.5/spec" />
       </excluded>
     </library>
+    <library name="awesome_print (v1.8.0, Remote: ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/awesome_print-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/awesome_print-1.8.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/awesome_print-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/awesome_print-1.8.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/awesome_print-1.8.0/spec" />
+      </excluded>
+    </library>
     <library name="aws-flow (v3.1.0, rbenv: 2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
