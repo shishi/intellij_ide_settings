@@ -46,7 +46,7 @@
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
   <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
