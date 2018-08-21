@@ -41,8 +41,8 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1534867030478">
-        <mark key="'" line="93" column="2" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1534872286652">
+        <mark key="'" line="1376" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -93,6 +93,35 @@
       <jump line="171" column="16" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="229" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
       <jump line="93" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="363" column="24" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="370" column="12" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="401" column="10" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="402" column="21" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="403" column="51" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="437" column="10" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="438" column="21" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="439" column="51" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="488" column="10" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="489" column="21" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="490" column="65" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="509" column="12" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="510" column="67" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="507" column="10" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1074" column="11" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1079" column="11" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1285" column="24" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1290" column="24" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1297" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1302" column="12" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1340" column="57" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1342" column="73" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1343" column="76" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1344" column="66" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1348" column="102" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1349" column="105" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1350" column="79" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1363" column="14" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1376" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -102,7 +131,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>rela</text>
+        <text>Rela</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGl0ICcubWVzc2FnZXMnIGRvCiAgICAgIGFnZ3JlZ2F0ZV9mYWlsdXJlcyBkbwogICAgICAgIGV4cGVjdChhdWN0aW9uKS50byByZXNwb25kX3RvKDptZXNzYWdlcykKICAgICAgICBleHBlY3QoYXVjdGlvbi5tZXNzYWdlcy5rbGFzcykudG8gZXEgQXVjdGlvbjo6TWVzc2FnZQogICAgICBlbmQKICAgIGVuZAo=</text>
@@ -143,9 +172,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rela</last-search>
+      <last-search>Rela</last-search>
       <last-offset />
-      <last-pattern>rela</last-pattern>
+      <last-pattern>Rela</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -156,7 +185,10 @@
         <entry>related</entry>
         <entry>rake</entry>
         <entry>relateion</entry>
+        <entry>status</entry>
+        <entry>time</entry>
         <entry>rela</entry>
+        <entry>Rela</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
