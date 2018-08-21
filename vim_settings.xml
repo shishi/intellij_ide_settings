@@ -17,7 +17,6 @@
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile.lock" timestamp="1534861454286">
         <mark key="'" line="118" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/factories/auctions.rb" timestamp="1534858031770" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/videos/show.erb" timestamp="1534856955325">
         <mark key="[" line="41" column="37" />
         <mark key="k" line="40" column="40" />
@@ -25,7 +24,6 @@
         <mark key="^" line="41" column="36" />
         <mark key="." line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/env.yml" timestamp="1534863346401" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose/app/Dockerfile" timestamp="1534863943429">
         <mark key="'" line="35" column="0" />
       </file>
@@ -39,23 +37,12 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1534866818788">
-        <mark key="'" line="40" column="18" />
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="201" column="7" />
-        <mark key="." line="204" column="0" />
-        <mark key="^" line="194" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose.yml" timestamp="1534865219213">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="34" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1534867030478">
-        <mark key="'" line="105" column="2" />
-        <mark key="[" line="95" column="37" />
-        <mark key="]" line="96" column="3" />
-        <mark key="^" line="96" column="3" />
-        <mark key="." line="96" column="3" />
+        <mark key="'" line="93" column="2" />
       </file>
     </filemarks>
     <jumps>
