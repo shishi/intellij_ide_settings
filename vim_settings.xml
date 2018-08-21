@@ -6,9 +6,10 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1534857254806" />
-      <file name="/Dummy.txt" timestamp="1534857936897">
+      <file name="/Dummy.txt" timestamp="1534857937758">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/factories/auctions.rb" timestamp="1534858031770" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/videos/show.erb" timestamp="1534856955325">
         <mark key="[" line="41" column="37" />
         <mark key="k" line="40" column="40" />
@@ -23,6 +24,15 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1534859560603">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
+        <mark key="^" line="207" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1534857967533">
+        <mark key="'" line="237" column="11" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="112" column="26" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
@@ -30,10 +40,44 @@
       <jump line="115" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="123" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="125" column="22" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
+      <jump line="1399" column="8" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1432" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1433" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1437" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1438" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1442" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1443" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1447" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1448" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1457" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1458" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1462" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1463" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1467" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1468" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1472" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1473" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="1481" column="37" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="90" column="9" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="180" column="11" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="232" column="11" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="237" column="11" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ideos</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGVuZCAgCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVuZCAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBleHBlY3QoYXVjdGlvbi5tZXNzYWdlcy5rbGFzcykudG8gZXEgQXVjdGlvbjo6TWVzc2FnZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYWdncmVnYXRlX2ZhaWx1cmVzIGRvCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwtYW5kLXJlc3RvcmUtaW4taW5zZXJ0CiAgICBrZWVwLWVuZ2xpc2gtaW4tbm9ybWFsLWFuZC1yZXN0b3JlLWluLWluc2VydA==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
@@ -42,19 +86,21 @@
         <text>ideos</text>
       </register>
       <register name="/" type="4">
-        <text>i</text>
+        <text>related</text>
       </register>
     </registers>
     <search>
-      <last-search>i</last-search>
+      <last-search>related</last-search>
       <last-offset />
-      <last-pattern>i</last-pattern>
+      <last-pattern>related</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>i</entry>
+        <entry>have</entry>
+        <entry>related</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
