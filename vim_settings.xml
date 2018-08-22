@@ -14,8 +14,17 @@
       <file name="/Dummy.txt" timestamp="1534867593221">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile.lock" timestamp="1534861454286">
-        <mark key="'" line="118" column="6" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" timestamp="1534906605642">
+        <mark key="[" line="124" column="39" />
+        <mark key="]" line="124" column="43" />
+        <mark key="." line="124" column="43" />
+        <mark key="^" line="124" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" timestamp="1534907073649">
+        <mark key="[" line="60" column="24" />
+        <mark key="]" line="60" column="25" />
+        <mark key="." line="60" column="25" />
+        <mark key="^" line="100" column="14" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/videos/show.erb" timestamp="1534856955325">
         <mark key="[" line="41" column="37" />
@@ -28,6 +37,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1534872286652">
+        <mark key="'" line="1376" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile.lock" timestamp="1534861454286">
+        <mark key="'" line="118" column="6" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose/app/Dockerfile" timestamp="1534863943429">
         <mark key="'" line="35" column="0" />
@@ -46,8 +61,8 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1534872286652">
-        <mark key="'" line="1376" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" timestamp="1534907119063">
+        <mark key="'" line="6" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -127,19 +142,29 @@
       <jump line="1350" column="79" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
       <jump line="1363" column="14" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
       <jump line="1376" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
+      <jump line="34" column="32" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
+      <jump line="31" column="8" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
+      <jump line="36" column="36" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
+      <jump line="39" column="34" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
+      <jump line="60" column="24" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
+      <jump line="66" column="26" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
+      <jump line="81" column="7" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
+      <jump line="89" column="7" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
+      <jump line="100" column="14" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
+      <jump line="6" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>注）出品者がレーベルの時に設定してください。',</text>
       </register>
       <register name="/" type="4">
-        <text>Rela</text>
+        <text>Cast</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGl0ICcubWVzc2FnZXMnIGRvCiAgICAgIGFnZ3JlZ2F0ZV9mYWlsdXJlcyBkbwogICAgICAgIGV4cGVjdChhdWN0aW9uKS50byByZXNwb25kX3RvKDptZXNzYWdlcykKICAgICAgICBleHBlY3QoYXVjdGlvbi5tZXNzYWdlcy5rbGFzcykudG8gZXEgQXVjdGlvbjo6TWVzc2FnZQogICAgICBlbmQKICAgIGVuZAo=</text>
+        <text encoding="base64">ICA8ZGl2IGlkPSJyZWFjdC1yZWxhdGVkLWNhc3Qtc2VsZWN0b3IiCiAgICAgICBkYXRhLWNhc3Q9IjwlPSBmLm9iamVjdC5yZWxhdGVkX2Nhc3QmLnRvX3Jlc291cmNlX2hhc2gudG9fanNvbiAlPiIKICAgICAgIGRhdGEtYXM9ImF1Y3Rpb24iPgogIDwvZGl2Pg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VUlEPTEwMDAK</text>
@@ -177,11 +202,11 @@
       </register>
     </registers>
     <search>
-      <last-search>Rela</last-search>
+      <last-search>Cast</last-search>
       <last-offset />
-      <last-pattern>Rela</last-pattern>
+      <last-pattern>Cast</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -194,6 +219,7 @@
         <entry>time</entry>
         <entry>rela</entry>
         <entry>Rela</entry>
+        <entry>Cast</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
