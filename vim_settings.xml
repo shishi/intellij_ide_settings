@@ -5,8 +5,8 @@
       <mark key="M" line="112" column="26" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1534913330485">
-        <mark key="'" line="66" column="7" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1534928595673">
+        <mark key="'" line="54" column="85" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -36,17 +36,26 @@
         <mark key="." line="294" column="22" />
         <mark key="^" line="247" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/extra_bars_controller.rb" timestamp="1534922176492">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/extra_bars_controller.rb" timestamp="1534929128552">
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="67" />
+        <mark key="^" line="23" column="67" />
+        <mark key="." line="23" column="67" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1534872286652">
         <mark key="'" line="1376" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile.lock" timestamp="1534861454286">
         <mark key="'" line="118" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/extra_bars/_relate_auctions.erb" timestamp="1534929670631">
+        <mark key="[" line="5" column="92" />
+        <mark key="]" line="5" column="96" />
+        <mark key="." line="5" column="96" />
+        <mark key="^" line="5" column="96" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" timestamp="1534929623541">
+        <mark key="'" line="17" column="57" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/show.erb" timestamp="1534912649653">
         <mark key="'" line="53" column="24" />
@@ -104,11 +113,11 @@
       <file name="/Clipboard.txt" timestamp="1534866203248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1534927142244">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1534928103877">
         <mark key="'" line="62" column="15" />
-        <mark key="[" line="71" column="85" />
-        <mark key="]" line="71" column="124" />
-        <mark key="." line="71" column="124" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
         <mark key="^" line="71" column="124" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" timestamp="1534912320295">
@@ -119,8 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="11" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
-      <jump line="237" column="11" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile.lock" />
       <jump line="428" column="6" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile.lock" />
       <jump line="431" column="4" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile.lock" />
@@ -219,62 +226,62 @@
       <jump line="64" column="22" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="62" column="15" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="247" column="16" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" />
+      <jump line="54" column="85" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" />
+      <jump line="17" column="57" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>image</text>
       </register>
       <register name="/" type="4">
-        <text>extra</text>
+        <text>image</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZ2V0ICdleHRyYV9iYXJzL3BpY2t1cHMvOnR5cGUnLCB0bzogJ2V4dHJhX2JhcnMjcGlja3VwcycsIGFzOiAnZXh0cmFfYmFyc19waWNrdXBzJwo=</text>
+        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0ic3RhcnRpbmdfcHJpY2UiPjwlPSBhdWN0aW9uLnN0YXJ0aW5nX3ByaWNlICU+PC9wPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlIyDplqLpgKPjgqrjg7zjgq/jgrfjg6fjg7MgJT4KICAgICAgICAgIDwlIGlmIGN1cnJlbnRfcGFnZT8oY29udHJvbGxlcjogJ3VzZXIvdmlkZW9zJywgYWN0aW9uOiAnc2hvdycpICU+CiAgICAgICAgICAgIDwlIGlmIEB2aWRlby5hdWN0aW9ucy5wcmVzZW50PyAlPgogICAgICAgICAgICAgIDxzZWN0aW9uIGNsYXNzPSJubi1jYXJkLWxpc3QgYXMtbGlzdCB3aXRoLXRvcC1ib3JkZXIgZXh0cmEtYmFyLXJlY29tbWVuZGF0aW9ucyI+CiAgICAgICAgICAgICAgICA8aDIgY2xhc3M9Im5uLWNhcmQgc2VjdGlvbi10aXRsZSBuby1hY3Rpb24tY2FyZCI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im5uLWNhcmQtaW5uZXIiPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIHN0eWxlPSJsaW5lLWhlaWdodDogNDhweDsiPjwlPSB0KCdyZWxhdGVfYXVjdGlvbnMnKSAlPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2gyPgoKICAgICAgICAgICAgICAgIDwlPSByZW5kZXJfYXN5bmMgZXh0cmFfYmFyc19yZWxhdGVfYXVjdGlvbnNfcGF0aCh2aWRlb19pZDogdmlkZW9faWQpICU+CiAgICAgICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgICAgICA8JSBlbmQgJT4KICAgICAgICAgIDwlIGVuZCAlPgoK</text>
+        <text encoding="base64">CiAgICA8ZGl2IGNsYXNzPSJjYXJkLWV4dHJhIj4KICAgICAgPCUgaXNfZmF2b3JpdGUgPSBBcnJheShAZmF2b3JpdGVfbGlzdF9pZHMpLmluY2x1ZGU/KGxpc3QuaWQpICU+CiAgICAgIDxidXR0b24gZGF0YS1pZD0iPCU9IGxpc3QuaWQgJT4iIGRhdGEtdHlwZT0iPCU9IGxpc3QuY2xhc3MubmFtZSAlPiIKICAgICAgICAgICAgICBjbGFzcz0ibm4tYnV0dG9uIG5uLWZhdm9yaXRlLW1hcmsgYXMtaWNvbiA8JT0gJ2FzLWZhdm9yaXRlZCcgaWYgaXNfZmF2b3JpdGUgJT4iPgogICAgICAgIDxpIGNsYXNzPSJubi1pY29uIG1hdGVyaWFsLWljb25zIj48JT0gaXNfZmF2b3JpdGUgPyAnZmF2b3JpdGUnIDogJ2Zhdm9yaXRlX2JvcmRlcicgJT48L2k+CiAgICAgIDwvYnV0dG9uPgogICAgPC9kaXY+CiAgPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvZ2Vob2dlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBob2dlaG9nZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwlIyDplqLpgKPjgqrjg7zjgq/jgrfjg6fjg7MgJT4KICAgICAgICAgIDwlIGlmIGN1cnJlbnRfcGFnZT8oY29udHJvbGxlcjogJ3VzZXIvdmlkZW9zJywgYWN0aW9uOiAnc2hvdycpICU+CiAgICAgICAgICAgIDwlIGlmIEB2aWRlby5hdWN0aW9ucy5wcmVzZW50PyAlPgogICAgICAgICAgICAgIDxzZWN0aW9uIGNsYXNzPSJubi1jYXJkLWxpc3QgYXMtbGlzdCB3aXRoLXRvcC1ib3JkZXIgZXh0cmEtYmFyLXJlY29tbWVuZGF0aW9ucyI+CiAgICAgICAgICAgICAgICA8aDIgY2xhc3M9Im5uLWNhcmQgc2VjdGlvbi10aXRsZSBuby1hY3Rpb24tY2FyZCI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im5uLWNhcmQtaW5uZXIiPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIHN0eWxlPSJsaW5lLWhlaWdodDogNDhweDsiPjwlPSB0KCdyZWxhdGVfYXVjdGlvbnMnKSAlPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2gyPgoKICAgICAgICAgICAgICAgIDwlPSByZW5kZXJfYXN5bmMgZXh0cmFfYmFyc19yZWxhdGVfYXVjdGlvbnNfcGF0aCh2aWRlb19pZDogdmlkZW9faWQpICU+CiAgICAgICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgICAgICA8JSBlbmQgJT4KICAgICAgICAgIDwlIGVuZCAlPgoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGhvZ2Vob2dlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCUgaWYgY29udGVudF9mb3I/KDpwaWNrdXBfdHlwZSkgJT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgUmVjb21tZW5kZWRfZm9yX3lvdSAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGhvZ2Vob2dlCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUKIyA9PSBTY2hlbWEgSW5mb3JtYXRpb24KIwojIFRhYmxlIG5hbWU6IGF1Y3Rpb25zCiMKIyAgaWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDppbnRlZ2VyICAgICAgICAgIG5vdCBudWxsLCBwcmltYXJ5IGtleQojICBzdGF0dXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmludGVnZXIgICAgICAgICAgZGVmYXVsdCgiZHJhZnQiKSwgbm90IG51bGwKIyAgc3ViamVjdCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpzdHJpbmcoMjU1KSAgICAgIG5vdCBudWxsCiMgIGxhYmVsX2lkICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6aW50ZWdlcgojICBjYXN0X2lkICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmludGVnZXIKIyAgc3RhcnRpbmdfcHJpY2UgICAgICAgICAgICAgICAgICAgICAgICAgIDppbnRlZ2VyICAgICAgICAgIGRlZmF1bHQoMCksIG5vdCBudWxsCiMgIGNhbmNlbF9hdCjlhaXmnK3jgYzjgarjgYvjgaPjgZ/loLTlkIjjga7jgq3jg6Pjg7Pjgrvjg6vkuojlrprml6XmmYIpICAgICAgICAgIDpkYXRldGltZQojICBwdWJsaXNoX2F0ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmRhdGV0aW1lCiMgIGxpc3RfYXQo5YWl5pyt5Y+v6IO944Gq5Ye65ZOB44Oq44K544OI44Gr5o6y6LyJ44GZ44KL5pel5pmCKSAgICAgICAgICAgICAgOmRhdGV0aW1lCiMgIGZpcnN0X2JhZGVfYXQo5pyA5Yid44Gu5YWl5pyt44GM44GC44Gj44Gf5pel5pmCKSAgICAgICAgICAgICAgOmRhdGV0aW1lCiMgIGVuZF9hdCjlhaXmnK3jgpLntYLkuobjgZnjgovml6XmmYIpICAgICAgICAgICAgICAgICAgICAgICA6ZGF0ZXRpbWUKIyAgZmF2b3JpdGVzX2NvdW50KOOCquODvOOCr+OCt+ODp+ODs+OBruOBiuawl+OBq+WFpeOCiuaVsCkgICAgICAgICAgOmludGVnZXIgICAgICAgICAgZGVmYXVsdCgwKSwgbm90IG51bGwKIyAgcmVsYXRlZF9jYXN0X2lkKOmWoumAo+OCreODo+OCueODiCkgICAgICAgICAgICAgICAgIDppbnRlZ2VyCiMgIHJlbGF0ZWRfdmlkZW9faWQo6Zai6YCj5YuV55S7KSAgICAgICAgICAgICAgICAgIDppbnRlZ2VyCiMgIGNhdGVnb3J5KOOCq+ODhuOCtOODqikgICAgICAgICAgICAgICAgICAgICAgICAgIDppbnRlZ2VyICAgICAgICAgIGRlZmF1bHQoIm5vdHNldCIpLCBub3QgbnVsbAojICBmZWVfcmF0ZSjmiYvmlbDmlpnnjocpICAgICAgICAgICAgICAgICAgICAgICAgICA6ZmxvYXQoMjQpICAgICAgICBkZWZhdWx0KDIwLjApLCBub3QgbnVsbAojICB0aHVtYl9pZCjjgrXjg6Djg43jgqTjg6vnlLvlg4/jg5XjgqHjgqTjg6vorZjliKXlrZApICAgICAgICAgICAgICAgIDpzdHJpbmcoMjU1KSAgICAgIGRlZmF1bHQoIiIpLCBub3QgbnVsbAojICB0aHVtYl9maWxlbmFtZSjjgrXjg6Djg43jgqTjg6vnlLvlg4/jg5XjgqHjgqTjg6vjga7lkI3liY0pICAgICAgICAgIDpzdHJpbmcoMjU1KSAgICAgIGRlZmF1bHQoIiIpLCBub3QgbnVsbAojICB0aHVtYl9jb250ZW50X3R5cGUo44K144Og44ON44Kk44Or55S75YOP44OV44Kh44Kk44Or44GuTUlNReOCv+OCpOODlykgOnN0cmluZygyNTUpICAgICAgZGVmYXVsdCgiIiksIG5vdCBudWxsCiMgIHRodW1iX3NpemUo44K144Og44ON44Kk44Or55S75YOP44OV44Kh44Kk44Or44Gu5a656YePKSAgICAgICAgICAgICAgOmludGVnZXIgICAgICAgICAgZGVmYXVsdCgwKSwgbm90IG51bGwKIyAgY3JlYXRlZF9hdCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpkYXRldGltZSAgICAgICAgIG5vdCBudWxsCiMgIHVwZGF0ZWRfYXQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZGF0ZXRpbWUgICAgICAgICBub3QgbnVsbAojCiMgSW5kZXhlcwojCiMgIGZrX3JhaWxzXzU0YmQwNjExZDkgICAgICAgICAocmVsYXRlZF9jYXN0X2lkKQojICBma19yYWlsc183YTY3YzY1YTBiICAgICAgICAgKHJlbGF0ZWRfdmlkZW9faWQpCiMgIGluZGV4X2F1Y3Rpb25zX29uX2Nhc3RfaWQgICAoY2FzdF9pZCkKIyAgaW5kZXhfYXVjdGlvbnNfb25fbGFiZWxfaWQgIChsYWJlbF9pZCkKIwojIEZvcmVpZ24gS2V5cwojCiMgIGZrX3JhaWxzXy4uLiAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCUgaWYgY29udGVudF9mb3I/KDpwaWNrdXBfdHlwZSkgJT4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgUmVjb21tZW5kZWRfZm9yX3lvdSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2aWRlb1RleHQ6ICfplqLpgKPjgq3jg6Pjgrnjg4jjgIDms6jvvInlh7rlk4HogIXjgYzjg6zjg7zjg5njg6vjga7mmYLjgavoqK3lrprjgZfjgabjgY/jgaDjgZXjgYTjgIInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvZ2Vob2dlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>extra</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>extra</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>relateion</entry>
-        <entry>time</entry>
         <entry>rela</entry>
         <entry>Rela</entry>
         <entry>Cast</entry>
@@ -293,6 +300,8 @@
         <entry>recomme</entry>
         <entry>auction</entry>
         <entry>extra</entry>
+        <entry>active</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
