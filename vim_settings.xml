@@ -24,6 +24,11 @@
         <mark key="^" line="41" column="36" />
         <mark key="." line="41" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/.env" timestamp="1534905335228">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose/app/Dockerfile" timestamp="1534863943429">
         <mark key="'" line="35" column="0" />
       </file>
@@ -137,35 +142,35 @@
         <text encoding="base64">ICAgIGl0ICcubWVzc2FnZXMnIGRvCiAgICAgIGFnZ3JlZ2F0ZV9mYWlsdXJlcyBkbwogICAgICAgIGV4cGVjdChhdWN0aW9uKS50byByZXNwb25kX3RvKDptZXNzYWdlcykKICAgICAgICBleHBlY3QoYXVjdGlvbi5tZXNzYWdlcy5rbGFzcykudG8gZXEgQXVjdGlvbjo6TWVzc2FnZQogICAgICBlbmQKICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">VUlEPTEwMDAK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>let(:auction) { stub_model(Auction) }
 
     it '.related_video' do
       expect(auction).to respond_to(:messages)
     end</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoYXVjdGlvbi5tZXNzYWdlcy5rbGFzcykudG8gZXEgQXVjdGlvbjo6TWVzc2FnZQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoYXVjdGlvbikudG8gcmVzcG9uZF90byg6bWVzc2FnZXMpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgYWdncmVnYXRlX2ZhaWx1cmVzIGRvCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGl0ICcubWVzc2FnZXMnIGRvCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGF1Y3Rpb24pLnRvIHJlc3BvbmRfdG8oOm1lc3NhZ2VzKQo=</text>
+        <text encoding="base64">ICAgIGl0ICcubWVzc2FnZXMnIGRvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
