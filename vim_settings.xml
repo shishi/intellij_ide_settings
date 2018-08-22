@@ -14,13 +14,14 @@
       <file name="/Dummy.txt" timestamp="1534867593221">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" timestamp="1534906605642">
-        <mark key="[" line="124" column="39" />
-        <mark key="]" line="124" column="43" />
-        <mark key="." line="124" column="43" />
-        <mark key="^" line="124" column="43" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" timestamp="1534910968596">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="125" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" timestamp="1534907073649">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" timestamp="1534910430185">
+        <mark key="'" line="68" column="38" />
         <mark key="[" line="60" column="24" />
         <mark key="]" line="60" column="25" />
         <mark key="." line="60" column="25" />
@@ -61,7 +62,7 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" timestamp="1534907119063">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" timestamp="1534910903619">
         <mark key="'" line="6" column="13" />
       </file>
     </filemarks>
@@ -152,6 +153,9 @@
       <jump line="89" column="7" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
       <jump line="100" column="14" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
       <jump line="6" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
+      <jump line="104" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
+      <jump line="100" column="35" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
+      <jump line="68" column="38" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -161,50 +165,50 @@
         <text>注）出品者がレーベルの時に設定してください。',</text>
       </register>
       <register name="/" type="4">
-        <text>Cast</text>
+        <text>json</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICA8ZGl2IGlkPSJyZWFjdC1yZWxhdGVkLWNhc3Qtc2VsZWN0b3IiCiAgICAgICBkYXRhLWNhc3Q9IjwlPSBmLm9iamVjdC5yZWxhdGVkX2Nhc3QmLnRvX3Jlc291cmNlX2hhc2gudG9fanNvbiAlPiIKICAgICAgIGRhdGEtYXM9ImF1Y3Rpb24iPgogIDwvZGl2Pg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICA8ZGl2IGlkPSJyZWFjdC1jYXN0LXNlbGVjdG9yIgogICAgICAgZGF0YS1jYXN0PSI8JT0gZi5vYmplY3QuY2FzdCYudG9fcmVzb3VyY2VfaGFzaC50b19qc29uICU+Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VUlEPTEwMDAK</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgIGRhdGEtY2FzdD0iPCU9IGYub2JqZWN0LmNhc3QmLnRvX3Jlc291cmNlX2hhc2gudG9fanNvbiAlPiIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICA8ZGl2IGlkPSJyZWFjdC1jYXN0LXNlbGVjdG9yIgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">VUlEPTEwMDAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>let(:auction) { stub_model(Auction) }
 
     it '.related_video' do
       expect(auction).to respond_to(:messages)
     end</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoYXVjdGlvbi5tZXNzYWdlcy5rbGFzcykudG8gZXEgQXVjdGlvbjo6TWVzc2FnZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoYXVjdGlvbikudG8gcmVzcG9uZF90byg6bWVzc2FnZXMpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWdncmVnYXRlX2ZhaWx1cmVzIGRvCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0ICcubWVzc2FnZXMnIGRvCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoYXVjdGlvbi5tZXNzYWdlcy5rbGFzcykudG8gZXEgQXVjdGlvbjo6TWVzc2FnZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Cast</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>Cast</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -220,6 +224,7 @@
         <entry>rela</entry>
         <entry>Rela</entry>
         <entry>Cast</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
