@@ -22,6 +22,11 @@
         <mark key="." line="123" column="0" />
         <mark key="^" line="125" column="1" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1534919499775">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" timestamp="1534914218534">
         <mark key="'" line="73" column="37" />
         <mark key="[" line="73" column="46" />
@@ -32,15 +37,8 @@
       <file name="/videos [db]" timestamp="1534914139553">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" timestamp="1534911874405">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" timestamp="1534919762524">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/videos/show.erb" timestamp="1534856955325">
-        <mark key="[" line="41" column="37" />
-        <mark key="k" line="40" column="40" />
-        <mark key="]" line="41" column="36" />
-        <mark key="^" line="41" column="36" />
-        <mark key="." line="41" column="36" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/.env" timestamp="1534905335228">
         <mark key="[" line="4" column="0" />
@@ -60,7 +58,7 @@
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile.lock" timestamp="1534861454286">
         <mark key="'" line="118" column="6" />
       </file>
-      <file name="/auctions [db]" timestamp="1534914272746">
+      <file name="/auctions [db]" timestamp="1534919472186">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/show.erb" timestamp="1534912649653">
@@ -69,8 +67,19 @@
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose/app/Dockerfile" timestamp="1534863943429">
         <mark key="'" line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/application.html.erb" timestamp="1534919292403">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1534866203248">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1534919851837">
+        <mark key="]" line="60" column="20" />
+        <mark key="^" line="60" column="9" />
+        <mark key="." line="60" column="9" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1534913926138">
         <mark key="'" line="317" column="32" />
@@ -83,7 +92,7 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="34" />
       </file>
-      <file name="/dummy.sql" timestamp="1534914675203">
+      <file name="/dummy.sql" timestamp="1534919645965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" timestamp="1534912320295">
@@ -200,13 +209,13 @@
         <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>permi</text>
+        <text>recomme</text>
       </register>
       <register name="0" type="4">
-        <text>const {video, as} = element.dataset;</text>
+        <text encoding="base64">PCUjIOOBiuOBmeOBmeOCgSAlPg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUKIyA9PSBTY2hlbWEgSW5mb3JtYXRpb24KIwojIFRhYmxlIG5hbWU6IGF1Y3Rpb25zCiMKIyAgaWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDppbnRlZ2VyICAgICAgICAgIG5vdCBudWxsLCBwcmltYXJ5IGtleQojICBzdGF0dXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmludGVnZXIgICAgICAgICAgZGVmYXVsdCgiZHJhZnQiKSwgbm90IG51bGwKIyAgc3ViamVjdCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpzdHJpbmcoMjU1KSAgICAgIG5vdCBudWxsCiMgIGxhYmVsX2lkICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6aW50ZWdlcgojICBjYXN0X2lkICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmludGVnZXIKIyAgc3RhcnRpbmdfcHJpY2UgICAgICAgICAgICAgICAgICAgICAgICAgIDppbnRlZ2VyICAgICAgICAgIGRlZmF1bHQoMCksIG5vdCBudWxsCiMgIGNhbmNlbF9hdCjlhaXmnK3jgYzjgarjgYvjgaPjgZ/loLTlkIjjga7jgq3jg6Pjg7Pjgrvjg6vkuojlrprml6XmmYIpICAgICAgICAgIDpkYXRldGltZQojICBwdWJsaXNoX2F0ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmRhdGV0aW1lCiMgIGxpc3RfYXQo5YWl5pyt5Y+v6IO944Gq5Ye65ZOB44Oq44K544OI44Gr5o6y6LyJ44GZ44KL5pel5pmCKSAgICAgICAgICAgICAgOmRhdGV0aW1lCiMgIGZpcnN0X2JhZGVfYXQo5pyA5Yid44Gu5YWl5pyt44GM44GC44Gj44Gf5pel5pmCKSAgICAgICAgICAgICAgOmRhdGV0aW1lCiMgIGVuZF9hdCjlhaXmnK3jgpLntYLkuobjgZnjgovml6XmmYIpICAgICAgICAgICAgICAgICAgICAgICA6ZGF0ZXRpbWUKIyAgZmF2b3JpdGVzX2NvdW50KOOCquODvOOCr+OCt+ODp+ODs+OBruOBiuawl+OBq+WFpeOCiuaVsCkgICAgICAgICAgOmludGVnZXIgICAgICAgICAgZGVmYXVsdCgwKSwgbm90IG51bGwKIyAgcmVsYXRlZF9jYXN0X2lkKOmWoumAo+OCreODo+OCueODiCkgICAgICAgICAgICAgICAgIDppbnRlZ2VyCiMgIHJlbGF0ZWRfdmlkZW9faWQo6Zai6YCj5YuV55S7KSAgICAgICAgICAgICAgICAgIDppbnRlZ2VyCiMgIGNhdGVnb3J5KOOCq+ODhuOCtOODqikgICAgICAgICAgICAgICAgICAgICAgICAgIDppbnRlZ2VyICAgICAgICAgIGRlZmF1bHQoIm5vdHNldCIpLCBub3QgbnVsbAojICBmZWVfcmF0ZSjmiYvmlbDmlpnnjocpICAgICAgICAgICAgICAgICAgICAgICAgICA6ZmxvYXQoMjQpICAgICAgICBkZWZhdWx0KDIwLjApLCBub3QgbnVsbAojICB0aHVtYl9pZCjjgrXjg6Djg43jgqTjg6vnlLvlg4/jg5XjgqHjgqTjg6vorZjliKXlrZApICAgICAgICAgICAgICAgIDpzdHJpbmcoMjU1KSAgICAgIGRlZmF1bHQoIiIpLCBub3QgbnVsbAojICB0aHVtYl9maWxlbmFtZSjjgrXjg6Djg43jgqTjg6vnlLvlg4/jg5XjgqHjgqTjg6vjga7lkI3liY0pICAgICAgICAgIDpzdHJpbmcoMjU1KSAgICAgIGRlZmF1bHQoIiIpLCBub3QgbnVsbAojICB0aHVtYl9jb250ZW50X3R5cGUo44K144Og44ON44Kk44Or55S75YOP44OV44Kh44Kk44Or44GuTUlNReOCv+OCpOODlykgOnN0cmluZygyNTUpICAgICAgZGVmYXVsdCgiIiksIG5vdCBudWxsCiMgIHRodW1iX3NpemUo44K144Og44ON44Kk44Or55S75YOP44OV44Kh44Kk44Or44Gu5a656YePKSAgICAgICAgICAgICAgOmludGVnZXIgICAgICAgICAgZGVmYXVsdCgwKSwgbm90IG51bGwKIyAgY3JlYXRlZF9hdCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpkYXRldGltZSAgICAgICAgIG5vdCBudWxsCiMgIHVwZGF0ZWRfYXQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZGF0ZXRpbWUgICAgICAgICBub3QgbnVsbAojCiMgSW5kZXhlcwojCiMgIGZrX3JhaWxzXzU0YmQwNjExZDkgICAgICAgICAocmVsYXRlZF9jYXN0X2lkKQojICBma19yYWlsc183YTY3YzY1YTBiICAgICAgICAgKHJlbGF0ZWRfdmlkZW9faWQpCiMgIGluZGV4X2F1Y3Rpb25zX29uX2Nhc3RfaWQgICAoY2FzdF9pZCkKIyAgaW5kZXhfYXVjdGlvbnNfb25fbGFiZWxfaWQgIChsYWJlbF9pZCkKIwojIEZvcmVpZ24gS2V5cwojCiMgIGZrX3JhaWxzXy4uLiAg</text>
@@ -240,16 +249,14 @@
       </register>
     </registers>
     <search>
-      <last-search>permi</last-search>
+      <last-search>recomme</last-search>
       <last-offset />
-      <last-pattern>permi</last-pattern>
+      <last-pattern>recomme</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>have</entry>
-        <entry>related</entry>
         <entry>rake</entry>
         <entry>relateion</entry>
         <entry>time</entry>
@@ -268,6 +275,8 @@
         <entry>auction</entry>
         <entry>status</entry>
         <entry>permi</entry>
+        <entry>sideb</entry>
+        <entry>recomme</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
