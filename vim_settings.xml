@@ -36,11 +36,11 @@
         <mark key="." line="294" column="22" />
         <mark key="^" line="247" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/extra_bars_controller.rb" timestamp="1534943555231">
-        <mark key="[" line="26" column="73" />
-        <mark key="]" line="26" column="74" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/extra_bars_controller.rb" timestamp="1534945677347">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
         <mark key="^" line="26" column="79" />
-        <mark key="." line="26" column="74" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/extra_bars/_pickups.erb" timestamp="1534943188600">
         <mark key="[" line="13" column="0" />
@@ -81,8 +81,10 @@
       <file name="/dummy.sql" timestamp="1534943755232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534867593221">
+      <file name="/Dummy.txt" timestamp="1534945719997">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile" timestamp="1534941234339">
         <mark key="'" line="65" column="14" />
@@ -121,12 +123,12 @@
       <file name="/Clipboard.txt" timestamp="1534866203248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1534944352247">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1534945373136">
         <mark key="'" line="62" column="15" />
-        <mark key="[" line="61" column="30" />
-        <mark key="]" line="61" column="30" />
-        <mark key="." line="61" column="30" />
-        <mark key="^" line="76" column="45" />
+        <mark key="[" line="75" column="21" />
+        <mark key="]" line="75" column="21" />
+        <mark key="." line="75" column="21" />
+        <mark key="^" line="75" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -236,7 +238,7 @@
         <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>enum</text>
@@ -247,31 +249,31 @@
     end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgZGVmIHJlbGF0ZV92aWRlb3MKCiAgZW5k</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0ic3RhdHVzIi9wPgo=</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0iIj48JT0gYXVjdGlvbi5zdGFydGluZ19wcmljZSAlPjwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICA8ZGl2IGNsYXNzPSJjYXJkLWV4dHJhIj4KICAgICAgPCUgaXNfZmF2b3JpdGUgPSBBcnJheShAZmF2b3JpdGVfbGlzdF9pZHMpLmluY2x1ZGU/KGxpc3QuaWQpICU+CiAgICAgIDxidXR0b24gZGF0YS1pZD0iPCU9IGxpc3QuaWQgJT4iIGRhdGEtdHlwZT0iPCU9IGxpc3QuY2xhc3MubmFtZSAlPiIKICAgICAgICAgICAgICBjbGFzcz0ibm4tYnV0dG9uIG5uLWZhdm9yaXRlLW1hcmsgYXMtaWNvbiA8JT0gJ2FzLWZhdm9yaXRlZCcgaWYgaXNfZmF2b3JpdGUgJT4iPgogICAgICAgIDxpIGNsYXNzPSJubi1pY29uIG1hdGVyaWFsLWljb25zIj48JT0gaXNfZmF2b3JpdGUgPyAnZmF2b3JpdGUnIDogJ2Zhdm9yaXRlX2JvcmRlcicgJT48L2k+CiAgICAgIDwvYnV0dG9uPgogICAgPC9kaXY+CiAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0ic3RhdHVzIi9wPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBob2dlaG9nZQo=</text>
+        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0iIj48JT0gYXVjdGlvbi5zdGFydGluZ19wcmljZSAlPjwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
