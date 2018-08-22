@@ -12,9 +12,6 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534867593221">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" timestamp="1534912715438">
         <mark key="'" line="119" column="39" />
         <mark key="[" line="123" column="0" />
@@ -27,6 +24,43 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" timestamp="1534919762524">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/extra_bars_controller.rb" timestamp="1534922176492">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1534872286652">
+        <mark key="'" line="1376" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile.lock" timestamp="1534861454286">
+        <mark key="'" line="118" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/show.erb" timestamp="1534912649653">
+        <mark key="'" line="53" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/application.html.erb" timestamp="1534919292403">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1534921634507">
+        <mark key="'" line="51" column="33" />
+        <mark key="[" line="117" column="13" />
+        <mark key="]" line="112" column="15" />
+        <mark key="^" line="112" column="15" />
+        <mark key="." line="112" column="15" />
+      </file>
+      <file name="/dummy.sql" timestamp="1534919645965">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1534867593221">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" timestamp="1534914218534">
         <mark key="'" line="73" column="37" />
         <mark key="[" line="73" column="46" />
@@ -36,9 +70,6 @@
       </file>
       <file name="/videos [db]" timestamp="1534914139553">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" timestamp="1534919762524">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/.env" timestamp="1534905335228">
         <mark key="[" line="4" column="0" />
@@ -52,48 +83,24 @@
         <mark key="^" line="91" column="149" />
         <mark key="." line="91" column="149" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1534872286652">
-        <mark key="'" line="1376" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile.lock" timestamp="1534861454286">
-        <mark key="'" line="118" column="6" />
+      <file name="$APPLICATION_HOME_DIR$/lib/rubymine.jar!/resources/html5-schema/html5/block.rnc" timestamp="1534921844903">
+        <mark key="'" line="244" column="16" />
       </file>
       <file name="/auctions [db]" timestamp="1534919472186">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/show.erb" timestamp="1534912649653">
-        <mark key="'" line="53" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose/app/Dockerfile" timestamp="1534863943429">
         <mark key="'" line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/application.html.erb" timestamp="1534919292403">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="65" column="0" />
       </file>
       <file name="/Clipboard.txt" timestamp="1534866203248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1534919851837">
-        <mark key="]" line="60" column="20" />
-        <mark key="^" line="60" column="9" />
-        <mark key="." line="60" column="9" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1534913926138">
-        <mark key="'" line="317" column="32" />
-        <mark key="[" line="117" column="13" />
-        <mark key="]" line="112" column="15" />
-        <mark key="^" line="112" column="15" />
-        <mark key="." line="112" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose.yml" timestamp="1534865219213">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="34" />
-      </file>
-      <file name="/dummy.sql" timestamp="1534919645965">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1534921874974">
+        <mark key="'" line="75" column="21" />
+        <mark key="[" line="65" column="29" />
+        <mark key="]" line="65" column="29" />
+        <mark key="^" line="75" column="21" />
+        <mark key="." line="65" column="29" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" timestamp="1534912320295">
         <mark key="'" line="37" column="7" />
@@ -103,9 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1462" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
-      <jump line="1463" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
-      <jump line="1467" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
       <jump line="1468" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
       <jump line="1472" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
       <jump line="1473" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" />
@@ -203,16 +207,19 @@
       <jump line="84" column="5" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
       <jump line="73" column="37" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/nanairo_webmaster/auctions_controller.rb" />
+      <jump line="51" column="33" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
+      <jump line="74" column="21" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
+      <jump line="244" column="16" filename="$APPLICATION_HOME_DIR$/lib/rubymine.jar!/resources/html5-schema/html5/block.rnc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>recomme</text>
+        <text>auction</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PCUjIOOBiuOBmeOBmeOCgSAlPg==</text>
@@ -249,9 +256,9 @@
       </register>
     </registers>
     <search>
-      <last-search>recomme</last-search>
+      <last-search>auction</last-search>
       <last-offset />
-      <last-pattern>recomme</last-pattern>
+      <last-pattern>auction</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -272,11 +279,11 @@
         <entry>form_</entry>
         <entry>cast</entry>
         <entry>auc</entry>
-        <entry>auction</entry>
         <entry>status</entry>
         <entry>permi</entry>
         <entry>sideb</entry>
         <entry>recomme</entry>
+        <entry>auction</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
@@ -340,7 +347,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
