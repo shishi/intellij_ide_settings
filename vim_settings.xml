@@ -12,11 +12,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" timestamp="1535097349013">
-        <mark key="[" line="127" column="39" />
-        <mark key="]" line="127" column="43" />
-        <mark key="." line="127" column="43" />
-        <mark key="^" line="127" column="43" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" timestamp="1535098889687">
+        <mark key="[" line="128" column="10" />
+        <mark key="]" line="128" column="14" />
+        <mark key="." line="128" column="14" />
+        <mark key="^" line="128" column="14" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/views/defaults/ja.yml" timestamp="1535077584735">
         <mark key="[" line="104" column="9" />
@@ -46,6 +46,7 @@
         <mark key="." line="294" column="98" />
         <mark key="^" line="294" column="98" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/casts/_form.html.erb" timestamp="1535098024806" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/extra_bars/_related_auctions.erb" timestamp="1535078773873" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/extra_bars_controller.rb" timestamp="1535081221304">
         <mark key="[" line="33" column="68" />
@@ -53,27 +54,11 @@
         <mark key="^" line="24" column="37" />
         <mark key="." line="33" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/extra_bars/_pickups.erb" timestamp="1534943188600">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="20" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1534872286652">
-        <mark key="'" line="1376" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile.lock" timestamp="1534861454286">
-        <mark key="'" line="118" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/extra_bars/_relate_auctions.erb" timestamp="1534943304216">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="33" />
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" timestamp="1534929623541">
-        <mark key="'" line="17" column="57" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/show.erb" timestamp="1534912649653">
-        <mark key="'" line="53" column="24" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/application.html.erb" timestamp="1534919292403">
         <mark key="[" line="65" column="0" />
@@ -95,9 +80,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile" timestamp="1534941234339">
-        <mark key="'" line="65" column="14" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" timestamp="1534914218534">
         <mark key="'" line="73" column="37" />
@@ -122,24 +104,19 @@
         <mark key="^" line="91" column="149" />
         <mark key="." line="91" column="149" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/lib/rubymine.jar!/resources/html5-schema/html5/block.rnc" timestamp="1534921844903">
-        <mark key="'" line="244" column="16" />
-      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/video_selector.js" timestamp="1535098056404" />
       <file name="/auctions [db]" timestamp="1534943754914">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose/app/Dockerfile" timestamp="1534863943429">
-        <mark key="'" line="35" column="0" />
       </file>
       <file name="/Clipboard.txt" timestamp="1534866203248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1535097086370">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1535099120395">
         <mark key="'" line="61" column="40" />
-        <mark key="[" line="77" column="48" />
-        <mark key="]" line="77" column="48" />
-        <mark key="." line="77" column="48" />
-        <mark key="^" line="77" column="47" />
+        <mark key="[" line="77" column="41" />
+        <mark key="]" line="77" column="41" />
+        <mark key="." line="77" column="41" />
+        <mark key="^" line="77" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -252,7 +229,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>cast</text>
       </register>
       <register name="/" type="4">
         <text>enum</text>
@@ -261,34 +238,34 @@
         <text encoding="base64">PCU9IGYub2JqZWN0LnJlbGF0ZWRfY2FzdCYudG9fcmVzb3VyY2VfaGFzaC50b19qc29uICU+Ig==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8ZGl2IGlkPSJyZWFjdC12aWRlby1zZWxlY3RvciIKICAgICAgIGRhdGEtY2FzdD0iPCU9IGYub2JqZWN0LnJlbGF0ZWRfdmlkZW8mLnRvX3Jlc291cmNlX2hhc2gudG9fanNvbiAlPiIKICAgICAgIGRhdGEtYXM9ImF1Y3Rpb24iPgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJyZWFjdC12aWRlby1zZWxlY3RvciIKICAgICAgIGRhdGEtY2FzdD0iPCU9IGYub2JqZWN0LnJlbGF0ZWRfdmlkZW8mLnRvX3Jlc291cmNlX2hhc2gudG9fanNvbiAlPiIKICAgICAgIGRhdGEtYXM9ImF1Y3Rpb24iCiAgICAgICBkYXRhLW5hbWU9InJlbGF0ZWRfdmlkZW9faWQiCiAgICAgICBkYXRhLWxhYmVsLXRleHQ9IumWoumAo+WLleeUuyI+CiAgPC9kaXY+</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICA8ZGl2IGlkPSJyZWFjdC12aWRlby1zZWxlY3RvciIKICAgICAgIGRhdGEtY2FzdD0iPCU9IGYub2JqZWN0LnJlbGF0ZWRfdmlkZW8mLnRvX3Jlc291cmNlX2hhc2gudG9fanNvbiAlPiIKICAgICAgIGRhdGEtYXM9ImF1Y3Rpb24iPgogIDwvZGl2Pgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHJldHVybiBpZiBAcmVsYXRlZF92aWRlby5ibGFuaz8K</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHJldHVybiBpZiBAcmVsYXRlZF9hdWN0aW9ucy5ibGFuaz8K</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>ja</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>''</text>
       </register>
-      <register name="7" type="4">
-        <text>ja</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">PCUgZWRkbmQgJT4K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDwlPSBsaW5rX3RvIGF1Y3Rpb25fcGF0aChhdWN0aW9uKSwgc3R5bGU6ICd0ZXh0LWRlY29yYXRpb246IG5vbmU7JyBkbyAlPgo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -327,8 +304,8 @@
         <entry>q</entry>
         <entry>set smartcase</entry>
         <entry>action</entry>
-        <entry>action Find</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
