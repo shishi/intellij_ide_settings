@@ -36,7 +36,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1535081324564">
+      <file name="/Ruby Console" timestamp="1535346321395">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" timestamp="1535078274742">
@@ -46,8 +46,6 @@
         <mark key="." line="294" column="98" />
         <mark key="^" line="294" column="98" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/casts/_form.html.erb" timestamp="1535098024806" />
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/extra_bars/_related_auctions.erb" timestamp="1535078773873" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/extra_bars_controller.rb" timestamp="1535081221304">
         <mark key="[" line="33" column="68" />
         <mark key="]" line="33" column="68" />
@@ -95,6 +93,7 @@
         <mark key="." line="0" column="41" />
         <mark key="o" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/system/user/signup_spec.rb" timestamp="1535346256776" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" timestamp="1534914218534">
         <mark key="'" line="73" column="37" />
         <mark key="[" line="73" column="46" />
@@ -118,7 +117,11 @@
         <mark key="^" line="91" column="149" />
         <mark key="." line="91" column="149" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/video_selector.js" timestamp="1535098056404" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/system/user/auction_spec.rb" timestamp="1535346301085">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/auctions/show.erb" timestamp="1535117065057">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -249,7 +252,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>Signup</text>
       </register>
       <register name="/" type="4">
         <text>enum</text>
@@ -258,34 +261,34 @@
         <text encoding="base64">PCU9IGYub2JqZWN0LnJlbGF0ZWRfY2FzdCYudG9fcmVzb3VyY2VfaGFzaC50b19qc29uICU+Ig==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPCUgZW5kICU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPCUgaWYgJT4K</text>
+        <text encoding="base64">ICAgICAgPCUgZW5kICU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICAgICAgPCUgaWYgJT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8JSBpZiBAYXVjdGlvbi5wcmVzZW50PyAmJiBjdXJyZW50X3BhZ2U/KGF1Y3Rpb25fcGF0aChAYXVjdGlvbikpICU+Cg==</text>
+        <text encoding="base64">ICA8JSBlbmQgJT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8JSBpZiBAYXVjdGlvbi5wcmVzZW50PyAmJiBjdXJyZW50X3BhZ2U/KGF1Y3Rpb25fcGF0aChAYXVjdGlvbikpICU+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlIyDplqLpgKPjgqrjg7zjgq/jgrfjg6fjg7MgJT4KICAgICAgICAgIDwlIGlmIHBhcmFtc1s6bGFuZ3VhZ2VdID09ICdqYScgJiYgQHZpZGVvLnByZXNlbnQ/ICYmIGN1cnJlbnRfcGFnZT8odmlkZW9fcGF0aChAdmlkZW8pKSAlPgogICAgICAgICAgICA8JSBpZiBAdmlkZW8uYXVjdGlvbnMuYWN0aXZlLnByZXNlbnQ/ICU+CiAgICAgICAgICAgICAgPHNlY3Rpb24gY2xhc3M9Im5uLWNhcmQtbGlzdCBhcy1saXN0IHdpdGgtdG9wLWJvcmRlciBleHRyYS1iYXItcmVjb21tZW5kYXRpb25zIj4KICAgICAgICAgICAgICAgIDxoMiBjbGFzcz0ibm4tY2FyZCBzZWN0aW9uLXRpdGxlIG5vLWFjdGlvbi1jYXJkIj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibm4tY2FyZC1pbm5lciI+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9ImxpbmUtaGVpZ2h0OiA0OHB4OyI+PCU9IHQoJ3JlbGF0ZWRfYXVjdGlvbnMnKSAlPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2gyPgoKICAgICAgICAgICAgICAgIDwlPSByZW5kZXJfYXN5bmMgZXh0cmFfYmFyc19yZWxhdGVkX2F1Y3Rpb25zX3BhdGgodmlkZW9faWQ6IEB2aWRlby5pZCksIGV2ZW50X25hbWU6ICdleHRyYS1iYXItcmVsYXRlZC1hdWN0aW9ucyclPgogICAgICAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgICAgICAgPCUgZW5kICU+CiAgICAgICAgICA8JSBlbmQgJT4KCgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlIyDjgYrjgZnjgZnjgoEgJT4K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwlIyDplqLpgKPjgqrjg7zjgq/jgrfjg6fjg7MgJT4KICAgICAgICAgIDwlIGlmIHBhcmFtc1s6bGFuZ3VhZ2VdID09ICdqYScgJiYgQHZpZGVvLnByZXNlbnQ/ICYmIGN1cnJlbnRfcGFnZT8odmlkZW9fcGF0aChAdmlkZW8pKSAlPgogICAgICAgICAgICA8JSBpZiBAdmlkZW8uYXVjdGlvbnMuYWN0aXZlLnByZXNlbnQ/ICU+CiAgICAgICAgICAgICAgPHNlY3Rpb24gY2xhc3M9Im5uLWNhcmQtbGlzdCBhcy1saXN0IHdpdGgtdG9wLWJvcmRlciBleHRyYS1iYXItcmVjb21tZW5kYXRpb25zIj4KICAgICAgICAgICAgICAgIDxoMiBjbGFzcz0ibm4tY2FyZCBzZWN0aW9uLXRpdGxlIG5vLWFjdGlvbi1jYXJkIj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibm4tY2FyZC1pbm5lciI+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9ImxpbmUtaGVpZ2h0OiA0OHB4OyI+PCU9IHQoJ3JlbGF0ZWRfYXVjdGlvbnMnKSAlPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2gyPgoKICAgICAgICAgICAgICAgIDwlPSByZW5kZXJfYXN5bmMgZXh0cmFfYmFyc19yZWxhdGVkX2F1Y3Rpb25zX3BhdGgodmlkZW9faWQ6IEB2aWRlby5pZCksIGV2ZW50X25hbWU6ICdleHRyYS1iYXItcmVsYXRlZC1hdWN0aW9ucyclPgogICAgICAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgICAgICAgPCUgZW5kICU+CiAgICAgICAgICA8JSBlbmQgJT4KCgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwlIyDjgYrjgZnjgZnjgoEgJT4K</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -293,7 +296,7 @@
       <last-offset />
       <last-pattern>enum</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -324,8 +327,8 @@
         <entry>q</entry>
         <entry>set smartcase</entry>
         <entry>action</entry>
-        <entry>action Find</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
