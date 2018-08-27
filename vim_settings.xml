@@ -95,15 +95,16 @@
         <mark key="o" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/support/session_helper.rb" timestamp="1535355270655">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-        <mark key="^" line="8" column="20" />
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/user/auctions_spec.rb" timestamp="1535355595598">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/user/auctions_spec.rb" timestamp="1535356839259">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="70" column="24" />
+        <mark key="^" line="70" column="24" />
+        <mark key="." line="70" column="24" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" timestamp="1534914218534">
         <mark key="'" line="73" column="37" />
@@ -280,40 +281,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>enum</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PCU9IGYub2JqZWN0LnJlbGF0ZWRfY2FzdCYudG9fcmVzb3VyY2VfaGFzaC50b19qc29uICU+Ig==</text>
+        <text encoding="base64">ICAgICAgaXNfZXhwZWN0ZWQudG8gaGF2ZV9odHRwX3N0YXR1cygyMDApCiAgICAgIGV4cGVjdChwYWdlLmJvZHkpLm5vdF90byBpbmNsdWRlICflhaXmnK3lsaXmrbQn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2F2ZV9hbmRfb3Blbl9wYWdlCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDp1c2VyKSB7IEZhY3RvcnlCb3QuY3JlYXRlKDp1c2VyKX0KICAgICAgbGV0KDp2aWRlbykgeyBGYWN0b3J5Qm90LmNyZWF0ZSg6dmlkZW8sIDphY3RpdmUpIH0KICAgICAgbGV0KDphdWN0aW9uKSB7IEZhY3RvcnlCb3QuY3JlYXRlKDphdWN0aW9uLCA6c2NoZWR1bGVkLCByZWxhdGVkX3ZpZGVvX2lkOiB2aWRlby5pZCkgfQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZml4dHVyZXMgOnZpZGVvCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc2F2ZV9hbmRfb3Blbl9wYWdlCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGVfY29udGV4dCAn44Om44O844K26KqN6Ki85riI44G/Jwo=</text>
+        <text encoding="base64">ICAgICAgbGV0KDp1c2VyKSB7IEZhY3RvcnlCb3QuY3JlYXRlKDp1c2VyKX0KICAgICAgbGV0KDp2aWRlbykgeyBGYWN0b3J5Qm90LmNyZWF0ZSg6dmlkZW8sIDphY3RpdmUpIH0KICAgICAgbGV0KDphdWN0aW9uKSB7IEZhY3RvcnlCb3QuY3JlYXRlKDphdWN0aW9uLCA6c2NoZWR1bGVkLCByZWxhdGVkX3ZpZGVvX2lkOiB2aWRlby5pZCkgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPCUgZW5kICU+Cg==</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVfY29udGV4dCAn44Om44O844K26KqN6Ki85riI44G/Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPCUgaWYgJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICAgICAgPCUgZW5kICU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8JSBpZiBAYXVjdGlvbi5wcmVzZW50PyAmJiBjdXJyZW50X3BhZ2U/KGF1Y3Rpb25fcGF0aChAYXVjdGlvbikpICU+Cg==</text>
+        <text encoding="base64">ICAgICAgPCUgaWYgJT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
