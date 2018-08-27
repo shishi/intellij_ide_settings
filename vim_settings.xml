@@ -72,10 +72,12 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" timestamp="1535371309602">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="39" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" timestamp="1535372929990">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1535122096601">
         <mark key="'" line="119" column="2" />
@@ -85,9 +87,9 @@
         <mark key="^" line="93" column="28" />
         <mark key="." line="93" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/videos/_extra_bar.erb" timestamp="1535363421973">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/videos/_extra_bar.erb" timestamp="1535373011315">
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="56" column="1" />
         <mark key="^" line="82" column="5" />
         <mark key="." line="70" column="0" />
       </file>
@@ -100,7 +102,7 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535354243103">
+      <file name="/Dummy.txt" timestamp="1535372131503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="41" />
@@ -186,53 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="35" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
-      <jump line="68" column="38" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
-      <jump line="105" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" />
-      <jump line="57" column="12" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
-      <jump line="29" column="3" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
-      <jump line="94" column="50" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
-      <jump line="104" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
-      <jump line="103" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
-      <jump line="95" column="1" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
-      <jump line="37" column="7" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_cast_selector.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/show.erb" />
-      <jump line="53" column="24" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/show.erb" />
-      <jump line="57" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" />
-      <jump line="124" column="12" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" />
-      <jump line="113" column="17" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" />
-      <jump line="114" column="31" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" />
-      <jump line="118" column="25" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" />
-      <jump line="119" column="39" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" />
-      <jump line="317" column="32" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
-      <jump line="84" column="5" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
-      <jump line="73" column="37" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/nanairo_webmaster/auctions_controller.rb" />
-      <jump line="51" column="33" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
-      <jump line="74" column="21" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="244" column="16" filename="$APPLICATION_HOME_DIR$/lib/rubymine.jar!/resources/html5-schema/html5/block.rnc" />
-      <jump line="63" column="16" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="64" column="22" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="247" column="16" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" />
-      <jump line="54" column="85" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" />
-      <jump line="17" column="57" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile" />
-      <jump line="65" column="14" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/Gemfile" />
-      <jump line="70" column="16" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="69" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="62" column="43" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="60" column="10" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="59" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="55" column="4" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="51" column="8" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="50" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="49" column="37" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="47" column="4" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
@@ -286,6 +241,53 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/videos/_extra_bar.erb" />
       <jump line="81" column="3" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/videos/_extra_bar.erb" />
       <jump line="79" column="10" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/videos/_extra_bar.erb" />
+      <jump line="224" column="9" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="228" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="229" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="222" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="220" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="218" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="216" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="213" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="207" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="205" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="203" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="201" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="197" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="190" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="188" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="184" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="181" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="173" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="170" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="166" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="139" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="156" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="106" column="19" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="223" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="4" column="4" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="14" column="31" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="226" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="7" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="18" column="6" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="19" column="4" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="31" column="8" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="32" column="6" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="33" column="4" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="34" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="48" column="8" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="42" column="8" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="43" column="40" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="50" column="57" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="41" column="8" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="37" column="42" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -298,10 +300,10 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>enum</text>
+        <text encoding="base64">XDxhdWN0aW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICA8JSBjb250ZW50X2ZvciA6ZXh0cmFfYmFyIGRvICU+CiAgICA8JSBpZiBjdXJyZW50X3VzZXIudmlkZW9fcGxhbi50aW1lcl91bmxpbWl0ZWQ/ICU+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PCUgZW5kICU+CiAg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXNfZXhwZWN0ZWQudG8gaW5jbHVkZSAn6Zai6YCj5YuV55S7Jwo=</text>
@@ -331,20 +333,20 @@
         <text encoding="base64">ICAgIGxvZGRnaW4oKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action MethodUp</text>
       </register>
     </registers>
     <search>
-      <last-search>enum</last-search>
+      <last-search encoding="base64">XDxhdWN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>enum</last-pattern>
+      <last-pattern encoding="base64">XDxhdWN0aW9uXD4=</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxhdWN0aW9uXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Rela</entry>
-        <entry>Cast</entry>
         <entry>json</entry>
         <entry>panel</entry>
         <entry>webmas</entry>
@@ -363,6 +365,8 @@
         <entry>active</entry>
         <entry>image</entry>
         <entry>enum</entry>
+        <entry encoding="base64">XDxlbmRcPg==</entry>
+        <entry encoding="base64">XDxhdWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
@@ -373,7 +377,12 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>W</entry>
+        <entry>action GotoPreviousError</entry>
+        <entry>action MoveCaret</entry>
+        <entry>action MoveCaretTo</entry>
+        <entry>action MethodDown</entry>
         <entry>action Find</entry>
+        <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -433,7 +442,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -448,7 +457,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
