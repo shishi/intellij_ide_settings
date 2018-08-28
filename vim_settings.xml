@@ -6,11 +6,7 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1535118008554">
-        <mark key="'" line="421" column="0" />
-        <mark key="[" line="55" column="112" />
-        <mark key="]" line="55" column="120" />
-        <mark key="." line="55" column="120" />
-        <mark key="^" line="55" column="120" />
+        <mark key="'" line="431" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" timestamp="1535098889687">
         <mark key="[" line="128" column="10" />
@@ -59,7 +55,11 @@
         <mark key="^" line="24" column="37" />
         <mark key="." line="33" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/shared/contexts/login.rb" timestamp="1535348508050" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1535420673429">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/extra_bars/_relate_auctions.erb" timestamp="1534943304216">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="33" />
@@ -102,7 +102,7 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535372131503">
+      <file name="/Dummy.txt" timestamp="1535420974038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="41" />
@@ -161,12 +161,9 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/factories/auctions.rb" timestamp="1535359849835" />
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/fixtures/users.yml" timestamp="1535355010175" />
       <file name="/auctions [db]" timestamp="1535354374156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/user/auctions/bids_spec.rb" timestamp="1535356978829" />
       <file name="/users [db]" timestamp="1535354366355">
         <mark key="[" line="0" column="0" />
       </file>
@@ -186,9 +183,15 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="77" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1535420500659">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="204" column="37" />
+        <mark key="]" line="204" column="49" />
+        <mark key="." line="204" column="49" />
+        <mark key="^" line="204" column="49" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="49" column="37" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="47" column="4" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
@@ -288,6 +291,7 @@
       <jump line="11" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
+      <jump line="34" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -297,7 +301,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
@@ -306,34 +310,34 @@
         <text encoding="base64">PCUgZW5kICU+CiAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNfZXhwZWN0ZWQudG8gaW5jbHVkZSAn6Zai6YCj5YuV55S7Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlzX2V4cGVjdGVkLnRvIGluY2x1ZGUgJ25hbWU9ImF1Y3Rpb25bcmVsYXRlZF92aWRlb19pZF0iJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNfZXhwZWN0ZWQudG8gaW5jbHVkZSAn6Zai6YCj5YuV55S7Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpdCAncmVsYXRlZCBhdWN0aW9ucycgZG8KICAgIHZpZGVvID0gRmFjdG9yeUJvdC5jcmVhdGUoOnZpZGVvLCA6YWN0aXZlKQogICAgMi50aW1lcyBkbwogICAgICBhdWN0aW9uID0gRmFjdG9yeUJvdC5jcmVhdGUoOnN0YXJ0ZWRfYXVjdGlvbikKICAgICAgYXVjdGlvbi5yZWxhdGVkX3ZpZGVvID0gdmlkZW8KICAgICAgYXVjdGlvbi5zYXZlCiAgICBlbmQKCiAgICBnZXQgdmlkZW9fcGF0aChpZDogdmlkZW8uaWQsIGxhbmd1YWdlOiAnamEnKQogICAgZXhwZWN0KHJlc3BvbnNlKS50byBoYXZlX2h0dHBfc3RhdHVzKDIwMCkKICAgIGV4cGVjdChyZXNwb25zZS5ib2R5KS50byBpbmNsdWRlICfplqLpgKPjgqrjg7zjgq/jgrfjg6fjg7MnCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlzX2V4cGVjdGVkLnRvIGluY2x1ZGUgJ25hbWU9ImF1Y3Rpb25bcmVsYXRlZF92aWRlb19pZF0iJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbmQKZW5kCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICBpdCAncmVsYXRlZCBhdWN0aW9ucycgZG8KICAgIHZpZGVvID0gRmFjdG9yeUJvdC5jcmVhdGUoOnZpZGVvLCA6YWN0aXZlKQogICAgMi50aW1lcyBkbwogICAgICBhdWN0aW9uID0gRmFjdG9yeUJvdC5jcmVhdGUoOnN0YXJ0ZWRfYXVjdGlvbikKICAgICAgYXVjdGlvbi5yZWxhdGVkX3ZpZGVvID0gdmlkZW8KICAgICAgYXVjdGlvbi5zYXZlCiAgICBlbmQKCiAgICBnZXQgdmlkZW9fcGF0aChpZDogdmlkZW8uaWQsIGxhbmd1YWdlOiAnamEnKQogICAgZXhwZWN0KHJlc3BvbnNlKS50byBoYXZlX2h0dHBfc3RhdHVzKDIwMCkKICAgIGV4cGVjdChyZXNwb25zZS5ib2R5KS50byBpbmNsdWRlICfplqLpgKPjgqrjg7zjgq/jgrfjg6fjg7MnCiAgZW5kCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBlbmQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZGRnaW4oKQo=</text>
+        <text encoding="base64">ICBlbmQKZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action VcsShowNextChangeMarker</text>
       </register>
     </registers>
     <search>
@@ -343,7 +347,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdWN0aW9uXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -383,6 +387,7 @@
         <entry>action MethodDown</entry>
         <entry>action Find</entry>
         <entry>action MethodUp</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
       </history-cmd>
       <history-expr />
       <history-input />
