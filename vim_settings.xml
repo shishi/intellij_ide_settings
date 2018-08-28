@@ -5,8 +5,8 @@
       <mark key="M" line="112" column="26" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1535118008554">
-        <mark key="'" line="431" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1535444500209">
+        <mark key="'" line="219" column="24" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" timestamp="1535098889687">
         <mark key="[" line="128" column="10" />
@@ -42,6 +42,12 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/base_job.rb" timestamp="1535445269721">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" timestamp="1535078274742">
         <mark key="'" line="247" column="16" />
         <mark key="[" line="295" column="60" />
@@ -65,6 +71,10 @@
         <mark key="]" line="16" column="33" />
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/schedule.rb" timestamp="1535446292870">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/application.html.erb" timestamp="1534919292403">
         <mark key="[" line="65" column="0" />
@@ -96,7 +106,8 @@
       <file name="/dummy.sql" timestamp="1535354376763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction/trade.rb" timestamp="1535103884689">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction/trade.rb" timestamp="1535444627605">
+        <mark key="'" line="60" column="13" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="^" line="58" column="0" />
@@ -192,8 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="37" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="47" column="4" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="45" column="4" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
@@ -292,6 +301,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
       <jump line="34" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" />
+      <jump line="219" column="24" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" />
+      <jump line="60" column="13" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction/trade.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -307,7 +318,7 @@
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PCUgZW5kICU+CiAg</text>
+        <text>https://github.com/takeyuweb/kyklos</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -337,7 +348,7 @@
         <text encoding="base64">ICBlbmQKZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action VcsShowNextChangeMarker</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -385,9 +396,9 @@
         <entry>action MoveCaret</entry>
         <entry>action MoveCaretTo</entry>
         <entry>action MethodDown</entry>
-        <entry>action Find</entry>
         <entry>action MethodUp</entry>
         <entry>action VcsShowNextChangeMarker</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
