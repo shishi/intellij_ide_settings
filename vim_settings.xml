@@ -5,8 +5,12 @@
       <mark key="M" line="112" column="26" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1535444500209">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1535949503316">
         <mark key="'" line="219" column="24" />
+        <mark key="[" line="150" column="52" />
+        <mark key="]" line="150" column="53" />
+        <mark key="." line="150" column="53" />
+        <mark key="^" line="150" column="53" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" timestamp="1535098889687">
         <mark key="[" line="128" column="10" />
@@ -312,7 +316,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>1.day</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
@@ -321,31 +325,31 @@
         <text>https://github.com/takeyuweb/kyklos</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVuZF9hdCA9IGZpcnN0X2JhZGVfYXQgKyAxLmRheQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNfZXhwZWN0ZWQudG8gaW5jbHVkZSAn6Zai6YCj5YuV55S7Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNfZXhwZWN0ZWQudG8gaW5jbHVkZSAn6Zai6YCj5YuV55S7Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlzX2V4cGVjdGVkLnRvIGluY2x1ZGUgJ25hbWU9ImF1Y3Rpb25bcmVsYXRlZF92aWRlb19pZF0iJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlzX2V4cGVjdGVkLnRvIGluY2x1ZGUgJ25hbWU9ImF1Y3Rpb25bcmVsYXRlZF92aWRlb19pZF0iJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpdCAncmVsYXRlZCBhdWN0aW9ucycgZG8KICAgIHZpZGVvID0gRmFjdG9yeUJvdC5jcmVhdGUoOnZpZGVvLCA6YWN0aXZlKQogICAgMi50aW1lcyBkbwogICAgICBhdWN0aW9uID0gRmFjdG9yeUJvdC5jcmVhdGUoOnN0YXJ0ZWRfYXVjdGlvbikKICAgICAgYXVjdGlvbi5yZWxhdGVkX3ZpZGVvID0gdmlkZW8KICAgICAgYXVjdGlvbi5zYXZlCiAgICBlbmQKCiAgICBnZXQgdmlkZW9fcGF0aChpZDogdmlkZW8uaWQsIGxhbmd1YWdlOiAnamEnKQogICAgZXhwZWN0KHJlc3BvbnNlKS50byBoYXZlX2h0dHBfc3RhdHVzKDIwMCkKICAgIGV4cGVjdChyZXNwb25zZS5ib2R5KS50byBpbmNsdWRlICfplqLpgKPjgqrjg7zjgq/jgrfjg6fjg7MnCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICBpdCAncmVsYXRlZCBhdWN0aW9ucycgZG8KICAgIHZpZGVvID0gRmFjdG9yeUJvdC5jcmVhdGUoOnZpZGVvLCA6YWN0aXZlKQogICAgMi50aW1lcyBkbwogICAgICBhdWN0aW9uID0gRmFjdG9yeUJvdC5jcmVhdGUoOnN0YXJ0ZWRfYXVjdGlvbikKICAgICAgYXVjdGlvbi5yZWxhdGVkX3ZpZGVvID0gdmlkZW8KICAgICAgYXVjdGlvbi5zYXZlCiAgICBlbmQKCiAgICBnZXQgdmlkZW9fcGF0aChpZDogdmlkZW8uaWQsIGxhbmd1YWdlOiAnamEnKQogICAgZXhwZWN0KHJlc3BvbnNlKS50byBoYXZlX2h0dHBfc3RhdHVzKDIwMCkKICAgIGV4cGVjdChyZXNwb25zZS5ib2R5KS50byBpbmNsdWRlICfplqLpgKPjgqrjg7zjgq/jgrfjg6fjg7MnCiAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbmQKZW5kCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
