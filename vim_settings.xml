@@ -5,9 +5,9 @@
       <mark key="M" line="112" column="26" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1535956982851">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1535963015900">
         <mark key="'" line="413" column="6" />
-        <mark key="[" line="424" column="19" />
+        <mark key="[" line="274" column="68" />
         <mark key="]" line="424" column="33" />
         <mark key="." line="424" column="33" />
         <mark key="^" line="424" column="33" />
@@ -211,8 +211,8 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="77" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1535420500659">
-        <mark key="'" line="34" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1535962855962">
+        <mark key="'" line="199" column="0" />
         <mark key="[" line="204" column="37" />
         <mark key="]" line="204" column="49" />
         <mark key="." line="204" column="49" />
@@ -220,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="10" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="29" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="28" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="6" column="69" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
@@ -320,6 +319,7 @@
       <jump line="411" column="17" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" />
       <jump line="413" column="6" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" />
+      <jump line="199" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
