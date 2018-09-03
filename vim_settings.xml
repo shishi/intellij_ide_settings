@@ -5,12 +5,12 @@
       <mark key="M" line="112" column="26" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1535963015900">
-        <mark key="'" line="413" column="6" />
-        <mark key="[" line="274" column="68" />
-        <mark key="]" line="424" column="33" />
-        <mark key="." line="424" column="33" />
-        <mark key="^" line="424" column="33" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1535964120673">
+        <mark key="'" line="414" column="6" />
+        <mark key="[" line="148" column="37" />
+        <mark key="]" line="148" column="44" />
+        <mark key="." line="148" column="44" />
+        <mark key="^" line="148" column="44" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" timestamp="1535957474796">
         <mark key="[" line="56" column="0" />
@@ -36,7 +36,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1535359650565">
+      <file name="/Ruby Console" timestamp="1535963838430">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/user/videos_spec.rb" timestamp="1535363721069">
@@ -70,6 +70,7 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="/auction.rb" timestamp="1535964284103" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/extra_bars/_relate_auctions.erb" timestamp="1534943304216">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="33" />
@@ -136,6 +137,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="20" />
+      </file>
+      <file name="/fragment.rb" timestamp="1535963191106">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/user/auctions_spec.rb" timestamp="1535360719581">
         <mark key="[" line="66" column="0" />
@@ -211,8 +215,8 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="77" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1535962855962">
-        <mark key="'" line="199" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1535964424540">
+        <mark key="'" line="468" column="0" />
         <mark key="[" line="204" column="37" />
         <mark key="]" line="204" column="49" />
         <mark key="." line="204" column="49" />
@@ -220,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="28" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="6" column="69" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="5" column="36" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
@@ -320,6 +323,7 @@
       <jump line="37" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" />
       <jump line="413" column="6" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" />
       <jump line="199" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" />
+      <jump line="468" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -365,7 +369,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaXNfZXhwZWN0ZWQudG8gaW5jbHVkZSAn6Zai6YCj5YuV55S7Jwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -414,8 +418,8 @@
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
         <entry>action VcsShowNextChangeMarker</entry>
-        <entry>w</entry>
         <entry>action Find</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
