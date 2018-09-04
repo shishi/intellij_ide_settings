@@ -5,12 +5,12 @@
       <mark key="M" line="112" column="26" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1535966305138">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1536035023688">
         <mark key="'" line="305" column="4" />
-        <mark key="[" line="374" column="16" />
-        <mark key="]" line="374" column="29" />
-        <mark key="." line="374" column="29" />
-        <mark key="^" line="374" column="29" />
+        <mark key="[" line="422" column="28" />
+        <mark key="]" line="422" column="27" />
+        <mark key="." line="422" column="27" />
+        <mark key="^" line="422" column="27" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" timestamp="1535957474796">
         <mark key="[" line="56" column="0" />
@@ -36,7 +36,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1535963838430">
+      <file name="/Ruby Console" timestamp="1536034738132">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/user/videos_spec.rb" timestamp="1535363721069">
@@ -126,7 +126,7 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535966766530">
+      <file name="/Dummy.txt" timestamp="1536035008109">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="41" />
@@ -215,12 +215,12 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="77" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1536034184228">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1536034596983">
         <mark key="'" line="465" column="0" />
-        <mark key="[" line="465" column="47" />
-        <mark key="]" line="465" column="48" />
-        <mark key="^" line="465" column="48" />
-        <mark key="." line="465" column="48" />
+        <mark key="[" line="460" column="40" />
+        <mark key="]" line="460" column="40" />
+        <mark key="^" line="460" column="47" />
+        <mark key="." line="460" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -333,7 +333,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">ICAgIGV4dGVuZF9kdXJhdGlvbiB8fD0gNQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
@@ -342,31 +342,31 @@
         <text encoding="base64">ICAgICAgICBpdCAn57WC5LqG5pel5pmC44KSNeWIhuW+jOOBq+ioreWumuOBmeOCi+OBk+OBqCcgZG8KICAgICAgICAgIGV4cGVjdCB7IGF1Y3Rpb24ubWFrZV9hX2JpZCEodXNlciwgMTUwMCkgfS50byBjaGFuZ2UoYXVjdGlvbiwgOmVuZF9hdCkudG8oNS5taW51dGVzLmZyb21fbm93LnJvdW5kKQogICAgICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGV4dGVuZF9kdXJhdGlvbiA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpdCAn57WC5LqG5pel5pmC44KSNeWIhuW+jOOBq+ioreWumuOBmeOCi+OBk+OBqCcgZG8KICAgICAgICAgIGV4cGVjdCB7IGF1Y3Rpb24ubWFrZV9hX2JpZCEodXNlciwgMTUwMCkgfS50byBjaGFuZ2UoYXVjdGlvbiwgOmVuZF9hdCkudG8oNS5taW51dGVzLmZyb21fbm93LnJvdW5kKQogICAgICAgIGVuZAoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGUK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpdCAn57WC5LqG5pel5pmC44KSNeWIhuW+jOOBq+ioreWumuOBmeOCi+OBk+OBqCcgZG8KICAgICAgICAgIGV4cGVjdCB7IGF1Y3Rpb24ubWFrZV9hX2JpZCEodXNlciwgMTUwMCkgfS50byBjaGFuZ2UoYXVjdGlvbiwgOmVuZF9hdCkudG8oNS5taW51dGVzLmZyb21fbm93LnJvdW5kKQogICAgICAgIGVuZAoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZGUK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QodmFsaWRfbGlzdGVkX2F1Y3Rpb24pLnRvIGhhdmUoMCkuZXJyb3JzX29uKDplbmRfYXQpCg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QodmFsaWRfY2FuY2VsbGVkX2F1Y3Rpb24pLnRvIGhhdmUoMCkuZXJyb3JzX29uKDplbmRfYXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QodmFsaWRfbGlzdGVkX2F1Y3Rpb24pLnRvIGhhdmUoMCkuZXJyb3JzX29uKDplbmRfYXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoaW52YWxpZF9jYW5jZWxsZWRfYXVjdGlvbikudG8gaGF2ZSgxKS5lcnJvcnNfb24oOmVuZF9hdCkK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QodmFsaWRfY2FuY2VsbGVkX2F1Y3Rpb24pLnRvIGhhdmUoMCkuZXJyb3JzX29uKDplbmRfYXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
