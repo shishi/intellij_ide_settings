@@ -34,7 +34,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1536034738132">
+      <file name="/Ruby Console" timestamp="1536135763136">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/user/videos_spec.rb" timestamp="1535363721069">
@@ -63,11 +63,11 @@
         <mark key="^" line="24" column="37" />
         <mark key="." line="33" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1536134395819">
-        <mark key="[" line="669" column="48" />
-        <mark key="]" line="669" column="51" />
-        <mark key="." line="669" column="51" />
-        <mark key="^" line="669" column="51" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1536136508690">
+        <mark key="[" line="652" column="54" />
+        <mark key="]" line="653" column="18" />
+        <mark key="^" line="653" column="18" />
+        <mark key="." line="653" column="18" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180905075425_delete_subject_from_video.rb" timestamp="1536134134738">
         <mark key="[" line="1" column="12" />
@@ -114,11 +114,11 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1536134008456">
-        <mark key="[" line="57" column="9" />
-        <mark key="]" line="57" column="12" />
-        <mark key="." line="57" column="12" />
-        <mark key="^" line="57" column="12" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1536135902507">
+        <mark key="[" line="128" column="27" />
+        <mark key="]" line="128" column="30" />
+        <mark key="." line="128" column="30" />
+        <mark key="^" line="128" column="30" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/videos/_extra_bar.erb" timestamp="1535373011315">
         <mark key="[" line="55" column="4" />
@@ -126,7 +126,7 @@
         <mark key="^" line="82" column="5" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1535956662739">
+      <file name="/dummy.sql" timestamp="1536136114404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_not_draft.erb" timestamp="1535957488150">
@@ -170,7 +170,7 @@
         <mark key="." line="73" column="62" />
         <mark key="^" line="73" column="62" />
       </file>
-      <file name="/videos [db]" timestamp="1534914139553">
+      <file name="/videos [db]" timestamp="1536136112389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/user.rb" timestamp="1535350144777">
@@ -349,40 +349,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>subject</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpdCAn57WC5LqG5pel5pmC44KSNeWIhuW+jOOBq+ioreWumuOBmeOCi+OBk+OBqCcgZG8KICAgICAgICAgIGV4cGVjdCB7IGF1Y3Rpb24ubWFrZV9hX2JpZCEodXNlciwgMTUwMCkgfS50byBjaGFuZ2UoYXVjdGlvbiwgOmVuZF9hdCkudG8oNS5taW51dGVzLmZyb21fbm93LnJvdW5kKQogICAgICAgIGVuZAo=</text>
+      <register name="0" type="4">
+        <text>&quot;#{label.name} - ##{video.episode_number}&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgc3ViamVjdCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c3RyaW5nKDI1NSkK</text>
+        <text encoding="base64">ICAgICM6dwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4dGVuZF9kdXJhdGlvbiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRvKCIje2xhYmVsLm5hbWV9IC0gIyN7dmlkZW8uZXBpc29kZV9udW1iZXJ9IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QgeyB2aWRlby5zYXZlIH0udG8gY2hhbmdlKHZpZGVvLnJlbG9hZC5uYW1lKS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVwaXNvZGVfbnVtYmVyOiAxNSkgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpdCAn57WC5LqG5pel5pmC44KSNeWIhuW+jOOBq+ioreWumuOBmeOCi+OBk+OBqCcgZG8KICAgICAgICAgIGV4cGVjdCB7IGF1Y3Rpb24ubWFrZV9hX2JpZCEodXNlciwgMTUwMCkgfS50byBjaGFuZ2UoYXVjdGlvbiwgOmVuZF9hdCkudG8oNS5taW51dGVzLmZyb21fbm93LnJvdW5kKQogICAgICAgIGVuZAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICdTdWJqZWN0IFRlc3QnLGRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGUK</text>
+        <text encoding="base64">IyAgc3ViamVjdCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c3RyaW5nKDI1NSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4dGVuZF9kdXJhdGlvbiA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QodmFsaWRfbGlzdGVkX2F1Y3Rpb24pLnRvIGhhdmUoMCkuZXJyb3JzX29uKDplbmRfYXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -434,8 +434,8 @@
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
         <entry>action VcsShowNextChangeMarker</entry>
-        <entry>w</entry>
         <entry>vsplit</entry>
+        <entry>w</entry>
         <entry>action Find</entry>
       </history-cmd>
       <history-expr />
