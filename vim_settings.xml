@@ -134,7 +134,7 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536140094490">
+      <file name="/Dummy.txt" timestamp="1536206175162">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -387,7 +387,7 @@
         <text encoding="base64">ICAgICAgICBleHBlY3QgeyB2aWRlby5zYXZlIH0udG8gY2hhbmdlKHZpZGVvLnJlbG9hZC5uYW1lKS4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -437,8 +437,8 @@
         <entry>action MethodUp</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>vsplit</entry>
-        <entry>action Find</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
