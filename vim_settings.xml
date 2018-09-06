@@ -23,7 +23,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose.middleware/db/docker-entrypoint-initdb.d/setup.sh" timestamp="1536214397151" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose.middleware/db/docker-entrypoint-initdb.d/setup.sh" timestamp="1536215480288" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180905075425_delete_subject_from_video.rb" timestamp="1536134134738">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="2" column="34" />
@@ -150,6 +150,7 @@
       <file name="/a.sql" timestamp="1536213417652">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" timestamp="1536215569545" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/show.erb" timestamp="1535957448902">
         <mark key="[" line="126" column="23" />
         <mark key="]" line="125" column="16" />
