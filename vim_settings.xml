@@ -69,12 +69,6 @@
         <mark key="^" line="24" column="37" />
         <mark key="." line="33" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1536139220128">
-        <mark key="[" line="653" column="8" />
-        <mark key="]" line="653" column="8" />
-        <mark key="^" line="653" column="8" />
-        <mark key="." line="653" column="8" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180905075425_delete_subject_from_video.rb" timestamp="1536134134738">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="2" column="34" />
