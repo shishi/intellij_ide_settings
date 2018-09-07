@@ -28,7 +28,7 @@
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="33" />
       </file>
-      <file name="/nanairo_development.videos [db]" timestamp="1536218233029">
+      <file name="/nanairo_development.videos [db]" timestamp="1536318461966">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/application.html.erb" timestamp="1534919292403">
@@ -63,6 +63,7 @@
         <mark key="." line="14" column="51" />
         <mark key="^" line="4" column="93" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/schema.rb" timestamp="1536318648797" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/auctions/show.erb" timestamp="1535117065057">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -138,19 +139,13 @@
         <mark key="." line="125" column="16" />
         <mark key="^" line="125" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/fixtures/videos.yml" timestamp="1536215707099">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="266" column="3" />
-        <mark key="^" line="266" column="3" />
-        <mark key="." line="266" column="3" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/videos/_extra_bar.erb" timestamp="1535373011315">
         <mark key="[" line="55" column="4" />
         <mark key="]" line="56" column="1" />
         <mark key="^" line="82" column="5" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1536290762685">
+      <file name="/dummy.sql" timestamp="1536318462216">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_not_draft.erb" timestamp="1535957488150">
@@ -165,9 +160,7 @@
       <file name="/nanairo_development.photo_albums [db]" timestamp="1536218564037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/lib/tasks/videos.rake" timestamp="1536311624153">
-        <mark key="[" line="12" column="5" />
-      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/lib/tasks/videos.rake" timestamp="1536318384940" />
       <file name="/Dummy.txt" timestamp="1536293726819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -194,8 +187,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180907085825_drop_name_on_video.rb" timestamp="1536311286164">
-        <mark key="[" line="1" column="12" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180907085825_drop_name_on_video.rb" timestamp="1536318728017">
+        <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="32" />
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
@@ -322,7 +315,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
@@ -358,7 +351,7 @@
         <text encoding="base64">ICAgICAgICBzdWJqZWN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -399,8 +392,6 @@
         <entry>q</entry>
         <entry>set smartcase</entry>
         <entry>action</entry>
-        <entry>wq</entry>
-        <entry>W</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action MoveCaret</entry>
         <entry>action MoveCaretTo</entry>
@@ -408,8 +399,10 @@
         <entry>action MethodUp</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>vsplit</entry>
+        <entry>W</entry>
         <entry>w</entry>
         <entry>action Find</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
