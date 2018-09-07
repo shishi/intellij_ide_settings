@@ -60,7 +60,12 @@
       <file name="/a.sql" timestamp="1536213417652">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" timestamp="1536215569545" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" timestamp="1536303718720">
+        <mark key="[" line="164" column="25" />
+        <mark key="]" line="164" column="31" />
+        <mark key="." line="164" column="31" />
+        <mark key="^" line="164" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/fixtures/videos.yml" timestamp="1536215707099">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="266" column="3" />
@@ -212,7 +217,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
@@ -248,7 +253,7 @@
         <text encoding="base64">ICAgICAgICBzdWJqZWN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -298,8 +303,8 @@
         <entry>action MethodUp</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>vsplit</entry>
-        <entry>action Find</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
