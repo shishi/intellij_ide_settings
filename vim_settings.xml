@@ -4,6 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose.middleware/db/docker-entrypoint-initdb.d/setup.sh" timestamp="1536218089716" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/sessions_controller.rb" timestamp="1536299423051">
+        <mark key="[" line="152" column="37" />
+        <mark key="]" line="152" column="37" />
+        <mark key="." line="152" column="37" />
+        <mark key="^" line="152" column="37" />
+      </file>
       <file name="/nanairo_development.videos [db]" timestamp="1536218233029">
         <mark key="[" line="0" column="0" />
       </file>
@@ -206,7 +212,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>

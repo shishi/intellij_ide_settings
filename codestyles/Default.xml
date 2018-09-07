@@ -1,3 +1,12 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <Ruby>
+    <option name="INDENT_PRIVATE_METHODS" value="true" />
+    <option name="INDENT_PROTECTED_METHODS" value="true" />
+    <option name="INDENT_PUBLIC_METHODS" value="true" />
+    <option name="INDENT_WHEN_CASES" value="true" />
+  </Ruby>
+  <yaml>
+    <option name="INDENT_SEQUENCE_VALUE" value="true" />
+  </yaml>
 </code_scheme>
