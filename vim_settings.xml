@@ -88,6 +88,7 @@
       <file name="/nanairo_development.casts [db]" timestamp="1536218470593">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/review-f83c372d5591/bin/review-pdfmaker" timestamp="1536384611082" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" timestamp="1535957474796">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="59" column="5" />
@@ -106,7 +107,7 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="/Ruby Console" timestamp="1536135763136">
+      <file name="/Ruby Console" timestamp="1536384736757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/extra_bars_controller.rb" timestamp="1535081221304">
@@ -152,10 +153,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/lib/tasks/videos.rake" timestamp="1536318384940" />
-      <file name="/Dummy.txt" timestamp="1536379296545">
+      <file name="/Dummy.txt" timestamp="1536384689862">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="43" />
+        <mark key="." line="0" column="3" />
         <mark key="o" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1535963191106">
@@ -168,16 +169,17 @@
         <mark key="^" line="66" column="20" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/photo/album.rb" timestamp="1536215707611" />
+      <file name="$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/review-f83c372d5591/lib/review/pdfmaker.rb" timestamp="1536384729477" />
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/CHAPS" timestamp="1536381544951">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/config.yml" timestamp="1536381949870">
-        <mark key="[" line="59" column="9" />
-        <mark key="]" line="59" column="32" />
-        <mark key="^" line="59" column="32" />
-        <mark key="." line="59" column="32" />
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/config.yml" timestamp="1536384029954">
+        <mark key="[" line="25" column="40" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180907085825_drop_name_on_video.rb" timestamp="1536318728017">
         <mark key="[" line="2" column="32" />
@@ -185,6 +187,7 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/bin/review-pdfmaker" timestamp="1536384447038" />
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/PREDEF" timestamp="1536381492878">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="9" />
@@ -312,7 +315,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>iew</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
@@ -321,31 +324,31 @@
         <text>yasslab/railsguides.jp_ebook-ci:2.5.1-slim</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIHBvc3RzY3JpcHQucmUK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UE9TVERFRjoK</text>
+        <text encoding="base64">cmlnaHRzOiBSYWlsc+OCrOOCpOODiee/u+ios+OCsOODq+ODvOODlwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgZGF0ZTogMjAxMy0wOC0wMSAgICMgPC0tLSBUaGlzIGNhdXNlZCBwcm9ibGVtcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIGFwcGVuZGl4LnJlCg==</text>
+        <text encoding="base64">dHJsOiDlhavnlLAg5piM5LiJ77yM6YeR5a2QIOmbhOS4gOmDju+8jOWuieW3nSDopoHlubMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QVBQRU5ESVg6Cg==</text>
+        <text encoding="base64">IyBwaHQ6IOaSruW9seiAhQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIGNoMDEucmUKICAtIGNoMDIucmUK</text>
+        <text encoding="base64">IyBpbGw6IOOCpOODqeOCueODiOODrOODvOOCvwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBkc3I6IOODh+OCtuOCpOODigo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgc3ViamVjdAo=</text>
+        <text encoding="base64">IyBlZHQ6IOe3qOmbhuiAhQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bmFtZQogIGVuZAoKICBkZWYgc3ViamVjdD0oKmFyZykKICAgIG5hbWU9YXJnCiAgZW5kCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y2xiOiBSYWlsc+OCrOOCpOODiee/u+ios+OCsOODq+ODvOODlwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
