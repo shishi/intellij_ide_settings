@@ -64,6 +64,12 @@
         <mark key="^" line="4" column="93" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/schema.rb" timestamp="1536318648797" />
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Gemfile" timestamp="1536379456834">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/auctions/show.erb" timestamp="1535117065057">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -161,7 +167,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/lib/tasks/videos.rake" timestamp="1536318384940" />
-      <file name="/Dummy.txt" timestamp="1536293726819">
+      <file name="/Dummy.txt" timestamp="1536379296545">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -186,6 +192,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/config.yml" timestamp="1536379432624">
+        <mark key="[" line="60" column="10" />
+        <mark key="]" line="61" column="12" />
+        <mark key="^" line="61" column="12" />
+        <mark key="." line="61" column="12" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180907085825_drop_name_on_video.rb" timestamp="1536318728017">
         <mark key="[" line="2" column="32" />
@@ -315,7 +327,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
@@ -351,7 +363,7 @@
         <text encoding="base64">ICAgICAgICBzdWJqZWN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -400,9 +412,9 @@
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>vsplit</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>action Find</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
