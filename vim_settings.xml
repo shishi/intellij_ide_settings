@@ -49,13 +49,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/.circleci/config.yml" timestamp="1536382340555">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="56" />
+      </file>
       <file name="/videos [db]" timestamp="1536136112389">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/user.rb" timestamp="1535350144777">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="1" />
-        <mark key="." line="105" column="1" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/extra_bars/_related_video.erb" timestamp="1535079404126">
         <mark key="[" line="14" column="51" />
@@ -88,16 +87,6 @@
       <file name="/nanairo_development.casts [db]" timestamp="1536218470593">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/wallet/rule.rb" timestamp="1536139801480">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video/purchase_rule.rb" timestamp="1536139701151">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_draft.erb" timestamp="1535957474796">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="59" column="5" />
@@ -115,11 +104,6 @@
         <mark key="]" line="17" column="17" />
         <mark key="." line="17" column="17" />
         <mark key="^" line="17" column="17" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1534943861236">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
       </file>
       <file name="/Ruby Console" timestamp="1536135763136">
         <mark key="[" line="0" column="0" />
@@ -173,11 +157,6 @@
         <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180907021103_rename_name_to_subject.rb" timestamp="1536286279553">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="37" />
-        <mark key="." line="2" column="1" />
-      </file>
       <file name="/fragment.rb" timestamp="1535963191106">
         <mark key="[" line="0" column="0" />
       </file>
@@ -188,16 +167,16 @@
         <mark key="^" line="66" column="20" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/photo/album.rb" timestamp="1536215707611" />
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180903063526_add_extend_duration_to_auction.rb" timestamp="1535956611128">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/CHAPS" timestamp="1536381544951">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/config.yml" timestamp="1536379432624">
-        <mark key="[" line="60" column="10" />
-        <mark key="]" line="61" column="12" />
-        <mark key="^" line="61" column="12" />
-        <mark key="." line="61" column="12" />
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/config.yml" timestamp="1536381949870">
+        <mark key="[" line="59" column="9" />
+        <mark key="]" line="59" column="32" />
+        <mark key="^" line="59" column="32" />
+        <mark key="." line="59" column="32" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180907085825_drop_name_on_video.rb" timestamp="1536318728017">
         <mark key="[" line="2" column="32" />
@@ -205,10 +184,9 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e43bfdb4-0cb4-4a3d-ae4a-0f21eb81498f/console.sql" timestamp="1536218038446">
-        <mark key="[" line="0" column="66" />
-        <mark key="]" line="0" column="66" />
-        <mark key="." line="0" column="66" />
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/PREDEF" timestamp="1536381492878">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/support/session_helper_with_factory_bot.rb" timestamp="1535355249710">
         <mark key="[" line="9" column="9" />
@@ -216,11 +194,14 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/catalog.yml" timestamp="1536381676224">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="51" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="36" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="19" column="12" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="208" column="6" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="203" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="202" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
@@ -318,6 +299,9 @@
       <jump line="305" column="4" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" />
       <jump line="121" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="171" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/fixtures/videos.yml" />
+      <jump line="20" column="13" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/CHAPS" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/CHAPS" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/CHAPS" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -327,40 +311,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgZGVmIG5hbWUKICAgICAgICBzdWJqZWN0CiAgICAgIGVuZA==</text>
+        <text>yasslab/railsguides.jp_ebook-ci:2.5.1-slim</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAtIHBvc3RzY3JpcHQucmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgc3ViamVjdAo=</text>
+        <text encoding="base64">UE9TVERFRjoK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bmFtZQogIGVuZAoKICBkZWYgc3ViamVjdD0oKmFyZykKICAgIG5hbWU9YXJnCiAgZW5kCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IwoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bmFuYWlyby0xNjcwIENvbnRlbnQjc3ViamVjdCDjgpLjgarjgY/jgZcgbmFtZSDjgavntbHkuIDjgZnjgosK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAjIGRlZiBuYW1lOyByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yOyBlbmQK</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAtIGFwcGVuZGl4LnJlCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJqZWN0Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">QVBQRU5ESVg6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAtIGNoMDEucmUKICAtIGNoMDIucmUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkZWYgc3ViamVjdAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">bmFtZQogIGVuZAoKICBkZWYgc3ViamVjdD0oKmFyZykKICAgIG5hbWU9YXJnCiAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -412,8 +396,8 @@
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>vsplit</entry>
         <entry>W</entry>
-        <entry>action Find</entry>
         <entry>wq</entry>
+        <entry>action Find</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
