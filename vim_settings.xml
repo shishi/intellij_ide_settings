@@ -188,6 +188,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="44" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180903063526_add_extend_duration_to_auction.rb" timestamp="1536557052846">
+        <mark key="[" line="2" column="54" />
+        <mark key="]" line="2" column="65" />
+        <mark key="." line="2" column="65" />
+        <mark key="^" line="2" column="65" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/config.yml" timestamp="1536386431879">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -328,7 +334,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
