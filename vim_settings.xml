@@ -217,6 +217,12 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1536557824792">
+        <mark key="[" line="458" column="19" />
+        <mark key="]" line="458" column="21" />
+        <mark key="." line="458" column="21" />
+        <mark key="^" line="458" column="21" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/catalog.yml" timestamp="1536381676224">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -334,7 +340,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
@@ -343,31 +349,31 @@
         <text>yasslab/railsguides.jp_ebook-ci:2.5.1-slim</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0ICdleHRlbmRfZHVyYXRpb27jga7jgarjgYTjgajjgY0nIGRvCiAgICAgICAgICBpdCAn57WC5LqG5pel5pmC44KSNeWIhuW+jOOBq+ioreWumuOBmeOCi+OBk+OBqCcgZG8KICAgICAgICAgICAgZXhwZWN0IHsgYXVjdGlvbi5tYWtlX2FfYmlkISh1c2VyLCAxNTAwKSB9LnRvIGNoYW5nZShhdWN0aW9uLCA6ZW5kX2F0KS50byg1Lm1pbnV0ZXMuZnJvbV9ub3cucm91bmQpCiAgICAgICAgICBlbmQKICAgICAgICBlbmQKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmlnaHRzOiBSYWlsc+OCrOOCpOODiee/u+ios+OCsOODq+ODvOODlwo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgZGF0ZTogMjAxMy0wOC0wMSAgICMgPC0tLSBUaGlzIGNhdXNlZCBwcm9ibGVtcwo=</text>
+        <text encoding="base64">cmlnaHRzOiBSYWlsc+OCrOOCpOODiee/u+ios+OCsOODq+ODvOODlwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHJsOiDlhavnlLAg5piM5LiJ77yM6YeR5a2QIOmbhOS4gOmDju+8jOWuieW3nSDopoHlubMK</text>
+        <text encoding="base64">IyAgZGF0ZTogMjAxMy0wOC0wMSAgICMgPC0tLSBUaGlzIGNhdXNlZCBwcm9ibGVtcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwaHQ6IOaSruW9seiAhQo=</text>
+        <text encoding="base64">dHJsOiDlhavnlLAg5piM5LiJ77yM6YeR5a2QIOmbhOS4gOmDju+8jOWuieW3nSDopoHlubMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBpbGw6IOOCpOODqeOCueODiOODrOODvOOCvwo=</text>
+        <text encoding="base64">IyBwaHQ6IOaSruW9seiAhQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBkc3I6IOODh+OCtuOCpOODigo=</text>
+        <text encoding="base64">IyBpbGw6IOOCpOODqeOCueODiOODrOODvOOCvwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBlZHQ6IOe3qOmbhuiAhQo=</text>
+        <text encoding="base64">IyBkc3I6IOODh+OCtuOCpOODigo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xiOiBSYWlsc+OCrOOCpOODiee/u+ios+OCsOODq+ODvOODlwo=</text>
+        <text encoding="base64">IyBlZHQ6IOe3qOmbhuiAhQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -419,8 +425,8 @@
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>vsplit</entry>
         <entry>W</entry>
-        <entry>action Find</entry>
         <entry>wq</entry>
+        <entry>action Find</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
