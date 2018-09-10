@@ -235,7 +235,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/lib/tasks/videos.rake" timestamp="1536318384940" />
-      <file name="/Dummy.txt" timestamp="1536569165752">
+      <file name="/Dummy.txt" timestamp="1536571426701">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -316,13 +316,13 @@
         <mark key="^" line="2" column="117" />
         <mark key="." line="2" column="117" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1536568878642">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1536571420271">
         <mark key="e" line="730" column="47" />
-        <mark key="'" line="731" column="63" />
-        <mark key="[" line="736" column="43" />
-        <mark key="]" line="736" column="44" />
-        <mark key="." line="736" column="44" />
-        <mark key="^" line="736" column="44" />
+        <mark key="'" line="737" column="69" />
+        <mark key="[" line="736" column="67" />
+        <mark key="]" line="736" column="67" />
+        <mark key="." line="736" column="67" />
+        <mark key="^" line="736" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/catalog.yml" timestamp="1536381676224">
         <mark key="[" line="51" column="0" />
@@ -332,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="169" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="164" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="113" column="12" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
@@ -432,6 +431,7 @@
       <jump line="1019" column="37" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" />
       <jump line="87" column="68" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" />
       <jump line="731" column="63" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" />
+      <jump line="737" column="69" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -441,7 +441,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>make enable to edit auction period</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
@@ -450,31 +450,31 @@
         <text encoding="base64">ICAgIDx0cj4KICAgICAgPHRoPuW7tumVt+aZgumWkyAo5YiGKTwvdGg+CiAgICAgIDx0ZD48JT0gQGF1Y3Rpb24uZXh0ZW5kX2R1cmF0aW9uICU+PC90ZD4KICAgIDwvdHI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjVGltZWNvcC5mcmVlemUoQG5vdykK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8JT0gZi5udW1iZXJfZmllbGQgOmV4dGVuZF9wZXJpb2QsIGNsYXNzOiAnZm9ybS1jb250cm9sJyAlPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA8bGFiZWwgZm9yPSJhdWN0aW9uX3BlcmlvZCI+5YWl5pyt44GL44KJ57WC5LqG44G+44Gn44Gu5pmC6ZaTKOWIhik8L2xhYmVsPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAbm93ID0gVGltZS56b25lLm5vdwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICA8JT0gZi5udW1iZXJfZmllbGQgOmV4dGVuZF9wZXJpb2QsIGNsYXNzOiAnZm9ybS1jb250cm9sJyAlPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8bGFiZWwgZm9yPSJhdWN0aW9uX3BlcmlvZCI+5YWl5pyt44GL44KJ57WC5LqG44G+44Gn44Gu5pmC6ZaTKOWIhik8L2xhYmVsPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBAbm93ID0gVGltZS56b25lLm5vdwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDpub3cpIHsgVGltZS56b25lLm5vdyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
