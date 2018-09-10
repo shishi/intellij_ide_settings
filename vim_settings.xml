@@ -152,6 +152,12 @@
         <mark key="^" line="24" column="37" />
         <mark key="." line="33" column="68" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1536573545616">
+        <mark key="[" line="644" column="28" />
+        <mark key="]" line="644" column="34" />
+        <mark key="." line="644" column="34" />
+        <mark key="^" line="644" column="34" />
+      </file>
       <file name="/a.sql" timestamp="1536213417652">
         <mark key="[" line="0" column="0" />
       </file>
@@ -206,7 +212,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/lib/tasks/videos.rake" timestamp="1536318384940" />
-      <file name="/Dummy.txt" timestamp="1536571426701">
+      <file name="/Dummy.txt" timestamp="1536578943292">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -398,7 +404,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
