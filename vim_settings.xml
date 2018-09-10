@@ -63,10 +63,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/.circleci/config.yml" timestamp="1536382340555">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="56" />
-      </file>
       <file name="/videos [db]" timestamp="1536136112389">
         <mark key="[" line="0" column="0" />
       </file>
@@ -174,6 +170,12 @@
         <mark key="." line="130" column="28" />
         <mark key="^" line="130" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/fixtures/videos.yml" timestamp="1536572663064">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="266" column="3" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" timestamp="1535372929990">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="39" />
@@ -259,10 +261,6 @@
       </file>
       <file name="/auction_spec.rb" timestamp="1536562029887" />
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/bin/review-pdfmaker" timestamp="1536384447038" />
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/PREDEF" timestamp="1536381492878">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="9" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/support/session_helper_with_factory_bot.rb" timestamp="1535355249710">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="20" />
@@ -409,31 +407,31 @@
         <text encoding="base64">ICAgIDx0cj4KICAgICAgPHRoPuW7tumVt+aZgumWkyAo5YiGKTwvdGg+CiAgICAgIDx0ZD48JT0gQGF1Y3Rpb24uZXh0ZW5kX2R1cmF0aW9uICU+PC90ZD4KICAgIDwvdHI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjVGltZWNvcC5mcmVlemUoQG5vdykK</text>
+        <text encoding="base64">ICBuYW1lOiBOYW1lIDwlPSBpICU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjVGltZWNvcC5mcmVlemUoQG5vdykK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8JT0gZi5udW1iZXJfZmllbGQgOmV4dGVuZF9wZXJpb2QsIGNsYXNzOiAnZm9ybS1jb250cm9sJyAlPgo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8bGFiZWwgZm9yPSJhdWN0aW9uX3BlcmlvZCI+5YWl5pyt44GL44KJ57WC5LqG44G+44Gn44Gu5pmC6ZaTKOWIhik8L2xhYmVsPgo=</text>
+        <text encoding="base64">ICA8JT0gZi5udW1iZXJfZmllbGQgOmV4dGVuZF9wZXJpb2QsIGNsYXNzOiAnZm9ybS1jb250cm9sJyAlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+Cg==</text>
+        <text encoding="base64">ICA8bGFiZWwgZm9yPSJhdWN0aW9uX3BlcmlvZCI+5YWl5pyt44GL44KJ57WC5LqG44G+44Gn44Gu5pmC6ZaTKOWIhik8L2xhYmVsPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAbm93ID0gVGltZS56b25lLm5vdwo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAbm93ID0gVGltZS56b25lLm5vdwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
