@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1536559141966">
-        <mark key="[" line="423" column="28" />
-        <mark key="]" line="423" column="28" />
-        <mark key="^" line="423" column="28" />
-        <mark key="." line="423" column="28" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1536564862261">
+        <mark key="[" line="152" column="37" />
+        <mark key="]" line="152" column="51" />
+        <mark key="^" line="152" column="51" />
+        <mark key="." line="152" column="51" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Rakefile" timestamp="1536383010270" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/user/videos_spec.rb" timestamp="1535363721069">
@@ -287,12 +287,13 @@
         <mark key="^" line="2" column="117" />
         <mark key="." line="2" column="117" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1536562072078">
-        <mark key="'" line="87" column="68" />
-        <mark key="[" line="87" column="66" />
-        <mark key="]" line="87" column="69" />
-        <mark key="." line="87" column="69" />
-        <mark key="^" line="87" column="69" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1536565948864">
+        <mark key="e" line="730" column="47" />
+        <mark key="'" line="731" column="63" />
+        <mark key="[" line="731" column="22" />
+        <mark key="]" line="731" column="22" />
+        <mark key="." line="731" column="22" />
+        <mark key="^" line="732" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/catalog.yml" timestamp="1536381676224">
         <mark key="[" line="51" column="0" />
@@ -302,7 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="175" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="169" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="164" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
@@ -402,6 +402,7 @@
       <jump line="10" column="0" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/CHAPS" />
       <jump line="1019" column="37" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" />
       <jump line="87" column="68" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" />
+      <jump line="731" column="63" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -411,7 +412,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uXD4=</text>
@@ -420,34 +421,34 @@
         <text encoding="base64">ICAgICAgICBleHBlY3QoaW52YWxpZF9zY2hlZHVsZWRfYXVjdGlvbikudG8gaGF2ZSgxKS5lcnJvcnNfb24oOmNhbmNlbF9hdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0ICdleHRlbmRfZHVyYXRpb27jga7jgarjgYTjgajjgY0nIGRvCiAgICAgICAgICBpdCAn57WC5LqG5pel5pmC44KSNeWIhuW+jOOBq+ioreWumuOBmeOCi+OBk+OBqCcgZG8KICAgICAgICAgICAgZXhwZWN0IHsgYXVjdGlvbi5tYWtlX2FfYmlkISh1c2VyLCAxNTAwKSB9LnRvIGNoYW5nZShhdWN0aW9uLCA6ZW5kX2F0KS50byg1Lm1pbnV0ZXMuZnJvbV9ub3cucm91bmQpCiAgICAgICAgICBlbmQKICAgICAgICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgICBAbm93ID0gVGltZS56b25lLm5vdwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmlnaHRzOiBSYWlsc+OCrOOCpOODiee/u+ios+OCsOODq+ODvOODlwo=</text>
+        <text encoding="base64">ICAgICAgbGV0KDpub3cpIHsgVGltZS56b25lLm5vdyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgZGF0ZTogMjAxMy0wOC0wMSAgICMgPC0tLSBUaGlzIGNhdXNlZCBwcm9ibGVtcwo=</text>
+        <text encoding="base64">ICAgICAgICBub3cgPSBUaW1lLnpvbmUubm93Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHJsOiDlhavnlLAg5piM5LiJ77yM6YeR5a2QIOmbhOS4gOmDju+8jOWuieW3nSDopoHlubMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBwaHQ6IOaSruW9seiAhQo=</text>
+        <text encoding="base64">ICAgICAgICBub3cgPSBUaW1lLnpvbmUubm93CiAgICAgICAgVGltZWNvcC5mcmVlemUobm93KQogICAgICAgIGF1Y3Rpb24uc3RhcnQhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBpbGw6IOOCpOODqeOCueODiOODrOODvOOCvwo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBkc3I6IOODh+OCtuOCpOODigo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBlZHQ6IOe3qOmbhuiAhQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -497,8 +498,8 @@
         <entry>vsplit</entry>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry>action Find</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
