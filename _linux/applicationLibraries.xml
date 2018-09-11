@@ -1810,6 +1810,36 @@
         <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/devise-4.4.3/gemfiles" />
       </excluded>
     </library>
+    <library name="devise (v4.5.0, rbenv: 2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/guides" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/guides" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/guides" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/devise-4.5.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="did_you_mean (v1.0.0, rbenv: 2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
