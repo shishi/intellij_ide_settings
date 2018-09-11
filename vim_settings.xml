@@ -130,12 +130,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video/purchase_rule.rb" timestamp="1536657225108">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="8" />
-        <mark key="^" line="22" column="8" />
-      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video/purchase_rule.rb" timestamp="1536657225108" />
       <file name="$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/review-f83c372d5591/bin/review-pdfmaker" timestamp="1536384611082" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/views/defaults/ja.yml" timestamp="1535077584735">
         <mark key="[" line="104" column="9" />
@@ -232,10 +227,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/lib/tasks/videos.rake" timestamp="1536318384940" />
-      <file name="/Dummy.txt" timestamp="1536657253935">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+      <file name="/Dummy.txt" timestamp="1536658130449">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose/db/setup.sh" timestamp="1536644494730">
@@ -434,7 +429,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ipt</text>
+        <text>fixes for replace name to subject</text>
       </register>
       <register name="/" type="4">
         <text>nanairo</text>
