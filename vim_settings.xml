@@ -3,21 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Rakefile" timestamp="1536383010270" />
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/user/videos_spec.rb" timestamp="1535363721069">
-        <mark key="'" line="6" column="12" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/base_job.rb" timestamp="1535445269721">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose.middleware/db/docker-entrypoint-initdb.d/setup.sh" timestamp="1536218089716" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/videos_controller.rb" timestamp="1536650813578">
+        <mark key="[" line="50" column="79" />
+        <mark key="]" line="50" column="82" />
+        <mark key="." line="50" column="82" />
+        <mark key="^" line="50" column="82" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180905075425_delete_subject_from_video.rb" timestamp="1536134134738">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="2" column="34" />
@@ -36,6 +33,12 @@
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/favorites_controller.rb" timestamp="1536650783988">
+        <mark key="[" line="18" column="77" />
+        <mark key="]" line="18" column="80" />
+        <mark key="." line="18" column="80" />
+        <mark key="^" line="18" column="80" />
+      </file>
       <file name="/nanairo_development.videos [db]" timestamp="1536318461966">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,6 +47,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
         <mark key="^" line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/casts/videos_controller.rb" timestamp="1536650819827">
+        <mark key="[" line="6" column="79" />
+        <mark key="]" line="6" column="82" />
+        <mark key="." line="6" column="82" />
+        <mark key="^" line="6" column="82" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/label.rb" timestamp="1536293427731">
         <mark key="[" line="154" column="18" />
@@ -72,13 +81,6 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/system/user/auction_spec.rb" timestamp="1535355099201">
-        <mark key="'" line="10" column="26" />
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/schema.rb" timestamp="1536318648797" />
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Gemfile" timestamp="1536386899999">
         <mark key="[" line="8" column="64" />
@@ -98,60 +100,56 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/labels_controller.rb" timestamp="1536650800607">
+        <mark key="[" line="44" column="64" />
+        <mark key="]" line="44" column="67" />
+        <mark key="." line="44" column="67" />
+        <mark key="^" line="44" column="67" />
+      </file>
       <file name="/auctions [db]" timestamp="1535956661269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/users [db]" timestamp="1535354366355">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/home_controller.rb" timestamp="1536650795254">
+        <mark key="[" line="4" column="64" />
+        <mark key="]" line="4" column="67" />
+        <mark key="." line="4" column="67" />
+        <mark key="^" line="4" column="67" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1534866203248">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1535116875319">
-        <mark key="'" line="61" column="40" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="77" column="41" />
       </file>
       <file name="/nanairo_development.casts [db]" timestamp="1536218470593">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/review-f83c372d5591/bin/review-pdfmaker" timestamp="1536384611082" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/views/defaults/ja.yml" timestamp="1535077584735">
         <mark key="[" line="104" column="9" />
         <mark key="]" line="105" column="8" />
         <mark key="." line="105" column="8" />
         <mark key="^" line="105" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/content/content.rb" timestamp="1536139260262">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="17" />
-        <mark key="^" line="17" column="17" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/content/content.rb" timestamp="1536650460398">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/auctions_controller.rb" timestamp="1534947364231">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/search_controller.rb" timestamp="1536650806733">
+        <mark key="[" line="17" column="64" />
+        <mark key="]" line="17" column="67" />
+        <mark key="." line="17" column="67" />
+        <mark key="^" line="17" column="67" />
       </file>
       <file name="/Ruby Console" timestamp="1536385971141">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" timestamp="1535078274742">
-        <mark key="'" line="247" column="16" />
-        <mark key="[" line="295" column="60" />
-        <mark key="]" line="294" column="98" />
-        <mark key="." line="294" column="98" />
-        <mark key="^" line="294" column="98" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/extra_bars_controller.rb" timestamp="1535081221304">
-        <mark key="[" line="33" column="68" />
-        <mark key="]" line="33" column="68" />
-        <mark key="^" line="24" column="37" />
-        <mark key="." line="33" column="68" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/extra_bars_controller.rb" timestamp="1536650751017">
+        <mark key="[" line="36" column="79" />
+        <mark key="]" line="36" column="82" />
+        <mark key="^" line="36" column="82" />
+        <mark key="." line="36" column="82" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/video_spec.rb" timestamp="1536573545616">
         <mark key="[" line="22" column="28" />
@@ -184,28 +182,14 @@
         <mark key="^" line="267" column="3" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" timestamp="1535372929990">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/user/videos/_extra_bar.erb" timestamp="1535373011315">
         <mark key="[" line="55" column="4" />
         <mark key="]" line="56" column="1" />
         <mark key="^" line="82" column="5" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1536318462216">
+      <file name="/dummy.sql" timestamp="1536650272894">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction/trade.rb" timestamp="1535444627605">
-        <mark key="'" line="60" column="13" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="58" column="0" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="/nanairo_development.labels [db]" timestamp="1536290762326">
         <mark key="[" line="0" column="0" />
@@ -213,7 +197,6 @@
       <file name="/nanairo_development.photo_albums [db]" timestamp="1536218564037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/lib/tasks/videos.rake" timestamp="1536318384940" />
       <file name="/Dummy.txt" timestamp="1536644573746">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -235,26 +218,11 @@
         <mark key="." line="66" column="20" />
         <mark key="^" line="66" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/assets/javascripts/nanairo_webmaster/components/related_video_selector.js" timestamp="1534914218534">
-        <mark key="'" line="73" column="37" />
-        <mark key="[" line="73" column="46" />
-        <mark key="]" line="73" column="62" />
-        <mark key="." line="73" column="62" />
-        <mark key="^" line="73" column="62" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/photo/album.rb" timestamp="1536215707611" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180903063526_add_extend_duration_to_auction.rb" timestamp="1536557052846">
         <mark key="[" line="2" column="54" />
         <mark key="]" line="2" column="65" />
         <mark key="." line="2" column="65" />
         <mark key="^" line="2" column="65" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/nanairo_webmaster/auctions_controller.rb" timestamp="1536567944870">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="218" />
-        <mark key="]" line="91" column="226" />
-        <mark key="^" line="91" column="226" />
-        <mark key="." line="91" column="226" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/config.yml" timestamp="1536386431879">
         <mark key="[" line="6" column="0" />
@@ -268,8 +236,18 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="/auction_spec.rb" timestamp="1536562029887" />
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/bin/review-pdfmaker" timestamp="1536384447038" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180625080840_alter_content_reviews.rb" timestamp="1536650841026">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/casts_controller.rb" timestamp="1536650769446">
+        <mark key="[" line="43" column="64" />
+        <mark key="]" line="43" column="67" />
+        <mark key="." line="43" column="67" />
+        <mark key="^" line="43" column="67" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/support/session_helper_with_factory_bot.rb" timestamp="1535355249710">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="20" />
@@ -281,6 +259,9 @@
         <mark key="]" line="2" column="117" />
         <mark key="^" line="2" column="117" />
         <mark key="." line="2" column="117" />
+      </file>
+      <file name="/nanairo_development.content_favorite_assignments [db]" timestamp="1536650272434">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/catalog.yml" timestamp="1536381676224">
         <mark key="[" line="51" column="0" />
@@ -399,7 +380,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>subject</text>
       </register>
       <register name="/" type="4">
         <text>nanairo</text>
@@ -435,7 +416,7 @@
         <text encoding="base64">ICAgICAgICAjVGltZWNvcC5mcmVlemUoQG5vdykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -484,9 +465,9 @@
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>vsplit</entry>
         <entry>W</entry>
-        <entry>action Find</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
