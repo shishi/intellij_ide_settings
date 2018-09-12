@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1536735463852">
+        <mark key="[" line="387" column="23" />
+        <mark key="]" line="387" column="24" />
+        <mark key="." line="387" column="24" />
+        <mark key="^" line="387" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Rakefile" timestamp="1536383010270" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/base_job.rb" timestamp="1535445269721">
         <mark key="[" line="2" column="20" />
@@ -319,6 +325,12 @@
         <mark key="^" line="2" column="117" />
         <mark key="." line="2" column="117" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1536734996791">
+        <mark key="[" line="1062" column="59" />
+        <mark key="]" line="1062" column="99" />
+        <mark key="^" line="1062" column="99" />
+        <mark key="." line="1062" column="99" />
+      </file>
       <file name="/nanairo_development.content_favorite_assignments [db]" timestamp="1536650272434">
         <mark key="[" line="0" column="0" />
       </file>
@@ -439,43 +451,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>d directory</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>nanairo</text>
       </register>
-      <register name="0" type="4">
-        <text>RAILS_ENV=development b</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgdXBkYXRhYmxlX2VuZF9hdD8KICAgIHN0YXJ0ZWQ/IHx8IG5lYXJfdGhlX2VuZD8KICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1YmplY3Q6ICdTdWJqZWN0IFRlc3QnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVmIG5hbWU9KHZhbHVlKQogICAgICAgIHN1YmplY3QgPSB2YWx1ZQogICAgICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1YmplY3Q6ICdTdWJqZWN0IFRlc3QnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJqZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmIG5hbWU9KHZhbHVlKQogICAgICAgIHN1YmplY3QgPSB2YWx1ZQogICAgICBlbmQKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJqZWN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgbmFtZQogICAgc3ViamVjdAogIGVuZAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgbmFtZTsgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcjsgZW5kCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bmFuYWlyb19kZXZlbG9wbWVudC5kdW1wCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkZWYgbmFtZQogICAgc3ViamVjdAogIGVuZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkZWYgbmFtZTsgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcjsgZW5kCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">bmFuYWlyb19kZXZlbG9wbWVudC5kdW1wCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -525,8 +537,8 @@
         <entry>vsplit</entry>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry>action Find</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
