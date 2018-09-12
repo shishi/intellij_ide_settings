@@ -292,10 +292,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/lib/tasks/videos.rake" timestamp="1536318384940" />
-      <file name="/Dummy.txt" timestamp="1536728618415">
+      <file name="/Dummy.txt" timestamp="1536741190882">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose/db/setup.sh" timestamp="1536644494730">
@@ -388,12 +388,12 @@
         <mark key="^" line="2" column="117" />
         <mark key="." line="2" column="117" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1536740280354">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/auction_spec.rb" timestamp="1536741135928">
         <mark key="'" line="1064" column="47" />
-        <mark key="[" line="1089" column="0" />
-        <mark key="]" line="1089" column="0" />
-        <mark key="^" line="1082" column="59" />
-        <mark key="." line="1089" column="0" />
+        <mark key="[" line="1162" column="49" />
+        <mark key="]" line="1162" column="49" />
+        <mark key="^" line="1162" column="49" />
+        <mark key="." line="1162" column="49" />
       </file>
       <file name="/nanairo_development.content_favorite_assignments [db]" timestamp="1536650272434">
         <mark key="[" line="0" column="0" />
@@ -515,22 +515,22 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>fix mis-replace</text>
       </register>
       <register name="/" type="4">
         <text>nanairo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFnZ3JlZ2F0ZV9mYWlsdXJlcyBkbwogICAgICAgICAgICBleHBlY3QoYXVjdGlvbi5saXN0X2F0KS50byBlcSBUaW1lLnBhcnNlKHBhcmFtc1s6bGlzdF9hdF0pCiAgICAgICAgICAgIGV4cGVjdChhdWN0aW9uLmNhbmNlbF9hdCkudG8gZXEgVGltZS5wYXJzZShwYXJhbXNbOmNhbmNlbF9hdF0pCiAgICAgICAgICAgIGV4cGVjdChhdWN0aW9uLmV4dGVuZF9kdXJhdGlvbikudG8gZXEgcGFyYW1zWzpleHRlbmRfZHVyYXRpb25dCiAgICAgICAgICAgIGV4cGVjdChhdWN0aW9uLnBlcmlvZCkudG8gZXEgcGFyYW1zWzpwZXJpb2RdCiAgICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgIGFnZ3JlZ2F0ZV9mYWlsdXJlcyBkbwogICAgICAgICAgICBleHBlY3QoYXVjdGlvbi5uYW1lKS5ub3RfdG8gZXEgcGFyYW1zWzpuYW1lXQogICAgICAgICAgICBleHBlY3QoYXVjdGlvbi5saXN0X2F0KS5ub3RfdG8gZXEgVGltZS5wYXJzZShwYXJhbXNbOmxpc3RfYXRdKQogICAgICAgICAgICBleHBlY3QoYXVjdGlvbi5jYW5jZWxfYXQpLm5vdF90byBlcSBUaW1lLnBhcnNlKHBhcmFtc1s6Y2FuY2VsX2F0XSkKICAgICAgICAgICAgZXhwZWN0KGF1Y3Rpb24uZW5kX2F0KS5ub3RfdG8gZXEgVGltZS5wYXJzZShwYXJhbXNbOmVuZF9hdF0pCiAgICAgICAgICAgIGV4cGVjdChhdWN0aW9uLmV4dGVuZF9kdXJhdGlvbikubm90X3RvIGVxIHBhcmFtc1s6ZXh0ZW5kX2R1cmF0aW9uXQogICAgICAgICAgICBleHBlY3QoYXVjdGlvbi5wZXJpb2QpLm5vdF90byBlcSBwYXJhbXNbOnBlcmlvZF0KICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1Y3Rpb24ubGlzdF9hdCkudG8gZXEgVGltZS5wYXJzZShwYXJhbXNbOmxpc3RfYXRdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCB7CiAgICAgICAgICAgIGF1Y3Rpb24udXBkYXRlX3dpdGhfZGF0ZV9hbmRfZGVzY3JpcHRpb24hKHBhcmFtcywgZGVzY3JpcHRpb25fcGFyYW1zKQogICAgICAgICAgfS50byBjaGFuZ2UgeyBbYXVjdGlvbi5jYW5jZWxfYXQsIGF1Y3Rpb24uZXh0ZW5kX2R1cmF0aW9uLCBhdWN0aW9uLnBlcmlvZF0gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCB7CiAgICAgICAgICAgIGF1Y3Rpb24udXBkYXRlX3dpdGhfZGF0ZV9hbmRfZGVzY3JpcHRpb24hKHBhcmFtcywgZGVzY3JpcHRpb25fcGFyYW1zKQogICAgICAgICAgfS50b19ub3QgY2hhbmdlIHsgW2F1Y3Rpb24ubmFtZSwgYXVjdGlvbi5saXN0X2F0LCBhdWN0aW9uLmNhbmNlbF9hdCwgYXVjdGlvbi5lbmRfYXQsIGF1Y3Rpb24uZXh0ZW5kX2R1cmF0aW9uLCBhdWN0aW9uLnBlcmlvZF0gfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0udG9fbm90IGNoYW5nZSB7IFthdWN0aW9uLm5hbWUsIGF1Y3Rpb24ubGlzdF9hdCwgYXVjdGlvbi5lbmRfYXRdIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIH0udG9fbm90IGNoYW5nZSB7IFthdWN0aW9uLm5hbWUsIGF1Y3Rpb24ubGlzdF9hdCwgYXVjdGlvbi5jYW5jZWxfYXQsIGF1Y3Rpb24uZW5kX2F0LCBhdWN0aW9uLmV4dGVuZF9kdXJhdGlvbiwgYXVjdGlvbi5wZXJpb2RdIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXVjdGlvbi51cGRhdGVfd2l0aF9kYXRlX2FuZF9kZXNjcmlwdGlvbiEocGFyYW1zLCBkZXNjcmlwdGlvbl9wYXJhbXMpCg==</text>
@@ -539,16 +539,16 @@
         <text encoding="base64">ICAgICAgICAgIGV4cGVjdCB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1Y3Rpb24gPSBGYWN0b3J5Qm90LmNyZWF0ZSg6Y2FuY2VsbGVkX2F1Y3Rpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCB7CiAgICAgICAgICAgIGF1Y3Rpb24udXBkYXRlX3dpdGhfZGF0ZV9hbmRfZGVzY3JpcHRpb24hKHBhcmFtcywgZGVzY3JpcHRpb25fcGFyYW1zKQogICAgICAgICAgfS50byBjaGFuZ2UgeyBhdWN0aW9uLmVuZF9hdCB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1Y3Rpb24gPSBGYWN0b3J5Qm90LmNyZWF0ZSg6ZW5kZWRfYXVjdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgIH0udG9fbm90IGNoYW5nZSB7IFthdWN0aW9uLm5hbWUsIGF1Y3Rpb24ubGlzdF9hdCwgYXVjdGlvbi5jYW5jZWxfYXQsIGF1Y3Rpb24uZXh0ZW5kX2R1cmF0aW9uLCBhdWN0aW9uLnBlcmlvZF0gfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1Y3Rpb24gPSBGYWN0b3J5Qm90LmNyZWF0ZSg6bmVhcl90aGVfZW5kX2F1Y3Rpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXVjdGlvbi51cGRhdGVfd2l0aF9kYXRlX2FuZF9kZXNjcmlwdGlvbiEocGFyYW1zLCBkZXNjcmlwdGlvbl9wYXJhbXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1Y3Rpb24gPSBGYWN0b3J5Qm90LmNyZWF0ZSg6bmVhcl90aGVfZW5kX2F1Y3Rpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1Y3Rpb24ubGlzdF9hdCkubm90X3RvIGVxIFRpbWUucGFyc2UocGFyYW1zWzpsaXN0X2F0XSkK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
