@@ -277,6 +277,12 @@
         <mark key="." line="164" column="31" />
         <mark key="^" line="164" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/lib/tasks/db.rake" timestamp="1536808276482">
+        <mark key="[" line="17" column="112" />
+        <mark key="]" line="17" column="112" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="17" column="112" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1536657027739">
         <mark key="[" line="226" column="0" />
         <mark key="]" line="226" column="0" />
@@ -295,10 +301,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/lib/tasks/videos.rake" timestamp="1536318384940" />
-      <file name="/Dummy.txt" timestamp="1536743222670">
+      <file name="/Dummy.txt" timestamp="1536808285452">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose/db/setup.sh" timestamp="1536644494730">
@@ -458,7 +464,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e specs for updatable_data_columns</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>nanairo</text>
@@ -494,7 +500,7 @@
         <text encoding="base64">ICAgICAgYXVjdGlvbiA9IGF1Y3Rpb25zKDpzY2hlZHVsZWQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -544,8 +550,8 @@
         <entry>vsplit</entry>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>action Find</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
