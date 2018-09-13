@@ -7531,6 +7531,25 @@
         <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/62281905/1322250864/gems/rubyzip-1.2.1/samples" />
       </excluded>
     </library>
+    <library name="rubyzip (v1.2.2, rbenv: 2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.2/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.2/samples" />
+      </excluded>
+    </library>
     <library name="rubyzip (v1.2.2, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
