@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1536739579223">
-        <mark key="[" line="362" column="20" />
-        <mark key="]" line="362" column="20" />
-        <mark key="." line="362" column="20" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1536815811477">
+        <mark key="[" line="314" column="15" />
+        <mark key="]" line="314" column="15" />
+        <mark key="." line="314" column="15" />
         <mark key="^" line="362" column="20" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/base_job.rb" timestamp="1535445269721">
@@ -464,13 +464,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>id: user_ids</text>
       </register>
       <register name="/" type="4">
         <text>nanairo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PCUgaWYgZi5vYmplY3QudXBkYXRhYmxlX2VuZF9hdD8gJT4K</text>
+      <register name="0" type="4">
+        <text>:user_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
