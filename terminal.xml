@@ -1,5 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="ubuntu.exe" />
+    <option name="mySoundBell" value="false" />
     <option name="myTabName" value="" />
   </component>
 </application>
