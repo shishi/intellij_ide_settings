@@ -273,7 +273,7 @@
         <mark key="]" line="105" column="1" />
         <mark key="." line="105" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536979779707">
+      <file name="/Dummy.txt" timestamp="1544854318887">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
@@ -330,10 +330,10 @@
         <mark key="." line="44" column="67" />
         <mark key="^" line="44" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Gemfile" timestamp="1536979744234">
-        <mark key="[" line="8" column="64" />
-        <mark key="]" line="8" column="69" />
-        <mark key="." line="8" column="69" />
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Gemfile" timestamp="1544854254612">
+        <mark key="[" line="8" column="69" />
+        <mark key="]" line="8" column="70" />
+        <mark key="." line="8" column="70" />
         <mark key="^" line="8" column="69" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/wallet/rule.rb" timestamp="1536656919241">
