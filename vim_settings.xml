@@ -38,6 +38,9 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/lib/rails_guides_review.rb" timestamp="1544855268339">
+        <mark key="'" line="6" column="42" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/base_job.rb" timestamp="1535445269721">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="19" />
@@ -139,7 +142,7 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="17" column="112" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/lib/review/ext/table_cell_list.rb" timestamp="1536979617723">
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/lib/review/ext/table_cell_list.rb" timestamp="1544855453770">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -205,11 +208,18 @@
       <file name="/Ruby Console" timestamp="1536737437197">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/review-ext.rb" timestamp="1544855474035">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1534943861236">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Rakefile" timestamp="1544855418598" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" timestamp="1536303718720">
         <mark key="[" line="164" column="25" />
         <mark key="]" line="164" column="31" />
@@ -330,6 +340,13 @@
         <mark key="." line="44" column="67" />
         <mark key="^" line="44" column="67" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/layouts/layout.tex.erb" timestamp="1544856042843">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="46" column="34" />
+        <mark key="]" line="46" column="34" />
+        <mark key="^" line="46" column="33" />
+        <mark key="." line="46" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Gemfile" timestamp="1544854254612">
         <mark key="[" line="8" column="69" />
         <mark key="]" line="8" column="70" />
@@ -358,12 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="89" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="98" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="102" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="112" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="125" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="126" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="132" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="133" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
@@ -458,19 +469,25 @@
       <jump line="3" column="8" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/lib/review/ext/emlist.rb" />
       <jump line="12" column="8" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/lib/review/ext/emlist.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/lib/review/ext/emlist.rb" />
+      <jump line="45" column="4" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/lib/rails_guides_review.rb" />
+      <jump line="120" column="44" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/lib/rails_guides_review.rb" />
+      <jump line="122" column="23" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/lib/rails_guides_review.rb" />
+      <jump line="142" column="29" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/lib/rails_guides_review.rb" />
+      <jump line="6" column="42" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/lib/rails_guides_review.rb" />
+      <jump line="29" column="0" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/layouts/layout.tex.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>3bf6df4a8</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>nanairo</text>
+        <text>values</text>
       </register>
       <register name="0" type="4">
         <text>:user_id</text>
@@ -503,13 +520,13 @@
         <text encoding="base64">ICAgICAgYXVjdGlvbiA9IGF1Y3Rpb25zKDpzY2hlZHVsZWQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nanairo</last-search>
+      <last-search>values</last-search>
       <last-offset />
-      <last-pattern>nanairo</last-pattern>
+      <last-pattern>values</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdWN0aW9uXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -517,8 +534,6 @@
     </search>
     <history>
       <history-search>
-        <entry>panel</entry>
-        <entry>webmas</entry>
         <entry>render</entry>
         <entry>folrm</entry>
         <entry>form</entry>
@@ -537,6 +552,8 @@
         <entry encoding="base64">XDxlbmRcPg==</entry>
         <entry encoding="base64">XDxhdWN0aW9uXD4=</entry>
         <entry>nanairo</entry>
+        <entry>emlist</entry>
+        <entry>values</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
@@ -553,10 +570,10 @@
         <entry>vsplit</entry>
         <entry>W</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>action Find</entry>
         <entry>action ShowUsages</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
