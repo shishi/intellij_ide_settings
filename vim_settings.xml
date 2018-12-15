@@ -220,7 +220,6 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Rakefile" timestamp="1544855418598" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" timestamp="1536303718720">
         <mark key="[" line="164" column="25" />
         <mark key="]" line="164" column="31" />
@@ -251,6 +250,12 @@
         <mark key="[" line="226" column="0" />
         <mark key="]" line="226" column="0" />
         <mark key="." line="226" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/sty/tatsumacro.sty" timestamp="1544860247353">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_not_draft.erb" timestamp="1536742484477">
         <mark key="[" line="62" column="25" />
@@ -284,7 +289,7 @@
         <mark key="]" line="105" column="1" />
         <mark key="." line="105" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544854318887">
+      <file name="/Dummy.txt" timestamp="1544860689212">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
@@ -341,7 +346,7 @@
         <mark key="." line="44" column="67" />
         <mark key="^" line="44" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/layouts/layout.tex.erb" timestamp="1544859407753">
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/layouts/layout.tex.erb" timestamp="1544860677224">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
