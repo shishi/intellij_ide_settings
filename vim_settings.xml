@@ -153,12 +153,12 @@
         <mark key="." line="105" column="8" />
         <mark key="^" line="105" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/config.yml" timestamp="1544856749257">
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/config.yml" timestamp="1544858807240">
         <mark key="'" line="13" column="32" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="56" column="44" />
+        <mark key="]" line="57" column="17" />
+        <mark key="^" line="57" column="17" />
+        <mark key="." line="57" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e43bfdb4-0cb4-4a3d-ae4a-0f21eb81498f/console.sql" timestamp="1536218038446">
         <mark key="[" line="0" column="66" />
@@ -341,12 +341,12 @@
         <mark key="." line="44" column="67" />
         <mark key="^" line="44" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/layouts/layout.tex.erb" timestamp="1544857085938">
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/layouts/layout.tex.erb" timestamp="1544859407753">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="46" column="34" />
-        <mark key="]" line="46" column="34" />
-        <mark key="^" line="46" column="33" />
-        <mark key="." line="46" column="34" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="46" column="56" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Gemfile" timestamp="1544854254612">
         <mark key="[" line="8" column="69" />
@@ -478,14 +478,14 @@
       <jump line="13" column="32" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PCUgICBlbmQgJT4K</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>coloph</text>
@@ -494,31 +494,31 @@
         <text>:user_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCUgICBlbmQgJT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XHVzZXBhY2thZ2V7bGlzdGluZ3N9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCUgICBlbHNlICU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpeHR1cmVzIDphdWN0aW9ucwo=</text>
+        <text encoding="base64">XHVzZXBhY2thZ2V7bGlzdGluZ3Msamxpc3RpbmcsamF2YXNjcmlwdH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXVjdGlvbiA9IGF1Y3Rpb25zKDpjYW5jZWxsZWQpCg==</text>
+        <text encoding="base64">PCUgICBpZiBAY29uZmlnWyJsYW5ndWFnZSJdID09ICJqYSIgJT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYXVjdGlvbiA9IGF1Y3Rpb25zKDplbmRlZCkK</text>
+        <text encoding="base64">PCUgaWYgQGNvbmZpZ1siaGlnaGxpZ2h0Il0gJiYgY29uZmlnWyJoaWdobGlnaHQiXVsibGF0ZXgiXSA9PSAibGlzdGluZ3MiICU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXVjdGlvbiA9IGF1Y3Rpb25zKDpuZWFyX3RoZV9lbmQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXVjdGlvbiA9IGF1Y3Rpb25zKDpzdGFydGVkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXVjdGlvbiA9IGF1Y3Rpb25zKDpzY2hlZHVsZWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
