@@ -7,5 +7,10 @@
         <option name="machine" value="default" />
       </configuration>
     </remote-server>
+    <remote-server name="Docker Ubuntu" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://192.168.107.153:2376" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
