@@ -71,7 +71,6 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/shishi/dotfiles/fish/fishfile" timestamp="1545053312559" />
       <file name="/nanairo_development.videos [db]" timestamp="1536655938551">
         <mark key="[" line="0" column="0" />
       </file>
@@ -303,7 +302,7 @@
         <mark key="]" line="105" column="1" />
         <mark key="." line="105" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544860689212">
+      <file name="/Dummy.txt" timestamp="1545066279691">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
@@ -393,10 +392,11 @@
       <file name="/nanairo_development.content_favorite_assignments [db]" timestamp="1536650272434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/docker-compose/app/docker-prehook.sh" timestamp="1545058183417">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/docker-compose/app/docker-prehook.sh" timestamp="1545066272322">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -502,14 +502,14 @@
       <jump line="120" column="4" filename="$USER_HOME$/dev/src/github.com/shishi/dotfiles/fish/functions/fish_prompt.fish" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
