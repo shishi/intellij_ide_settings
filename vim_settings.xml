@@ -67,6 +67,12 @@
       <file name="/nanairo_development.videos [db]" timestamp="1536655938551">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/test.sh" timestamp="1545044951869">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/user/auctions_spec.rb" timestamp="1535360719581">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="75" column="6" />
