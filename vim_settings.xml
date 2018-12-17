@@ -41,6 +41,13 @@
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/lib/rails_guides_review.rb" timestamp="1544855268339">
         <mark key="'" line="6" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/shishi/dotfiles/fish/functions/fish_prompt.fish" timestamp="1545053209090">
+        <mark key="'" line="120" column="4" />
+        <mark key="[" line="120" column="4" />
+        <mark key="]" line="120" column="4" />
+        <mark key="^" line="120" column="5" />
+        <mark key="." line="120" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/base_job.rb" timestamp="1535445269721">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="19" />
@@ -64,6 +71,7 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/shishi/dotfiles/fish/fishfile" timestamp="1545053312559" />
       <file name="/nanairo_development.videos [db]" timestamp="1536655938551">
         <mark key="[" line="0" column="0" />
       </file>
@@ -387,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="133" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="141" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="142" column="8" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
@@ -487,19 +494,20 @@
       <jump line="6" column="42" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/lib/rails_guides_review.rb" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/layouts/layout.tex.erb" />
       <jump line="13" column="32" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/config.yml" />
+      <jump line="120" column="4" filename="$USER_HOME$/dev/src/github.com/shishi/dotfiles/fish/functions/fish_prompt.fish" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCUgICBlbmQgJT4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>coloph</text>
+        <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
       <register name="0" type="4">
         <text>:user_id</text>
@@ -536,17 +544,16 @@
       </register>
     </registers>
     <search>
-      <last-search>coloph</last-search>
+      <last-search encoding="base64">XDxzaG93X3Byb21wdFw+</last-search>
       <last-offset />
-      <last-pattern>coloph</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93X3Byb21wdFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdWN0aW9uXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>folrm</entry>
         <entry>form</entry>
         <entry>form_</entry>
         <entry>cast</entry>
@@ -566,6 +573,7 @@
         <entry>emlist</entry>
         <entry>values</entry>
         <entry>coloph</entry>
+        <entry encoding="base64">XDxzaG93X3Byb21wdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
