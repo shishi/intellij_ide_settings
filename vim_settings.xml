@@ -393,11 +393,10 @@
       <file name="/nanairo_development.content_favorite_assignments [db]" timestamp="1536650272434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/docker-compose/app/docker-prehook.sh" timestamp="1545057382574">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="1" />
-        <mark key="." line="8" column="1" />
-        <mark key="^" line="8" column="1" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/docker-compose/app/docker-prehook.sh" timestamp="1545058183417">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -503,8 +502,8 @@
       <jump line="120" column="4" filename="$USER_HOME$/dev/src/github.com/shishi/dotfiles/fish/functions/fish_prompt.fish" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -519,31 +518,31 @@
         <text>:user_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCUgICBlbmQgJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2V7bGlzdGluZ3N9Cg==</text>
+        <text encoding="base64">ZG9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCUgICBlbHNlICU+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2V7bGlzdGluZ3Msamxpc3RpbmcsamF2YXNjcmlwdH0K</text>
+        <text encoding="base64">OndoaWxlIHRlc3Q7IGRvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCUgICBpZiBAY29uZmlnWyJsYW5ndWFnZSJdID09ICJqYSIgJT4K</text>
+        <text encoding="base64">ZG9uZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCUgaWYgQGNvbmZpZ1siaGlnaGxpZ2h0Il0gJiYgY29uZmlnWyJoaWdobGlnaHQiXVsibGF0ZXgiXSA9PSAibGlzdGluZ3MiICU+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OyBkbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCUgICBlbmQgJT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XHVzZXBhY2thZ2V7bGlzdGluZ3N9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
