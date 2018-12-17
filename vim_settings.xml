@@ -393,6 +393,12 @@
       <file name="/nanairo_development.content_favorite_assignments [db]" timestamp="1536650272434">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/docker-compose/app/docker-prehook.sh" timestamp="1545057382574">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="133" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
