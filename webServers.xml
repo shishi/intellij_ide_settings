@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e615dc4c-2b06-420a-b3bd-13f2531055e7" name="Copy of project-level server 'Ubuntu'" url="http://192.168.107.153">
+        <fileTransfer host="192.168.107.153" port="22" privateKey="C:\Users\shishi\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2c208752-5069-48fa-8dcb-abe8e247064a" name="Ubuntu" url="http://192.168.107.153">
+        <fileTransfer host="192.168.107.153" port="22" privateKey="C:\Users\shishi\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
