@@ -48,11 +48,11 @@
         <mark key="^" line="120" column="5" />
         <mark key="." line="120" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/packs/onesignal.js" timestamp="1545112720894">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="20" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/packs/onesignal.js" timestamp="1545116086395">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/base_job.rb" timestamp="1535445269721">
         <mark key="[" line="2" column="20" />
@@ -275,7 +275,7 @@
         <mark key="]" line="105" column="1" />
         <mark key="." line="105" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545113051172">
+      <file name="/Dummy.txt" timestamp="1545116094802">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
@@ -329,11 +329,10 @@
         <mark key="." line="49" column="42" />
         <mark key="^" line="49" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/views/layouts/application.html.erb" timestamp="1545113845853">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/views/layouts/application.html.erb" timestamp="1545115856062">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="37" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/labels_controller.rb" timestamp="1536650800607">
         <mark key="[" line="44" column="64" />
@@ -497,34 +496,34 @@
         <text encoding="base64">ICAgICAgICB2YXIgT25lU2lnbmFsID0gd2luZG93Lk9uZVNpZ25hbCB8fCBbXTsKICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLmluaXQoewogICAgICAgICAgICAgICAgYXBwSWQ6ICIxMzdhMzBhMy1kNzI1LTRmMjctOTRjYy1kMzI5OTA3YTkzMWYiLAogICAgICAgICAgICB9KTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwlPSBqYXZhc2NyaXB0X3BhY2tfdGFnICdPbmVTaWduYWwnICU+Cg==</text>
+        <text encoding="base64">PCEtLSAgICA8L3NjcmlwdD4tLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmFtZSBzcmM9Imh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnCg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgfSk7LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ibWFuaWZlc3QiIGhyZWY9Ii9tYW5pZmVzdC5qc29uIiAvPgogICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLm9uZXNpZ25hbC5jb20vc2Rrcy9PbmVTaWduYWxTREsuanMiIGFzeW5jPSIiPjwvc2NyaXB0PgogICAgPHNjcmlwdD4KICAgICAgICB2YXIgT25lU2lnbmFsID0gd2luZG93Lk9uZVNpZ25hbCB8fCBbXTsKICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLmluaXQoewogICAgICAgICAgICAgICAgYXBwSWQ6ICIxOTBkZGZiYy1mMzg4LTRhZDEtYmMyMC1lNjAxMTc5NTM3YWIiLAogICAgICAgICAgICB9KTsKICAgICAgICB9KTsKICAgIDwvc2NyaXB0PgogIDwvaGVhZD4K</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgIH0pOy0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICBhcHBJZDogIjEzN2EzMGEzLWQ3MjUtNGYyNy05NGNjLWQzMjk5MDdhOTMxZiIsLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG9uZQo=</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgIE9uZVNpZ25hbC5pbml0KHstLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PCEtLSAgICAgICAgT25lU2lnbmFsLnB1c2goZnVuY3Rpb24oKSB7LS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">OndoaWxlIHRlc3Q7IGRvCg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgdmFyIE9uZVNpZ25hbCA9IHdpbmRvdy5PbmVTaWduYWwgfHwgW107LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZG9uZQo=</text>
+        <text encoding="base64">PCEtLSAgICA8c2NyaXB0Pi0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDwlPSBqYXZhc2NyaXB0X3BhY2tfdGFnICdPbmVTaWduYWwnICU+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -576,8 +575,8 @@
         <entry>action Find</entry>
         <entry>action ShowUsages</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
