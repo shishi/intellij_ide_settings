@@ -48,6 +48,12 @@
         <mark key="^" line="120" column="5" />
         <mark key="." line="120" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/packs/onesignal.js" timestamp="1545112720894">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/base_job.rb" timestamp="1535445269721">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="19" />
@@ -269,7 +275,7 @@
         <mark key="]" line="105" column="1" />
         <mark key="." line="105" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545111213640">
+      <file name="/Dummy.txt" timestamp="1545113051172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
@@ -286,6 +292,9 @@
         <mark key="]" line="4" column="67" />
         <mark key="." line="4" column="67" />
         <mark key="^" line="4" column="67" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/components/OneSignal/onesignal.js" timestamp="1545113755110">
+        <mark key="'" line="5" column="2" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" timestamp="1536823679171">
         <mark key="[" line="84" column="28" />
@@ -317,11 +326,11 @@
         <mark key="." line="49" column="42" />
         <mark key="^" line="49" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/views/layouts/application.html.erb" timestamp="1545111208587">
-        <mark key="[" line="45" column="12" />
-        <mark key="]" line="45" column="39" />
-        <mark key="." line="45" column="12" />
-        <mark key="^" line="39" column="14" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/views/layouts/application.html.erb" timestamp="1545113845853">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="37" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/labels_controller.rb" timestamp="1536650800607">
         <mark key="[" line="44" column="64" />
@@ -367,9 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="141" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="142" column="8" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="145" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="146" column="8" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="153" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
@@ -467,6 +473,9 @@
       <jump line="29" column="0" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/layouts/layout.tex.erb" />
       <jump line="13" column="32" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/config.yml" />
       <jump line="120" column="4" filename="$USER_HOME$/dev/src/github.com/shishi/dotfiles/fish/functions/fish_prompt.fish" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/components/OneSignal/onesignal.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/components/OneSignal/onesignal.js" />
+      <jump line="5" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/components/OneSignal/onesignal.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -476,43 +485,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IEdvb2dsZSBUYWcgTWFuYWdlciAobm9zY3Jp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgT25lU2lnbmFsID0gd2luZG93Lk9uZVNpZ25hbCB8fCBbXTsKICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLmluaXQoewogICAgICAgICAgICAgICAgYXBwSWQ6ICIxMzdhMzBhMy1kNzI1LTRmMjctOTRjYy1kMzI5OTA3YTkzMWYiLAogICAgICAgICAgICB9KTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmFtZSBzcmM9Imh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnCg==</text>
+        <text encoding="base64">ICAgIDwlPSBqYXZhc2NyaXB0X3BhY2tfdGFnICdPbmVTaWduYWwnICU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ibWFuaWZlc3QiIGhyZWY9Ii9tYW5pZmVzdC5qc29uIiAvPgogICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLm9uZXNpZ25hbC5jb20vc2Rrcy9PbmVTaWduYWxTREsuanMiIGFzeW5jPSIiPjwvc2NyaXB0PgogICAgPHNjcmlwdD4KICAgICAgICB2YXIgT25lU2lnbmFsID0gd2luZG93Lk9uZVNpZ25hbCB8fCBbXTsKICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLmluaXQoewogICAgICAgICAgICAgICAgYXBwSWQ6ICIxOTBkZGZiYy1mMzg4LTRhZDEtYmMyMC1lNjAxMTc5NTM3YWIiLAogICAgICAgICAgICB9KTsKICAgICAgICB9KTsKICAgIDwvc2NyaXB0PgogIDwvaGVhZD4K</text>
+        <text encoding="base64">cmFtZSBzcmM9Imh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ibWFuaWZlc3QiIGhyZWY9Ii9tYW5pZmVzdC5qc29uIiAvPgogICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLm9uZXNpZ25hbC5jb20vc2Rrcy9PbmVTaWduYWxTREsuanMiIGFzeW5jPSIiPjwvc2NyaXB0PgogICAgPHNjcmlwdD4KICAgICAgICB2YXIgT25lU2lnbmFsID0gd2luZG93Lk9uZVNpZ25hbCB8fCBbXTsKICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLmluaXQoewogICAgICAgICAgICAgICAgYXBwSWQ6ICIxOTBkZGZiYy1mMzg4LTRhZDEtYmMyMC1lNjAxMTc5NTM3YWIiLAogICAgICAgICAgICB9KTsKICAgICAgICB9KTsKICAgIDwvc2NyaXB0PgogIDwvaGVhZD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZG9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">OndoaWxlIHRlc3Q7IGRvCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ZG9uZQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">OndoaWxlIHRlc3Q7IGRvCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZG9uZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">OyBkbwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -550,7 +559,6 @@
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
         <entry>qw</entry>
-        <entry>q</entry>
         <entry>set smartcase</entry>
         <entry>action</entry>
         <entry>action GotoPreviousError</entry>
@@ -566,6 +574,7 @@
         <entry>action ShowUsages</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
