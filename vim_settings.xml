@@ -48,9 +48,9 @@
         <mark key="^" line="120" column="5" />
         <mark key="." line="120" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/packs/onesignal.js" timestamp="1545117148388">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="7" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/packs/onesignal.js" timestamp="1545120929094">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="52" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
@@ -137,6 +137,12 @@
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/onesignalal.rb" timestamp="1545121202822">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/fixtures/videos.yml" timestamp="1536572663064">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
@@ -159,6 +165,12 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/onesignal.rb" timestamp="1545122867321">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/views/defaults/ja.yml" timestamp="1535077584735">
         <mark key="[" line="104" column="9" />
@@ -275,7 +287,7 @@
         <mark key="]" line="105" column="1" />
         <mark key="." line="105" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545119625618">
+      <file name="/Dummy.txt" timestamp="1545119821259">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
@@ -329,11 +341,8 @@
         <mark key="." line="49" column="42" />
         <mark key="^" line="49" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/views/layouts/application.html.erb" timestamp="1545119688313">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/views/layouts/application.html.erb" timestamp="1545120380144">
         <mark key="[" line="34" column="13" />
-        <mark key="]" line="35" column="10" />
-        <mark key="." line="35" column="10" />
-        <mark key="^" line="35" column="10" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/labels_controller.rb" timestamp="1536650800607">
         <mark key="[" line="44" column="64" />
@@ -488,13 +497,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgT25lU2lnbmFsID0gd2luZG93Lk9uZVNpZ25hbCB8fCBbXTsKICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLmluaXQoewogICAgICAgICAgICAgICAgYXBwSWQ6ICIxMzdhMzBhMy1kNzI1LTRmMjctOTRjYy1kMzI5OTA3YTkzMWYiLAogICAgICAgICAgICB9KTsKICAgICAgICB9KTsK</text>
+      <register name="0" type="4">
+        <text>137a30a3-d725-4f27-94cc-d329907a931f&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PCEtLSAgICA8L3NjcmlwdD4tLT4K</text>
