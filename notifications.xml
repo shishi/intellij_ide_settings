@@ -3,6 +3,6 @@
     <notification groupId="Database detector" displayType="NONE" shouldLog="false" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Gem Manager" displayType="NONE" shouldLog="false" />
-    <notification groupId="System Messages" shouldLog="false" />
+    <notification groupId="System Messages" displayType="NONE" />
   </component>
 </application>

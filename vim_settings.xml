@@ -269,7 +269,7 @@
         <mark key="]" line="105" column="1" />
         <mark key="." line="105" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545069325431">
+      <file name="/Dummy.txt" timestamp="1545111213640">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
@@ -317,11 +317,11 @@
         <mark key="." line="49" column="42" />
         <mark key="^" line="49" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/views/layouts/application.html.erb" timestamp="1545110210436">
-        <mark key="[" line="23" column="96" />
-        <mark key="]" line="34" column="12" />
-        <mark key="^" line="34" column="12" />
-        <mark key="." line="34" column="12" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/views/layouts/application.html.erb" timestamp="1545111208587">
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="12" />
+        <mark key="^" line="39" column="14" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/labels_controller.rb" timestamp="1536650800607">
         <mark key="[" line="44" column="64" />
@@ -482,34 +482,34 @@
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>:user_id</text>
+        <text encoding="base64">IEdvb2dsZSBUYWcgTWFuYWdlciAobm9zY3Jp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmFtZSBzcmM9Imh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZG9uZQo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ibWFuaWZlc3QiIGhyZWY9Ii9tYW5pZmVzdC5qc29uIiAvPgogICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLm9uZXNpZ25hbC5jb20vc2Rrcy9PbmVTaWduYWxTREsuanMiIGFzeW5jPSIiPjwvc2NyaXB0PgogICAgPHNjcmlwdD4KICAgICAgICB2YXIgT25lU2lnbmFsID0gd2luZG93Lk9uZVNpZ25hbCB8fCBbXTsKICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLmluaXQoewogICAgICAgICAgICAgICAgYXBwSWQ6ICIxOTBkZGZiYy1mMzg4LTRhZDEtYmMyMC1lNjAxMTc5NTM3YWIiLAogICAgICAgICAgICB9KTsKICAgICAgICB9KTsKICAgIDwvc2NyaXB0PgogIDwvaGVhZD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">OndoaWxlIHRlc3Q7IGRvCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ZG9uZQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">OndoaWxlIHRlc3Q7IGRvCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">OyBkbwo=</text>
+        <text encoding="base64">ZG9uZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCUgICBlbmQgJT4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2V7bGlzdGluZ3N9Cg==</text>
+        <text encoding="base64">OyBkbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -607,7 +607,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -654,6 +654,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
