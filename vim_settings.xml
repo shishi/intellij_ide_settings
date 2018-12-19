@@ -143,6 +143,12 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/Gemfile" timestamp="1545211241022">
+        <mark key="[" line="51" column="13" />
+        <mark key="]" line="51" column="13" />
+        <mark key="^" line="52" column="1" />
+        <mark key="." line="51" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/fixtures/videos.yml" timestamp="1536572663064">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
@@ -207,10 +213,11 @@
         <mark key="." line="42" column="60" />
         <mark key="^" line="42" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545204673150">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545211341055">
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="67" />
+        <mark key="^" line="21" column="67" />
+        <mark key="." line="21" column="67" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/review-ext.rb" timestamp="1544855474035">
         <mark key="[" line="4" column="0" />
@@ -263,7 +270,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545207530384">
+      <file name="/Dummy.txt" timestamp="1545211514368">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
@@ -468,7 +475,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tbm8tYmluLWxpbmtz</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
@@ -477,31 +484,31 @@
         <text encoding="base64">cGFyYW1zID0gewogIGFwcF9pZDogIjEzN2EzMGEzLWQ3MjUtNGYyNy05NGNjLWQzMjk5MDdhOTMxZiIsCiAgaGVhZGluZ3M6IHsgZW46ICJXZWxjb21lIHRvIHRha2V5dXdlYiEiIH0sCiAgY29udGVudHM6IHsgZW46ICJXZWxjb21lIHRvIENhdCBGYWN0c1xuIFdlbGNvbWUgdG8gQ2F0IEZhY3RzIiB9LAogIGluY2x1ZGVkX3NlZ21lbnRzOiBbIlN1YnNjcmliZWQgVXNlcnMiXSwKICB1cmw6ICJodHRwOi8vZ29vZ2xlLmNvbSIKfQp1cmkgPSBVUkkucGFyc2UoJ2h0dHBzOi8vb25lc2lnbmFsLmNvbS9hcGkvdjEvbm90aWZpY2F0aW9ucycpCmh0dHAgPSBOZXQ6OkhUVFAubmV3KHVyaS5ob3N0LCB1cmkucG9ydCkKaHR0cC51c2Vfc3NsID0gdHJ1ZQoKcmVxdWVzdCA9IE5ldDo6SFRUUDo6UG9zdC5uZXcodXJpLnBhdGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbjtjaGFyc2V0PXV0Zi04JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0F1dGhvcml6YXRpb24nOiAiQmFzaWMgTUdZMU4yVmxPVFF0WkRNek55MDBaRFUxTFRoak56QXRNMkppTnpabVl6QTVaR0UxIikKcmVxdWVzdC5ib2R5ID0gcGFyYW1zLmFzX2pzb24udG9fanNvbgpyZXNwb25zZSA9IGh0dHAucmVxdWVzdChyZXF1ZXN0KQpwdXRzIHJlc3BvbnNlLmJvZHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICByZXF1aXJlICdzYW5pdGl6ZScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLSAgICA8L3NjcmlwdD4tLT4K</text>
+        <text encoding="base64">ICBpbmNsdWRlIEFjdGlvblZpZXc6OkhlbHBlcnM6OlNhbml0aXplSGVscGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgfSk7LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgIH0pOy0tPgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICBhcHBJZDogIjEzN2EzMGEzLWQ3MjUtNGYyNy05NGNjLWQzMjk5MDdhOTMxZiIsLS0+Cg==</text>
+        <text encoding="base64">PCEtLSAgICA8L3NjcmlwdD4tLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgIE9uZVNpZ25hbC5pbml0KHstLT4K</text>
+        <text encoding="base64">PCEtLSAgICAgICAgfSk7LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgT25lU2lnbmFsLnB1c2goZnVuY3Rpb24oKSB7LS0+Cg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgIH0pOy0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgdmFyIE9uZVNpZ25hbCA9IHdpbmRvdy5PbmVTaWduYWwgfHwgW107LS0+Cg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICBhcHBJZDogIjEzN2EzMGEzLWQ3MjUtNGYyNy05NGNjLWQzMjk5MDdhOTMxZiIsLS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
