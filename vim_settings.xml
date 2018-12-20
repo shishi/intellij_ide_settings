@@ -218,11 +218,11 @@
         <mark key="." line="42" column="60" />
         <mark key="^" line="42" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545294966271">
-        <mark key="[" line="29" column="45" />
-        <mark key="]" line="29" column="46" />
-        <mark key="^" line="48" column="23" />
-        <mark key="." line="29" column="46" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545296918522">
+        <mark key="[" line="28" column="63" />
+        <mark key="]" line="28" column="63" />
+        <mark key="^" line="28" column="63" />
+        <mark key="." line="28" column="63" />
       </file>
       <file name="/Ruby Console" timestamp="1545283346434">
         <mark key="[" line="0" column="0" />
@@ -486,7 +486,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>) do |builder|</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
@@ -495,31 +495,31 @@
         <text>&quot;Basic #{ Rails.application.credentials.dig(:one_signal, :api_key) }&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29udGVudCA9Cg==</text>
+        <text encoding="base64">ICAgICAgcCByZXMuYm9keQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXF1aXJlICdzYW5pdGl6ZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIEFjdGlvblZpZXc6OkhlbHBlcnM6OlNhbml0aXplSGVscGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgdXJsID0gVVJJLnBhcnNlKFJhaWxzLmFwcGxpY2F0aW9uLmNyZWRlbnRpYWxzLmRpZyg6b25lX3NpZ25hbCwgOm5vdGlmaWNhdGlvbl91cmwpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PCEtLSAgICA8L3NjcmlwdD4tLT4K</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgIyB1cmkgPSBVUkkucGFyc2UoUmFpbHMuYXBwbGljYXRpb24uY3JlZGVudGlhbHMuZGlnKDpvbmVfc2lnbmFsLCA6bm90aWZpY2F0aW9uX3VybCkpCiAgICAgICMgaHR0cCA9IE5ldDo6SFRUUC5uZXcodXJpLmhvc3QsIHVyaS5wb3J0KQogICAgICAjIGh0dHAudXNlX3NzbCA9IHRydWUKCiAgICAgICMgcmVxdWVzdCA9IE5ldDo6SFRUUDo6UG9zdC5uZXcodXJpLnBhdGgsCiAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uO2NoYXJzZXQ9dXRmLTgnLAogICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdBdXRob3JpemF0aW9uJzogIkJhc2ljICN7IFJhaWxzLmFwcGxpY2F0aW9uLmNyZWRlbnRpYWxzLmRpZyg6b25lX3NpZ25hbCwgOmFwaV9rZXkpIH0iKQogICAgICAjIHJlcXVlc3QuYm9keSA9IHBhcmFtcy5hc19qc29uLnRvX2pzb24KICAgICAgIyByZXNwb25zZSA9IGh0dHAucmVxdWVzdChyZXF1ZXN0KQogICAgICAjIHB1dHMgcmVzcG9uc2UuYm9keQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgfSk7LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgcCBwYXJhbXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgIH0pOy0tPgo=</text>
+        <text encoding="base64">ICAgICAgIyBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
