@@ -143,7 +143,7 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/Gemfile" timestamp="1545211241022">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/Gemfile" timestamp="1545288150263">
         <mark key="[" line="51" column="13" />
         <mark key="]" line="51" column="13" />
         <mark key="^" line="52" column="1" />
@@ -192,6 +192,11 @@
         <mark key="." line="157" column="45" />
         <mark key="^" line="157" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/config/master.key" timestamp="1545288492872">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/casts_controller.rb" timestamp="1536650769446">
         <mark key="[" line="43" column="64" />
         <mark key="]" line="43" column="67" />
@@ -213,11 +218,11 @@
         <mark key="." line="42" column="60" />
         <mark key="^" line="42" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545283507794">
-        <mark key="[" line="5" column="83" />
-        <mark key="]" line="5" column="90" />
-        <mark key="^" line="5" column="90" />
-        <mark key="." line="5" column="90" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545287987349">
+        <mark key="[" line="22" column="89" />
+        <mark key="]" line="24" column="153" />
+        <mark key="^" line="24" column="153" />
+        <mark key="." line="24" column="153" />
       </file>
       <file name="/Ruby Console" timestamp="1545283346434">
         <mark key="[" line="0" column="0" />
@@ -478,13 +483,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cGFyYW1zID0gewogIGFwcF9pZDogIjEzN2EzMGEzLWQ3MjUtNGYyNy05NGNjLWQzMjk5MDdhOTMxZiIsCiAgaGVhZGluZ3M6IHsgZW46ICJXZWxjb21lIHRvIHRha2V5dXdlYiEiIH0sCiAgY29udGVudHM6IHsgZW46ICJXZWxjb21lIHRvIENhdCBGYWN0c1xuIFdlbGNvbWUgdG8gQ2F0IEZhY3RzIiB9LAogIGluY2x1ZGVkX3NlZ21lbnRzOiBbIlN1YnNjcmliZWQgVXNlcnMiXSwKICB1cmw6ICJodHRwOi8vZ29vZ2xlLmNvbSIKfQp1cmkgPSBVUkkucGFyc2UoJ2h0dHBzOi8vb25lc2lnbmFsLmNvbS9hcGkvdjEvbm90aWZpY2F0aW9ucycpCmh0dHAgPSBOZXQ6OkhUVFAubmV3KHVyaS5ob3N0LCB1cmkucG9ydCkKaHR0cC51c2Vfc3NsID0gdHJ1ZQoKcmVxdWVzdCA9IE5ldDo6SFRUUDo6UG9zdC5uZXcodXJpLnBhdGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbjtjaGFyc2V0PXV0Zi04JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0F1dGhvcml6YXRpb24nOiAiQmFzaWMgTUdZMU4yVmxPVFF0WkRNek55MDBaRFUxTFRoak56QXRNMkppTnpabVl6QTVaR0UxIikKcmVxdWVzdC5ib2R5ID0gcGFyYW1zLmFzX2pzb24udG9fanNvbgpyZXNwb25zZSA9IGh0dHAucmVxdWVzdChyZXF1ZXN0KQpwdXRzIHJlc3BvbnNlLmJvZHkK</text>
+      <register name="0" type="4">
+        <text>Rails.application.config.action_mailer.default_url_options[:host],</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY29udGVudCA9Cg==</text>
