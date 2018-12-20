@@ -218,11 +218,11 @@
         <mark key="." line="42" column="60" />
         <mark key="^" line="42" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545302857281">
-        <mark key="[" line="28" column="63" />
-        <mark key="]" line="28" column="63" />
-        <mark key="^" line="28" column="63" />
-        <mark key="." line="28" column="63" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545312951215">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="33" column="52" />
+        <mark key="^" line="33" column="52" />
+        <mark key="." line="33" column="52" />
       </file>
       <file name="/Ruby Console" timestamp="1545283346434">
         <mark key="[" line="0" column="0" />
@@ -492,7 +492,7 @@
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;Basic #{ Rails.application.credentials.dig(:one_signal, :api_key) }&quot;</text>
+        <text>ms.to_json</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcCByZXMuYm9keQo=</text>
@@ -532,7 +532,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdWN0aW9uXD4=</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -593,10 +593,10 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -617,7 +617,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -632,7 +632,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -665,10 +665,10 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>shift ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>shift ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">

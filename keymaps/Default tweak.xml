@@ -1,4 +1,14 @@
 <keymap version="1" name="Default tweak" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
   <action id="ActivateDatabaseChangesToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 8" />
   </action>
@@ -20,6 +30,13 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="CopyPaths" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
   <action id="EditorDeleteLine" />
   <action id="EditorDeleteToLineEnd">
@@ -52,6 +69,9 @@
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl insert" />
   </action>
   <action id="QuickChangeScheme">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
