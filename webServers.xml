@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="2c208752-5069-48fa-8dcb-abe8e247064a" name="Ubuntu" url="http://172.18.77.40">
-        <fileTransfer host="172.18.77.40" port="22" privateKey="C:\Users\shishi\.ssh\id_rsa" rootFolder="/home/shishi/dev/src" accessType="SFTP" keyPair="true">
+      <webServer id="2c208752-5069-48fa-8dcb-abe8e247064a" name="Ubuntu" url="http://172.17.73.68">
+        <fileTransfer host="172.17.73.68" port="22" privateKey="C:\Users\shishi\.ssh\id_rsa" rootFolder="/home/shishi/dev/src" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
