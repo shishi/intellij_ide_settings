@@ -104,6 +104,11 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/.gitignore" timestamp="1545503364785">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180905075425_delete_subject_from_video.rb" timestamp="1536134134738">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="2" column="34" />
@@ -270,7 +275,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545495671446">
+      <file name="/Dummy.txt" timestamp="1545503381161">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -280,12 +285,6 @@
         <mark key="[" line="64" column="4" />
         <mark key="]" line="64" column="4" />
         <mark key="." line="64" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/books/active_model_basics.md" timestamp="1545493520724">
-        <mark key="[" line="366" column="4" />
-        <mark key="]" line="366" column="4" />
-        <mark key="^" line="366" column="4" />
-        <mark key="." line="366" column="4" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/support/session_helper.rb" timestamp="1535357407811">
         <mark key="[" line="0" column="0" />
@@ -505,27 +504,30 @@
         <text encoding="base64">Z2VtICdyZXZpZXcnLCBnaXQ6ICdodHRwczovL2dpdGh1Yi5jb20va211dG8vcmV2aWV3LmdpdCcsIHJlZjogJzYzODNiZjZkZjRhOCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2VtICdyZXZpZXcnLCBnaXQ6ICdodHRwczovL2dpdGh1Yi5jb20va211dG8vcmV2aWV3LmdpdCcsIHJlZjogJzYzODNiZjZkZjRhOCcK</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtICdyZXZpZXcnLCBnaXQ6ICdodHRwczovL2dpdGh1Yi5jb20va211dG8vcmV2aWV3LmdpdCcsIHJlZjogJzYzODNiZjZkZjRhOCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImJhc2giXQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">RU5UUllQT0lOVCBbImJhc2giXQo=</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">dm9sdW1lICc1NDMyOjU0MzInCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>s:
   postgresql-data:
     driver: 'local'
@@ -544,9 +546,6 @@ services:
       - default
     ports:
       -</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gcG9zdGdyZXNxbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
