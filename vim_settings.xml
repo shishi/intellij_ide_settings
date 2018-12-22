@@ -21,6 +21,11 @@
         <mark key="." line="50" column="82" />
         <mark key="^" line="50" column="82" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/CHAPS" timestamp="1545486783945">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="20" />
+        <mark key="." line="44" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/sessions_controller.rb" timestamp="1536299423051">
         <mark key="[" line="152" column="37" />
         <mark key="]" line="152" column="37" />
@@ -221,7 +226,7 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/review-ext.rb" timestamp="1544855474035">
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/review-ext.rb" timestamp="1545487097018">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -272,7 +277,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545484301087">
+      <file name="/Dummy.txt" timestamp="1545485989902">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="298" />
@@ -317,6 +322,12 @@
         <mark key="^" line="36" column="82" />
         <mark key="." line="36" column="82" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/RailsGuides-pdf/book.tex" timestamp="1545485967619">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/application.html.erb" timestamp="1534919292403">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -344,11 +355,11 @@
         <mark key="." line="44" column="67" />
         <mark key="^" line="44" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Gemfile" timestamp="1545483743706">
-        <mark key="[" line="8" column="65" />
-        <mark key="]" line="8" column="69" />
-        <mark key="." line="8" column="69" />
-        <mark key="^" line="8" column="69" />
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Gemfile" timestamp="1545486624193">
+        <mark key="[" line="8" column="76" />
+        <mark key="]" line="8" column="76" />
+        <mark key="." line="8" column="76" />
+        <mark key="^" line="8" column="76" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180907085825_drop_name_on_video.rb" timestamp="1536318728017">
         <mark key="[" line="2" column="32" />
@@ -482,7 +493,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
@@ -491,15 +502,18 @@
         <text>ms.to_json</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImJhc2giXQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">RU5UUllQT0lOVCBbImJhc2giXQo=</text>
+      </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">dm9sdW1lICc1NDMyOjU0MzInCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>s:
   postgresql-data:
     driver: 'local'
@@ -519,23 +533,20 @@ services:
     ports:
       -</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC0gcG9zdGdyZXNxbAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgLSAnMzAzNTozMDM1Jwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgLSAnMzAwMDozMDAwJwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -586,9 +597,9 @@ services:
         <entry>vsp</entry>
         <entry>action ShowUsages</entry>
         <entry>q</entry>
-        <entry>wq</entry>
-        <entry>action Find</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
