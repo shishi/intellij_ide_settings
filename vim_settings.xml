@@ -246,11 +246,11 @@
         <mark key="." line="643" column="41" />
         <mark key="^" line="643" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/sty/tatsumacro.sty" timestamp="1545494163268">
-        <mark key="[" line="94" column="20" />
-        <mark key="]" line="94" column="19" />
-        <mark key="^" line="94" column="19" />
-        <mark key="." line="94" column="19" />
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/sty/tatsumacro.sty" timestamp="1545494819518">
+        <mark key="[" line="98" column="20" />
+        <mark key="]" line="98" column="20" />
+        <mark key="." line="98" column="20" />
+        <mark key="^" line="100" column="3" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_not_draft.erb" timestamp="1536742484477">
         <mark key="[" line="62" column="25" />
@@ -270,10 +270,10 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545489577523">
+      <file name="/Dummy.txt" timestamp="1545495671446">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="35" />
-        <mark key="." line="0" column="298" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/books/4_1_release_notes.md" timestamp="1545493603016">
@@ -357,11 +357,11 @@
         <mark key="." line="44" column="67" />
         <mark key="^" line="44" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Gemfile" timestamp="1545486624193">
-        <mark key="[" line="8" column="76" />
-        <mark key="]" line="8" column="76" />
-        <mark key="." line="8" column="76" />
-        <mark key="^" line="8" column="76" />
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Gemfile" timestamp="1545495526195">
+        <mark key="[" line="8" column="64" />
+        <mark key="]" line="8" column="64" />
+        <mark key="." line="8" column="64" />
+        <mark key="^" line="8" column="64" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180907085825_drop_name_on_video.rb" timestamp="1536318728017">
         <mark key="[" line="2" column="32" />
@@ -496,30 +496,36 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>ms.to_json</text>
+      <register name="0" type="2">
+        <text encoding="base64">Z2VtICdyZXZpZXcnLCBnaXQ6ICdodHRwczovL2dpdGh1Yi5jb20va211dG8vcmV2aWV3LmdpdCcsIHJlZjogJzYzODNiZjZkZjRhOCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Z2VtICdyZXZpZXcnLCBnaXQ6ICdodHRwczovL2dpdGh1Yi5jb20va211dG8vcmV2aWV3LmdpdCcsIHJlZjogJzYzODNiZjZkZjRhOCcK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImJhc2giXQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">RU5UUllQT0lOVCBbImJhc2giXQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">dm9sdW1lICc1NDMyOjU0MzInCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>s:
   postgresql-data:
     driver: 'local'
@@ -539,17 +545,11 @@ services:
     ports:
       -</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIC0gcG9zdGdyZXNxbAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAnMzAzNTozMDM1Jwo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -601,8 +601,8 @@ services:
         <entry>action ShowUsages</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>action Find</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
