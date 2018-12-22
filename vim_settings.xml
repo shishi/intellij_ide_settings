@@ -98,11 +98,11 @@
         <mark key="." line="2" column="65" />
         <mark key="^" line="2" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/docker-compose.yml" timestamp="1545471835417">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/docker-compose.yml" timestamp="1545489566168">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="18" column="19" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/docker-compose/db/setup.sh" timestamp="1536644494730">
         <mark key="[" line="0" column="19" />
@@ -211,6 +211,12 @@
         <mark key="^" line="399" column="6" />
         <mark key="." line="399" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/RailsGuides-pdf/active_model_basics.tex" timestamp="1545488971738">
+        <mark key="[" line="383" column="77" />
+        <mark key="]" line="383" column="77" />
+        <mark key="^" line="383" column="77" />
+        <mark key="." line="383" column="77" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545312951215">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="52" />
@@ -277,7 +283,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545485989902">
+      <file name="/Dummy.txt" timestamp="1545489577523">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="298" />
@@ -367,6 +373,7 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
+      <file name="/docker-compose.yml" timestamp="1545489561029" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/search_controller.rb" timestamp="1536650806733">
         <mark key="[" line="17" column="64" />
         <mark key="]" line="17" column="67" />
@@ -493,7 +500,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
@@ -502,18 +509,21 @@
         <text>ms.to_json</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImJhc2giXQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">RU5UUllQT0lOVCBbImJhc2giXQo=</text>
+      </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">dm9sdW1lICc1NDMyOjU0MzInCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>s:
   postgresql-data:
     driver: 'local'
@@ -533,17 +543,14 @@ services:
     ports:
       -</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC0gcG9zdGdyZXNxbAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAnMzAzNTozMDM1Jwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAnMzAwMDozMDAwJwo=</text>
+        <text encoding="base64">ICAgICAgLSAnMzAzNTozMDM1Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
