@@ -32,9 +32,9 @@
         <mark key="." line="152" column="37" />
         <mark key="^" line="152" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/docker-compose.yml" timestamp="1545637959021">
-        <mark key="[" line="33" column="6" />
-        <mark key="]" line="33" column="6" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/docker-compose.yml" timestamp="1545641344969">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="33" column="25" />
         <mark key="^" line="33" column="26" />
         <mark key="." line="33" column="6" />
       </file>
@@ -104,9 +104,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/docker-compose/app/Dockerfile" timestamp="1545639678807">
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="36" column="25" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/docker-compose/app/Dockerfile" timestamp="1545641624136">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="71" />
         <mark key="^" line="36" column="25" />
         <mark key="." line="36" column="25" />
       </file>
@@ -181,6 +181,11 @@
         <mark key="." line="105" column="8" />
         <mark key="^" line="105" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/docker-compose.override.windows.yml" timestamp="1545641349564">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/review_spec.rb" timestamp="1536653405563">
         <mark key="[" line="157" column="42" />
         <mark key="]" line="157" column="45" />
@@ -245,6 +250,11 @@
         <mark key="]" line="68" column="4" />
         <mark key="." line="68" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/docker-compose/app/Dockerfile.windows" timestamp="1545641635680">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" timestamp="1536303718720">
         <mark key="[" line="164" column="25" />
         <mark key="]" line="164" column="31" />
@@ -287,12 +297,13 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545636722181">
+      <file name="/Dummy.txt" timestamp="1545641565341">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="0" />
       </file>
+      <file name="/Dockerfile" timestamp="1545641583052" />
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/books/4_1_release_notes.md" timestamp="1545493603016">
         <mark key="[" line="64" column="4" />
         <mark key="]" line="64" column="4" />
@@ -517,37 +528,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>K</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z2VtICdyZXZpZXcnLCBnaXQ6ICdodHRwczovL2dpdGh1Yi5jb20va211dG8vcmV2aWV3LmdpdCcsIHJlZjogJzYzODNiZjZkZjRhOCcK</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbInByZWhvb2siLCAiYmFzaCAtZSAvdXNyL2xvY2FsL2Jpbi9kb2NrZXItcHJlaG9vay5zaCIsICItLSJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAicHJlaG9vayIsICJiYXNoIC1lIC91c3IvbG9jYWwvYmluL2RvY2tlci1wcmVob29rLnNoIiwgIi0tIiBcCg==</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbInByZWhvb2siLCAiYmFzaCAtZSAvdXNyL2xvY2FsL2Jpbi9kb2NrZXItcHJlaG9vay5zaCIsICItLSJdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL29uZXNpZ25hbCcK</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">ICAgICJwcmVwYXJlPWJhc2ggLWUgL3Vzci9sb2NhbC9iaW4vZG9ja2VyLXByZWhvb2suc2giLCAiLS0iIFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z2VtICdyZXZpZXcnLCBnaXQ6ICdodHRwczovL2dpdGh1Yi5jb20va211dG8vcmV2aWV3LmdpdCcsIHJlZjogJzYzODNiZjZkZjRhOCcK</text>
+        <text encoding="base64">ICAgICJzaGVsbD0vYmluL2Jhc2giLCBcCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAic3dpdGNoIiwgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbIFwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBidW5kbGVfaW5zdGFsbDovdXNyL2xvY2FsL2J1bmRsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImJhc2giXQo=</text>
+        <text encoding="base64">ICAgICAgLSBidW5kbGU6L2J1bmRsZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
