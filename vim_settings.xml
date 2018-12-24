@@ -286,6 +286,11 @@
         <mark key="]" line="64" column="4" />
         <mark key="." line="64" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/packs/application.js" timestamp="1545622674755">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/support/session_helper.rb" timestamp="1535357407811">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -343,6 +348,12 @@
         <mark key="]" line="49" column="42" />
         <mark key="." line="49" column="42" />
         <mark key="^" line="49" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/views/layouts/application.html.erb" timestamp="1545622622137">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="8" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="8" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/railsguides.jp/guides/source/ja/active_model_basics.md" timestamp="1545483443652">
         <mark key="[" line="366" column="4" />
@@ -494,7 +505,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
@@ -503,48 +514,31 @@
         <text encoding="base64">Z2VtICdyZXZpZXcnLCBnaXQ6ICdodHRwczovL2dpdGh1Yi5jb20va211dG8vcmV2aWV3LmdpdCcsIHJlZjogJzYzODNiZjZkZjRhOCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL29uZXNpZ25hbCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2VtICdyZXZpZXcnLCBnaXQ6ICdodHRwczovL2dpdGh1Yi5jb20va211dG8vcmV2aWV3LmdpdCcsIHJlZjogJzYzODNiZjZkZjRhOCcK</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtICdyZXZpZXcnLCBnaXQ6ICdodHRwczovL2dpdGh1Yi5jb20va211dG8vcmV2aWV3LmdpdCcsIHJlZjogJzYzODNiZjZkZjRhOCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImJhc2giXQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dm9sdW1lICc1NDMyOjU0MzInCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">RU5UUllQT0lOVCBbImJhc2giXQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>s:
-  postgresql-data:
-    driver: 'local'
-  bundle:
-    driver: 'local'
-services:
-  postgresql:
-    image: postgres:10
-    environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
-      PGDATA: /var/lib/postgresql/data
-    volumes:
-      - postgresql-data:/var/lib/postgresql/data
-    networks:
-      - default
-    ports:
-      -</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">dm9sdW1lICc1NDMyOjU0MzInCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
