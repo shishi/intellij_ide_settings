@@ -227,11 +227,11 @@
         <mark key="^" line="383" column="77" />
         <mark key="." line="383" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545643602844">
-        <mark key="[" line="17" column="99" />
-        <mark key="]" line="17" column="99" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545647752049">
+        <mark key="[" line="30" column="104" />
+        <mark key="]" line="30" column="104" />
         <mark key="^" line="17" column="99" />
-        <mark key="." line="17" column="99" />
+        <mark key="." line="30" column="104" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/.circleci/docker-compose.yml" timestamp="1545466348669">
         <mark key="[" line="1" column="0" />
@@ -528,7 +528,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
