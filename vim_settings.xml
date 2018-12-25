@@ -313,7 +313,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545745624482">
+      <file name="/Dummy.txt" timestamp="1545745650804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
@@ -585,7 +585,7 @@
         <text encoding="base64">ICAgICAgcCAnaG9nZWhvZ2VnZWtqZ2tkamZramRrZmpka2onCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -635,10 +635,10 @@
         <entry>vsp</entry>
         <entry>action ShowUsages</entry>
         <entry>wq</entry>
-        <entry>action Find</entry>
         <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
