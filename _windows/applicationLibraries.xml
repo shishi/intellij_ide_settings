@@ -2632,6 +2632,22 @@
         <root url="file://$USER_HOME$/.RubyMine2018.3/system/ruby_stubs/3606368/-1024762808/gems/rubyzip-1.2.2/samples" />
       </excluded>
     </library>
+    <library name="sanitize (v4.6.6, Remote: ruby-2.5.3-p105 (2)) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.3/system/ruby_stubs/3606368/-1024762808/gems/sanitize-4.6.6/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.3/system/ruby_stubs/3606368/-1024762808/gems/sanitize-4.6.6/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.3/system/ruby_stubs/3606368/-1024762808/gems/sanitize-4.6.6/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.3/system/ruby_stubs/3606368/-1024762808/gems/sanitize-4.6.6/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2018.3/system/ruby_stubs/3606368/-1024762808/gems/sanitize-4.6.6/test" />
+      </excluded>
+    </library>
     <library name="sass (v3.6.0, Remote: ruby-2.5.3-p105 (2)) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />

@@ -227,17 +227,21 @@
         <mark key="^" line="383" column="77" />
         <mark key="." line="383" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545728812769">
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="34" column="33" />
-        <mark key="." line="34" column="33" />
-        <mark key="^" line="34" column="38" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545730441054">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/spec/models/announcement_spec.rb" timestamp="1545727516561">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="8" />
-        <mark key="^" line="22" column="9" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/spec/controllers/admin/announcement_controller_spec.rb" timestamp="1545731548512">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/spec/models/announcement_spec.rb" timestamp="1545731358169">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/.circleci/docker-compose.yml" timestamp="1545466348669">
         <mark key="[" line="1" column="0" />
@@ -296,6 +300,12 @@
         <mark key="]" line="18" column="80" />
         <mark key="." line="18" column="80" />
         <mark key="^" line="18" column="80" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/controllers/admin/announcements_controller.rb" timestamp="1545731295913">
+        <mark key="[" line="67" column="117" />
+        <mark key="]" line="67" column="117" />
+        <mark key="." line="67" column="117" />
+        <mark key="^" line="58" column="5" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180625080840_alter_content_reviews.rb" timestamp="1536650841026">
         <mark key="[" line="8" column="42" />
@@ -533,7 +543,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
@@ -542,31 +552,31 @@
         <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBCVU5ETEVfUEFUSDogJy9idW5kbGUnCiAgICAgIERPQ0tFUjogMQogICAgICBFRElUT1I6IHZpbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZGVzY3JpYmUgJ0RFTEVURSAjZGVzdHJveScgZG8KICAgIHN1YmplY3QgeyBkZWxldGUgOmRlc3Ryb3kgfQoKICAgIGJlZm9yZSB7IHNlc3Npb25bOm1lbWJlcl9pZF0gPSBtZW1iZXIuaWQgfQoKICAgIGl0IGRvCiAgICAgIGlzX2V4cGVjdGVkLnRvIHJlZGlyZWN0X3RvIG5ld19hZG1pbl9zZXNzaW9uX3BhdGgKICAgICAgZXhwZWN0KGZsYXNoWzphbGVydF0pLnRvIGVxICeDjYNPg0GDRYNngrWC3IK1gr2BQicKICAgIGVuZAogIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmluZm8oKQo=</text>
+        <text encoding="base64">ICBkZXNjcmliZSAnR0VUICNuZXcnIGRvCiAgICBiZWZvcmUgeyBnZXQgOm5ldyB9CiAgICBpdCB7IGlzX2V4cGVjdGVkLnRvIGhhdmVfaHR0cF9zdGF0dXMoMjAwKSB9CiAgZW5kCgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQlVORExFX1BBVEg6ICcvdXNyL2xvY2FsL2J1bmRsZScK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgogIGRlc2NyaWJlICcjc2VuZF9wdXNoX25vdGlmaWNhdGlvbicgZG8KICAgIGxldCg6YW5ub3VuY2VtZW50KSB7IEZhYnJpY2F0ZS5idWlsZCg6YW5ub3VuY2VtZW50LCBjb250ZW50OiAndGVzdCcpIH0KCiAgICBjb250ZXh0ICd3aGVuIFJhaWxzLmVudiBpcyBub3QgdGVzdCcgZG8KICAgICAgaXQgJ2NhbGwgI3NlbmRfcHVzaF9ub3RpZmljYXRpb24nIGRvCiAgICAgICAgYWxsb3coUmFpbHMpLnRvIHJlY2VpdmUoOmVudikuYW5kX3JldHVybigncHJvZHVjdGlvbicuaW5xdWlyeSkKICAgICAgICAjIGFsbG93X2FueV9pbnN0YW5jZV9vZihBbm5vdW5jZW1lbnQpLnRvIHJlY2VpdmUoOnNlbmRfcHVzaF9ub3RpZmljYXRpb24pCiAgICAgICAgYWxsb3coYW5ub3VuY2VtZW50KS50byByZWNlaXZlKDpzZW5kX3B1c2hfbm90aWZpY2F0aW9uKQogICAgICAgIGV4cGVjdChhbm5vdW5jZW1lbnQpLnRvIGhhdmVfcmVjZWl2ZWQoOnNlbmRfcHVzaF9ub3RpZmljYXRpb24pLm9uY2UKICAgICAgICBhbm5vdW5jZW1lbnQuc2F2ZQogICAgICBlbmQKICAgIGVuZAog</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBidW5kbGU6L2J1bmRsZQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBidW5kbGU6L2J1bmRsZQo=</text>
+        <text encoding="base64">ICAgICAgICBSYWlscy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQlVORExFX1BBVEg6ICcvYnVuZGxlJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbm5vdW5jZW1lbnQuc2F2ZQo=</text>
+        <text encoding="base64">ICAgIGRlZiBzZW5kX3B1c2hfbm90aWZpY2F0aW9uKGFubm91bmNlbWVudCkKICAgICAgdXJsID0gVVJJLnBhcnNlKFJhaWxzLmFwcGxpY2F0aW9uLmNyZWRlbnRpYWxzLmRpZyg6b25lX3NpZ25hbCwgOmNyZWF0ZV9ub3RpZmljYXRpb25fZW5kcG9pbnQpKQogICAgICBwYXJhbXMgPSB7CiAgICAgICAgICBhcHBfaWQ6IFJhaWxzLmFwcGxpY2F0aW9uLmNyZWRlbnRpYWxzLmRpZyg6b25lX3NpZ25hbCwgOmFwcF9pZCksCiAgICAgICAgICBoZWFkaW5nczogeyBlbjogIiN7YW5ub3VuY2VtZW50LnRpdGxlfSIgfSwKICAgICAgICAgIGNvbnRlbnRzOiB7IGVuOiAiI3tTYW5pdGl6ZS5jbGVhbihhbm5vdW5jZW1lbnQuY29udGVudCl9IiB9LAogICAgICAgICAgaW5jbHVkZWRfc2VnbWVudHM6IFsiU3Vic2NyaWJlZCBVc2VycyJdLAogICAgICAgICAgdXJsOiBSYWlscy5hcHBsaWNhdGlvbi5yb3V0ZXMudXJsX2hlbHBlcnMuYWRtaW5fYW5ub3VuY2VtZW50X3VybChhbm5vdW5jZW1lbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhvc3Q6IFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5hY3Rpb25fbWFpbGVyLmRlZmF1bHRfdXJsX29wdGlvbnNbOmhvc3RdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm90b2NvbDogUmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmFjdGlvbl9tYWlsZXIuZGVmYXVsdF91cmxfb3B0aW9uc1s6cHJvdG9jb2xdICkKICAgICAgfQogICAgICBmYXJhZGF5ID0gRmFyYWRheS5uZXcodXJsOiAiI3t1cmwuc2NoZW1lfTovLyN7dXJsLmhvc3R9IikKICAgICAgcmVzcG9uc2UgPSBmYXJhZGF5LnBvc3QgZG8gfHJlcXwKICAgICAgICByZXEuaGVhZGVyc1snQXV0aG9yaXphdGlvbiddID0gIkJhc2ljICN7UmFpbHMuYXBwbGljYXRpb24uY3JlZGVudGlhbHMuZGlnKDpvbmVfc2lnbmFsLCA6YXBpX2tleSl9IgogICAgICAgIHJlcS5oZWFkZXJzWydDb250ZW50LVR5cGUnXSA9ICdhcHBsaWNhdGlvbi9qc29uJwogICAgICAgIHJlcS51cmwgdXJsLnBhdGgKICAgICAgICByZXEuYm9keSA9IHBhcmFtcy50b19qc29uCiAgICAgIGVuZAogICAgICBSYWlscy5sb2dnZXIuZGVidWcocmVzcG9uc2UuYm9keSkKICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbm5vdW5jZW1lbnQuY3JlYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhY2Nub3VuCg==</text>
+        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmluZm8oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
