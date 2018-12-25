@@ -227,11 +227,11 @@
         <mark key="^" line="383" column="77" />
         <mark key="." line="383" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545723352478">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="30" />
-        <mark key="^" line="17" column="99" />
-        <mark key="." line="30" column="104" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545728812769">
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="33" />
+        <mark key="." line="34" column="33" />
+        <mark key="^" line="34" column="38" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/spec/models/announcement_spec.rb" timestamp="1545727516561">
         <mark key="[" line="23" column="8" />
@@ -533,7 +533,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
@@ -542,31 +542,31 @@
         <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBCVU5ETEVfUEFUSDogJy9idW5kbGUnCiAgICAgIERPQ0tFUjogMQogICAgICBFRElUT1I6IHZpbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQlVORExFX1BBVEg6ICcvdXNyL2xvY2FsL2J1bmRsZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBidW5kbGU6L2J1bmRsZQo=</text>
+        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmluZm8oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBidW5kbGU6L2J1bmRsZQo=</text>
+        <text encoding="base64">ICAgICAgQlVORExFX1BBVEg6ICcvdXNyL2xvY2FsL2J1bmRsZScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQlVORExFX1BBVEg6ICcvYnVuZGxlJwo=</text>
+        <text encoding="base64">ICAgICAgLSBidW5kbGU6L2J1bmRsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbm5vdW5jZW1lbnQuc2F2ZQo=</text>
+        <text encoding="base64">ICAgICAgLSBidW5kbGU6L2J1bmRsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbm5vdW5jZW1lbnQuY3JlYXRlCg==</text>
+        <text encoding="base64">ICAgICAgQlVORExFX1BBVEg6ICcvYnVuZGxlJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY2Nub3VuCg==</text>
+        <text encoding="base64">ICAgICAgICBhbm5vdW5jZW1lbnQuc2F2ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvd19hbnlfaW5zdGFuY2Vfb2YoUmFpbHMpLnRvIHJlY2VpdmUoOmVudikuYW5kX3JldHVybigncHJvZHVjdGlvbicpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbm5vdW5jZW1lbnQuY3JlYXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQlVORExFX1BBVEg6IC91c3IvbG9jYWwvYnVuZGxlCg==</text>
+        <text encoding="base64">ICAgICAgICBhY2Nub3VuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
