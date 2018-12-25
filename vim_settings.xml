@@ -302,11 +302,11 @@
         <mark key="." line="18" column="80" />
         <mark key="^" line="18" column="80" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/controllers/admin/announcements_controller.rb" timestamp="1545740637161">
-        <mark key="[" line="57" column="25" />
-        <mark key="]" line="57" column="30" />
-        <mark key="." line="57" column="30" />
-        <mark key="^" line="57" column="30" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/controllers/admin/announcements_controller.rb" timestamp="1545741500247">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180625080840_alter_content_reviews.rb" timestamp="1536650841026">
         <mark key="[" line="8" column="42" />
@@ -417,6 +417,12 @@
         <mark key="]" line="2" column="32" />
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/views/admin/announcements/index.html.slim" timestamp="1545741421744">
+        <mark key="[" line="7" column="91" />
+        <mark key="]" line="7" column="91" />
+        <mark key="^" line="7" column="91" />
+        <mark key="." line="7" column="91" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/search_controller.rb" timestamp="1536650806733">
         <mark key="[" line="17" column="64" />
@@ -544,7 +550,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>xihogehogeoh</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
@@ -553,28 +559,28 @@
         <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBCVU5ETEVfUEFUSDogJy9idW5kbGUnCiAgICAgIERPQ0tFUjogMQogICAgICBFRElUT1I6IHZpbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcCAnaG9nZWhvZ2UnCg==</text>
+        <text encoding="base64">ICAgIHAgJ2hvZ2Vob2dlJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcCAnaG9nZWhvZ2VnZWtqZ2tkamZramRrZmpka2onCg==</text>
+        <text encoding="base64">ICAgICAgcCAnaG9nZWhvZ2UnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcCAiaW4gc2F2ZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWUiCg==</text>
+        <text encoding="base64">ICAgICAgcCAnaG9nZWhvZ2VnZWtqZ2tkamZramRrZmpka2onCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAgJ291dCBzdmVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZScK</text>
+        <text encoding="base64">ICAgICAgcCAiaW4gc2F2ZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWUiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmFpc2UK</text>
+        <text encoding="base64">ICAgIHAgJ291dCBzdmVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmFpc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
