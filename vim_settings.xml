@@ -227,11 +227,17 @@
         <mark key="^" line="383" column="77" />
         <mark key="." line="383" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545647752049">
-        <mark key="[" line="30" column="104" />
-        <mark key="]" line="30" column="104" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/models/announcement.rb" timestamp="1545723352478">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="30" />
         <mark key="^" line="17" column="99" />
         <mark key="." line="30" column="104" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/spec/models/announcement_spec.rb" timestamp="1545723893977">
+        <mark key="[" line="22" column="69" />
+        <mark key="]" line="22" column="69" />
+        <mark key="." line="22" column="69" />
+        <mark key="^" line="22" column="69" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/.circleci/docker-compose.yml" timestamp="1545466348669">
         <mark key="[" line="1" column="0" />
@@ -303,7 +309,6 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="/Dockerfile" timestamp="1545641583052" />
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/books/4_1_release_notes.md" timestamp="1545493603016">
         <mark key="[" line="64" column="4" />
         <mark key="]" line="64" column="4" />
@@ -528,43 +533,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbInByZWhvb2siLCAiYmFzaCAtZSAvdXNyL2xvY2FsL2Jpbi9kb2NrZXItcHJlaG9vay5zaCIsICItLSJdCg==</text>
+      <register name="0" type="4">
+        <text>#send_push_notification'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbInByZWhvb2siLCAiYmFzaCAtZSAvdXNyL2xvY2FsL2Jpbi9kb2NrZXItcHJlaG9vay5zaCIsICItLSJdCg==</text>
+        <text encoding="base64">ICAgZW5kIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgZW5kIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwcmVwYXJlPWJhc2ggLWUgL3Vzci9sb2NhbC9iaW4vZG9ja2VyLXByZWhvb2suc2giLCAiLS0iIFwK</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzaGVsbD0vYmluL2Jhc2giLCBcCg==</text>
+        <text encoding="base64">ICAgYmVmb3JlIGRvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAic3dpdGNoIiwgXAo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbIFwK</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbInByZWhvb2siLCAiYmFzaCAtZSAvdXNyL2xvY2FsL2Jpbi9kb2NrZXItcHJlaG9vay5zaCIsICItLSJdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBidW5kbGVfaW5zdGFsbDovdXNyL2xvY2FsL2J1bmRsZQo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBidW5kbGU6L2J1bmRsZQo=</text>
+        <text encoding="base64">ICAgICJwcmVwYXJlPWJhc2ggLWUgL3Vzci9sb2NhbC9iaW4vZG9ja2VyLXByZWhvb2suc2giLCAiLS0iIFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJzaGVsbD0vYmluL2Jhc2giLCBcCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -574,7 +579,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdWN0aW9uXD4=</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -614,10 +619,10 @@
         <entry>W</entry>
         <entry>vsp</entry>
         <entry>action ShowUsages</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>action Find</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
