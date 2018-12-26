@@ -1,7 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;cmd.exe&quot; /k &quot;&quot;C:\bin\cmder\vendor\init.bat&quot;&quot;" />
+    <option name="myShellPath" value="&quot;cmd&quot; /k &quot;&quot;C:\bin\cmder\vendor\init.bat&quot;&quot;" />
     <option name="mySoundBell" value="false" />
-    <option name="myTabName" value="" />
   </component>
 </application>
