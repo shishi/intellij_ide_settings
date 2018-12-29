@@ -44,6 +44,12 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/.envrc" timestamp="1546063458755">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="3" column="72" />
+        <mark key="^" line="3" column="72" />
+        <mark key="." line="3" column="72" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/packs/onesignal.js" timestamp="1545621463308">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="36" />
@@ -340,6 +346,7 @@
         <mark key="]" line="451" column="4" />
         <mark key="." line="451" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/.env.sample" timestamp="1546062688798" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/home_controller.rb" timestamp="1536650795254">
         <mark key="[" line="4" column="64" />
         <mark key="]" line="4" column="67" />
@@ -391,6 +398,12 @@
         <mark key="]" line="49" column="42" />
         <mark key="." line="49" column="42" />
         <mark key="^" line="49" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/.env" timestamp="1546063453733">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="61" />
+        <mark key="^" line="3" column="61" />
+        <mark key="." line="3" column="61" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/views/layouts/application.html.erb" timestamp="1545622622137">
         <mark key="[" line="25" column="8" />
