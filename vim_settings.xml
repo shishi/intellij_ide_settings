@@ -198,6 +198,7 @@
         <mark key="." line="157" column="45" />
         <mark key="^" line="157" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/initializers/omniauth.rb" timestamp="1546071041848" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/config/master.key" timestamp="1545288492872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -270,6 +271,12 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/env.yml" timestamp="1546070648064">
+        <mark key="[" line="17" column="68" />
+        <mark key="]" line="62" column="15" />
+        <mark key="^" line="62" column="15" />
+        <mark key="." line="62" column="15" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" timestamp="1536303718720">
         <mark key="[" line="164" column="25" />
@@ -387,11 +394,11 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/application.html.erb" timestamp="1534919292403">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="65" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/application.html.erb" timestamp="1546071074496">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="42" />
+        <mark key="." line="25" column="42" />
+        <mark key="^" line="25" column="42" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/models/wallet/log_spec.rb" timestamp="1536656793731">
         <mark key="[" line="49" column="36" />
@@ -404,6 +411,12 @@
         <mark key="]" line="3" column="61" />
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/environments/development.rb" timestamp="1546071673055">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="83" column="53" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/views/layouts/application.html.erb" timestamp="1545622622137">
         <mark key="[" line="25" column="8" />
@@ -576,31 +589,31 @@
         <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBCVU5ETEVfUEFUSDogJy9idW5kbGUnCiAgICAgIERPQ0tFUjogMQogICAgICBFRElUT1I6IHZpbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gLi9kb2NrZXItY29tcG9zZS5taWRkbGV3YXJlL2RiL2RvY2tlci1lbnRyeXBvaW50LWluaXRkYi5kOi9kb2NrZXItZW50cnlwb2ludC1pbml0ZGIuZAo=</text>
+        <text encoding="base64">ICBjb25maWcuZm9yY2Vfc3NsID0gZmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRURJVE9SOiB2aW0K</text>
+        <text encoding="base64">ICAgIC0gLi9kb2NrZXItY29tcG9zZS5taWRkbGV3YXJlL2RiL2RvY2tlci1lbnRyeXBvaW50LWluaXRkYi5kOi9kb2NrZXItZW50cnlwb2ludC1pbml0ZGIuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRE9DS0VSOiAxCg==</text>
+        <text encoding="base64">ICAgICAgRURJVE9SOiB2aW0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
+        <text encoding="base64">ICAgICAgRE9DS0VSOiAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgIEJVTkRMRV9QQVRIOiAnL3Vzci9sb2NhbC9idW5kbGUnCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgIEJVTkRMRV9QQVRIOiAnL3Vzci9sb2NhbC9idW5kbGUnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHAgJ2hvZ2Vob2dlJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHAgJ2hvZ2Vob2dlJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcCAnaG9nZWhvZ2UnCg==</text>
+        <text encoding="base64">ICAgIHAgJ2hvZ2Vob2dlJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
