@@ -44,11 +44,11 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/.envrc" timestamp="1546063458755">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="3" column="72" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/.envrc" timestamp="1546064852079">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="28" />
         <mark key="^" line="3" column="72" />
-        <mark key="." line="3" column="72" />
+        <mark key="." line="3" column="28" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/packs/onesignal.js" timestamp="1545621463308">
         <mark key="[" line="6" column="0" />
@@ -567,7 +567,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>xihogehogeoh</text>
+        <text>Y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
