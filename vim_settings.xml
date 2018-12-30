@@ -198,7 +198,6 @@
         <mark key="." line="157" column="45" />
         <mark key="^" line="157" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/initializers/omniauth.rb" timestamp="1546071041848" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/config/master.key" timestamp="1545288492872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -256,7 +255,7 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/review-ext.rb" timestamp="1545487097018">
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/review-ext.rb" timestamp="1546148104779">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -359,7 +358,6 @@
         <mark key="]" line="451" column="4" />
         <mark key="." line="451" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/.env.sample" timestamp="1546062688798" />
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/home_controller.rb" timestamp="1536650795254">
         <mark key="[" line="4" column="64" />
         <mark key="]" line="4" column="67" />
