@@ -619,7 +619,7 @@
         <text encoding="base64">IyAgICAgIEJVTkRMRV9QQVRIOiAnL3Vzci9sb2NhbC9idW5kbGUnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -671,8 +671,8 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>action Find</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
