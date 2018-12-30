@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/services/transcode/read_service.rb" timestamp="1546172460109">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/label.rb" timestamp="1536293427731">
         <mark key="[" line="154" column="18" />
         <mark key="]" line="154" column="27" />
@@ -248,11 +254,11 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/services/push_notification_service.rb" timestamp="1546171124219">
-        <mark key="[" line="4" column="57" />
-        <mark key="]" line="4" column="57" />
-        <mark key="." line="4" column="57" />
-        <mark key="^" line="4" column="57" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/services/push_notification_service.rb" timestamp="1546172433597">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="24" column="12" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/spec/models/announcement_spec.rb" timestamp="1545731358169">
         <mark key="[" line="14" column="5" />
@@ -629,7 +635,7 @@
         <text encoding="base64">ICAgICAgRE9DS0VSOiAxCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -665,9 +671,6 @@
         <entry encoding="base64">XDxzaG93X3Byb21wdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>set keep-english-in-normal-and-restore-in-insert</entry>
-        <entry>qw</entry>
-        <entry>set smartcase</entry>
         <entry>action</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action MoveCaret</entry>
@@ -678,11 +681,16 @@
         <entry>vsplit</entry>
         <entry>vsp</entry>
         <entry>action ShowUsages</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>W</entry>
         <entry>action Find</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>exit</entry>
+        <entry>gotoaction</entry>
+        <entry>GoToAction</entry>
+        <entry>GotoAction</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
