@@ -248,11 +248,11 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/services/push_notification_service.rb" timestamp="1546159423478">
-        <mark key="[" line="12" column="60" />
-        <mark key="]" line="12" column="72" />
-        <mark key="." line="12" column="72" />
-        <mark key="^" line="12" column="72" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/services/push_notification_service.rb" timestamp="1546171124219">
+        <mark key="[" line="4" column="57" />
+        <mark key="]" line="4" column="57" />
+        <mark key="." line="4" column="57" />
+        <mark key="^" line="4" column="57" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/spec/models/announcement_spec.rb" timestamp="1545731358169">
         <mark key="[" line="14" column="5" />
