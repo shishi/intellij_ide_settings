@@ -265,6 +265,9 @@
         <mark key="]" line="14" column="5" />
         <mark key="." line="14" column="5" />
       </file>
+      <file name="$USER_HOME$/.RubyMine2018.3/system/ruby_stubs/3606368/-1024762808/gems/actionpack-5.2.2/lib/action_dispatch/routing/url_for.rb" timestamp="1546225954653">
+        <mark key="'" line="88" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/.circleci/docker-compose.yml" timestamp="1545466348669">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -292,6 +295,13 @@
         <mark key="]" line="18" column="19" />
         <mark key="^" line="49" column="64" />
         <mark key="." line="49" column="64" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1546225702216">
+        <mark key="'" line="11" column="45" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="14" column="20" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" timestamp="1536303718720">
         <mark key="[" line="164" column="25" />
@@ -352,6 +362,16 @@
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/concerns/push_notification.rb" timestamp="1546224644044">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/concerns/author.rb" timestamp="1546224625626">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="31" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/books/4_1_release_notes.md" timestamp="1545493603016">
         <mark key="[" line="64" column="4" />
@@ -487,8 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="146" column="8" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="153" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="154" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="159" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
@@ -587,6 +605,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/components/OneSignal/onesignal.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/components/OneSignal/onesignal.js" />
       <jump line="5" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/components/OneSignal/onesignal.js" />
+      <jump line="9" column="45" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
+      <jump line="88" column="10" filename="$USER_HOME$/.RubyMine2018.3/system/ruby_stubs/3606368/-1024762808/gems/actionpack-5.2.2/lib/action_dispatch/routing/url_for.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -599,43 +619,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>ENV[&quot;ONE_SIGNAL_APP_ID&quot;]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBleHRlbmQgQWN0aXZlU3VwcG9ydDo6Q29uY2Vybgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb3RvY29sOiBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuYWN0aW9uX21haWxlci5kZWZhdWx0X3VybF9vcHRpb25zWzpwcm90b2NvbF0pCg==</text>
+      <register name="1" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>Subscribed Users</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8IS0tIE9uZVNpZ25hbCAtLT4KICA8bGluayByZWw9ImFwcGxlPGxpbmsgcmVsPSJtYW5pZmVzdCIgaHJlZj0iL21hbmlmZXN0Lmpzb24iIC8+CiAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLm9uZXNpZ25hbC5jb20vc2Rrcy9PbmVTaWduYWxTREsuanMiIGFzeW5jPSIiPjwvc2NyaXB0PgogIDxzY3JpcHQ+CiAgICAgIHZhciBPbmVTaWduYWwgPSB3aW5kb3cuT25lU2lnbmFsIHx8IFtdOwogICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgIE9uZVNpZ25hbC5pbml0KHsKICAgICAgICAgICAgICBhcHBJZDogRU5WWydPTkVfU0lHTkFMX0FQUF9JRCddLAogICAgICAgICAgfSk7CiAgICAgIH0pOwogIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8IS0tIE9uZVNpZ25hbCAtLT4K</text>
+        <text encoding="base64">IyBjb25jZXJugsmI2oK7gqQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8bGluayByZWw9Im1hbmlmZXN0IiBocmVmPSIvbWFuaWZlc3QuanNvbiIgLz4KICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4ub25lc2lnbmFsLmNvbS9zZGtzL09uZVNpZ25hbFNESy5qcyIgYXN5bmM9IiI+PC9zY3JpcHQ+CiAgPHNjcmlwdD4KICAgICAgdmFyIE9uZVNpZ25hbCA9IHdpbmRvdy5PbmVTaWduYWwgfHwgW107CiAgICAgIE9uZVNpZ25hbC5wdXNoKGZ1bmN0aW9uKCkgewogICAgICAgICAgT25lU2lnbmFsLmluaXQoewogICAgICAgICAgICAgIGFwcElkOiAiMTkwZGRmYmMtZjM4OC00YWQxLWJjMjAtZTYwMTE3OTUzN2FiIiwKICAgICAgICAgIH0pOwogICAgICB9KTsKICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25maWcuZm9yY2Vfc3NsID0gZmFsc2UK</text>
+        <text encoding="base64">ICBleHRlbmQgQWN0aXZlU3VwcG9ydDo6Q29uY2Vybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gLi9kb2NrZXItY29tcG9zZS5taWRkbGV3YXJlL2RiL2RvY2tlci1lbnRyeXBvaW50LWluaXRkYi5kOi9kb2NrZXItZW50cnlwb2ludC1pbml0ZGIuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb3RvY29sOiBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuYWN0aW9uX21haWxlci5kZWZhdWx0X3VybF9vcHRpb25zWzpwcm90b2NvbF0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgRURJVE9SOiB2aW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRE9DS0VSOiAxCg==</text>
+        <text encoding="base64">ICA8IS0tIE9uZVNpZ25hbCAtLT4KICA8bGluayByZWw9ImFwcGxlPGxpbmsgcmVsPSJtYW5pZmVzdCIgaHJlZj0iL21hbmlmZXN0Lmpzb24iIC8+CiAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLm9uZXNpZ25hbC5jb20vc2Rrcy9PbmVTaWduYWxTREsuanMiIGFzeW5jPSIiPjwvc2NyaXB0PgogIDxzY3JpcHQ+CiAgICAgIHZhciBPbmVTaWduYWwgPSB3aW5kb3cuT25lU2lnbmFsIHx8IFtdOwogICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgIE9uZVNpZ25hbC5pbml0KHsKICAgICAgICAgICAgICBhcHBJZDogRU5WWydPTkVfU0lHTkFMX0FQUF9JRCddLAogICAgICAgICAgfSk7CiAgICAgIH0pOwogIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -671,10 +691,6 @@
         <entry encoding="base64">XDxzaG93X3Byb21wdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action</entry>
-        <entry>action GotoPreviousError</entry>
-        <entry>action MoveCaret</entry>
-        <entry>action MoveCaretTo</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
         <entry>action VcsShowNextChangeMarker</entry>
@@ -684,13 +700,17 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>action Find</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>exit</entry>
         <entry>gotoaction</entry>
         <entry>GoToAction</entry>
         <entry>GotoAction</entry>
         <entry>action GotoAction</entry>
+        <entry>actionlist</entry>
+        <entry>action Exit</entry>
+        <entry>w</entry>
+        <entry>action QuickJavaDoc</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
