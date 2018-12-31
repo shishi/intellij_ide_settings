@@ -507,7 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="154" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="159" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/auctions_controller.rb" />
@@ -607,6 +606,7 @@
       <jump line="5" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/javascript/components/OneSignal/onesignal.js" />
       <jump line="9" column="45" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
       <jump line="88" column="10" filename="$USER_HOME$/.RubyMine2018.3/system/ruby_stubs/3606368/-1024762808/gems/actionpack-5.2.2/lib/action_dispatch/routing/url_for.rb" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
