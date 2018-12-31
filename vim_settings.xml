@@ -296,12 +296,12 @@
         <mark key="^" line="49" column="64" />
         <mark key="." line="49" column="64" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1546225702216">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1546231679410">
         <mark key="'" line="11" column="45" />
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="20" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="14" column="20" />
+        <mark key="[" line="4" column="73" />
+        <mark key="]" line="4" column="73" />
+        <mark key="^" line="4" column="76" />
+        <mark key="." line="4" column="73" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" timestamp="1536303718720">
         <mark key="[" line="164" column="25" />
@@ -357,7 +357,7 @@
         <mark key="^" line="47" column="54" />
         <mark key="." line="47" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546076158050">
+      <file name="/Dummy.txt" timestamp="1546231709110">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
@@ -619,7 +619,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
@@ -628,31 +628,33 @@
         <text encoding="base64">ICBleHRlbmQgQWN0aXZlU3VwcG9ydDo6Q29uY2Vybgo=</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;&quot;</text>
+        <text>url_for(model,
+                     host: Rails.application.config.action_mailer.default_url_options[:host],
+                     protocol: Rails.application.config.action_mailer.default_url_options[:protocol])</text>
       </register>
       <register name="2" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="3" type="4">
         <text>Subscribed Users</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBjb25jZXJugsmI2oK7gqQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjb25jZXJugsmI2oK7gqQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBleHRlbmQgQWN0aXZlU3VwcG9ydDo6Q29uY2Vybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb3RvY29sOiBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuYWN0aW9uX21haWxlci5kZWZhdWx0X3VybF9vcHRpb25zWzpwcm90b2NvbF0pCg==</text>
+        <text encoding="base64">ICBleHRlbmQgQWN0aXZlU3VwcG9ydDo6Q29uY2Vybgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb3RvY29sOiBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuYWN0aW9uX21haWxlci5kZWZhdWx0X3VybF9vcHRpb25zWzpwcm90b2NvbF0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8IS0tIE9uZVNpZ25hbCAtLT4KICA8bGluayByZWw9ImFwcGxlPGxpbmsgcmVsPSJtYW5pZmVzdCIgaHJlZj0iL21hbmlmZXN0Lmpzb24iIC8+CiAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLm9uZXNpZ25hbC5jb20vc2Rrcy9PbmVTaWduYWxTREsuanMiIGFzeW5jPSIiPjwvc2NyaXB0PgogIDxzY3JpcHQ+CiAgICAgIHZhciBPbmVTaWduYWwgPSB3aW5kb3cuT25lU2lnbmFsIHx8IFtdOwogICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgIE9uZVNpZ25hbC5pbml0KHsKICAgICAgICAgICAgICBhcHBJZDogRU5WWydPTkVfU0lHTkFMX0FQUF9JRCddLAogICAgICAgICAgfSk7CiAgICAgIH0pOwogIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
