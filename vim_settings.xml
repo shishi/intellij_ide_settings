@@ -351,11 +351,11 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1546847037110">
-        <mark key="[" line="51" column="11" />
-        <mark key="]" line="61" column="9" />
-        <mark key="^" line="61" column="9" />
-        <mark key="." line="61" column="9" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1546847814674">
+        <mark key="[" line="57" column="18" />
+        <mark key="]" line="57" column="18" />
+        <mark key="^" line="57" column="18" />
+        <mark key="." line="57" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1546595879983">
         <mark key="[" line="0" column="0" />
@@ -619,7 +619,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
@@ -657,7 +657,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -702,7 +702,6 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>action Find</entry>
-        <entry>wq</entry>
         <entry>exit</entry>
         <entry>gotoaction</entry>
         <entry>GoToAction</entry>
@@ -713,6 +712,7 @@
         <entry>w</entry>
         <entry>action QuickJavaDoc</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
