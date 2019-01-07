@@ -351,11 +351,10 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1546850784483">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1546853749944">
         <mark key="[" line="52" column="0" />
-        <mark key="]" line="61" column="10" />
-        <mark key="^" line="57" column="18" />
-        <mark key="." line="57" column="18" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1546595879983">
         <mark key="[" line="0" column="0" />
@@ -627,37 +626,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBPbmVTaWduYWwuZ2V0VGFncygpLnRoZW4oIGZ1bmN0aW9uKHRhZ3MpIHsKICAgICAgICAgICAgaWYgKHRhZ3MubGVuZ3RoKSB7CiAgICAgICAgICAgICAgICBpZiAodGFncy51c2VyX2lkID09PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgICAgICAgICBPbmVTaWduYWwuc2VuZFRhZygndXNlcl9pZCcsICc8JT0gY3VycmVudF91c2VyLmlkICU+Jyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAodGFncy5sYW5nID09PSB1bmRlZmluZWQgfHwgdGFncy5sYW5nICE9PSAnPCU9IGN1cnJlbnRfdXNlci5sYW5ndWFnZSAlPicpewogICAgICAgICAgICAgICAgICAgIE9uZVNpZ25hbC5zZW5kVGFnKCdsYW5nJywgJzwlPSBjdXJyZW50X3VzZXIubGFuZ3VhZ2UgJT4nKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBPbmVTaWduYWwuZ2V0VGFncyhmdW5jdGlvbigpIHsKICAgICAgICAgICAgLy8gQWxsIHRoZSB0YWdzIHN0b3JlZCBvbiB0aGUgY3VycmVudCB3ZWJwYWdlIHZpc2l0b3IKICAgICAgICAgICAgY29uc29sZS5sb2coImhvZ2UiKQogICAgICAgIH0pCjwhLS0gICAgICAgIE9uZVNpZ25hbC5nZXRUYWdzKCkudGhlbihmdW5jdGlvbih0YWdzKSB7LS0+CjwhLS0gICAgICAgICAgICBpZiAodGFncy5sZW5ndGgpIHstLT4KPCEtLSAgICAgICAgICAgICAgICBpZiAodGFncy51c2VyX2lkID09PSB1bmRlZmluZWQpIHstLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgT25lU2lnbmFsLnNlbmRUYWcoJ3VzZXJfaWQnLCAnPCU9IGN1cnJlbnRfdXNlci5pZCAlPicpOy0tPgo8IS0tICAgICAgICAgICAgICAgIH0tLT4KPCEtLSAgICAgICAgICAgICAgICBpZiAodGFncy5sYW5nID09PSB1bmRlZmluZWQgfHwgdGFncy5sYW5nICE9PSAnPCU9IGN1cnJlbnRfdXNlci5sYW5ndWFnZSAlPicpey0tPgo8IS0tICAgICAgICAgICAgICAgICAgICBPbmVTaWduYWwuc2VuZFRhZygnbGFuZycsICc8JT0gY3VycmVudF91c2VyLmxhbmd1YWdlICU+Jyk7LS0+CjwhLS0gICAgICAgICAgICAgICAgfS0tPgo8IS0tICAgICAgICAgICAgfS0tPgogICAgICAgIC8vIH0pOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZihwbGF0Zm9ybS5pcygnY29yZScpIHx8IHBsYXRmb3JtLmlzKCdtb2JpbGV3ZWInKSkgewogICAgICAgICAgICBjb25zb2xlLmxvZygiUGxhdGZvcm0gaXMgY29yZSBvciBpcyBtb2JpbGUgd2ViIik7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdmFyIG5vdGlmaWNhdGlvbk9wZW5lZENhbGxiYWNrID0gZnVuY3Rpb24oanNvbkRhdGEpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdub3RpZmljYXRpb25PcGVuZWRDYWxsYmFjazogJyArIEpTT04uc3RyaW5naWZ5KGpzb25EYXRhKSk7CiAgICAgICAgICAgIH07CgogICAgICAgICAgICB3aW5kb3dbInBsdWdpbnMiXS5PbmVTaWduYWwKICAgICAgICAgICAgICAgIC5zdGFydEluaXQoIjw8IEFQUElEPj4iLCAiPDxHT09HTEUgUFJPSkVDVCBJRD4+IikKICAgICAgICAgICAgICAgIC5oYW5kbGVOb3RpZmljYXRpb25PcGVuZWQobm90aWZpY2F0aW9uT3BlbmVkQ2FsbGJhY2spCiAgICAgICAgICAgICAgICAuZW5kSW5pdCgpOwogICAgICAgIH07Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>url_for(model,
                      host: Rails.application.config.action_mailer.default_url_options[:host],
                      protocol: Rails.application.config.action_mailer.default_url_options[:protocol])</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>Subscribed Users</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBjb25jZXJugsmI2oK7gqQK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBleHRlbmQgQWN0aXZlU3VwcG9ydDo6Q29uY2Vybgo=</text>
+        <text encoding="base64">IyBjb25jZXJugsmI2oK7gqQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb3RvY29sOiBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuYWN0aW9uX21haWxlci5kZWZhdWx0X3VybF9vcHRpb25zWzpwcm90b2NvbF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBleHRlbmQgQWN0aXZlU3VwcG9ydDo6Q29uY2Vybgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickJavaDoc</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -701,7 +700,6 @@
         <entry>action ShowUsages</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>action Find</entry>
         <entry>exit</entry>
         <entry>gotoaction</entry>
         <entry>GoToAction</entry>
@@ -711,8 +709,9 @@
         <entry>action Exit</entry>
         <entry>action GotoDeclaration</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>action QuickJavaDoc</entry>
+        <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
