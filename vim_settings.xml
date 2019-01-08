@@ -351,7 +351,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1546854732633">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1546950720282">
         <mark key="[" line="46" column="8" />
         <mark key="]" line="46" column="10" />
         <mark key="." line="46" column="10" />
@@ -657,7 +657,7 @@
         <text encoding="base64">ICBleHRlbmQgQWN0aXZlU3VwcG9ydDo6Q29uY2Vybgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -711,8 +711,8 @@
         <entry>action GotoDeclaration</entry>
         <entry>wq</entry>
         <entry>action QuickJavaDoc</entry>
-        <entry>w</entry>
         <entry>action Find</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
