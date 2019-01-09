@@ -296,12 +296,11 @@
         <mark key="^" line="49" column="64" />
         <mark key="." line="54" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1547041401587">
-        <mark key="'" line="9" column="45" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="2" column="76" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1547046443711">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="21" />
+        <mark key="^" line="30" column="21" />
+        <mark key="." line="30" column="21" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" timestamp="1536303718720">
         <mark key="[" line="164" column="25" />
@@ -351,13 +350,13 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1547039295735">
-        <mark key="[" line="50" column="15" />
-        <mark key="]" line="51" column="11" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1547046700105">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
         <mark key="^" line="51" column="11" />
-        <mark key="." line="51" column="11" />
+        <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546595879983">
+      <file name="/Dummy.txt" timestamp="1547046747280">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
@@ -507,10 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="159" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/auctions_controller.rb" />
-      <jump line="82" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="119" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="61" column="40" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="420" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" />
@@ -607,6 +602,10 @@
       <jump line="9" column="45" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
       <jump line="88" column="10" filename="$USER_HOME$/.RubyMine2018.3/system/ruby_stubs/3606368/-1024762808/gems/actionpack-5.2.2/lib/action_dispatch/routing/url_for.rb" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
+      <jump line="13" column="74" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
+      <jump line="15" column="34" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
+      <jump line="14" column="63" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
+      <jump line="5" column="4" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -619,7 +618,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
@@ -628,31 +627,31 @@
         <text encoding="base64">ICAgICAgICBPbmVTaWduYWwuZ2V0VGFncygpLnRoZW4oIGZ1bmN0aW9uKHRhZ3MpIHsKICAgICAgICAgICAgaWYgKHRhZ3MubGVuZ3RoKSB7CiAgICAgICAgICAgICAgICBpZiAodGFncy51c2VyX2lkID09PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgICAgICAgICBPbmVTaWduYWwuc2VuZFRhZygndXNlcl9pZCcsICc8JT0gY3VycmVudF91c2VyLmlkICU+Jyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAodGFncy5sYW5nID09PSB1bmRlZmluZWQgfHwgdGFncy5sYW5nICE9PSAnPCU9IGN1cnJlbnRfdXNlci5sYW5ndWFnZSAlPicpewogICAgICAgICAgICAgICAgICAgIE9uZVNpZ25hbC5zZW5kVGFnKCdsYW5nJywgJzwlPSBjdXJyZW50X3VzZXIubGFuZ3VhZ2UgJT4nKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnNlbmRUYWcoJ2xhbmcnLCAnPCU9IGN1cnJlbnRfdXNlci5sYW5ndWFnZSAlPicpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIFJhaWxzLmFwcGxpY2F0aW9uLnJvdXRlcy51cmxfaGVscGVycwo=</text>
+        <text encoding="base64">ICAgIHAgcGFyYW1zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBPbmVTaWduYWwuc2VuZFRhZygndXNlcl9pZCcsICc8JT0gY3VycmVudF91c2VyLmlkICU+Jyk7CiAgICAgICAgT25lU2lnbmFsLnNlbmRUYWcoJ2xhbmcnLCAnPCU9IGN1cnJlbnRfdXNlci5sYW5ndWFnZSAlPicpOwo=</text>
+        <text encoding="base64">ICAgIG9uZV9zaWduYWxfdXJsID0gVVJJLnBhcnNlKEVOVlsnT05FX1NJR05BTF9FTkRQT0lOVCddKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBPbmVTaWduYWwuZ2V0VGFncyhmdW5jdGlvbigpIHsKICAgICAgICAgICAgLy8gQWxsIHRoZSB0YWdzIHN0b3JlZCBvbiB0aGUgY3VycmVudCB3ZWJwYWdlIHZpc2l0b3IKICAgICAgICAgICAgY29uc29sZS5sb2coImhvZ2UiKQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIG9uZV9zaWduYWxfdXJsID0gVVJJLnBhcnNlKEVOVlsnT05FX1NJR05BTF9FTkRQT0lOVCddKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHVybCB8fD0gImh0dHBzOi8vbmFuYWlyby5jby8iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXJzOiBmaWx0ZXJzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0YWdzLmxhbmcgPT09IHVuZGVmaW5lZCB8fCB0YWdzLmxhbmcgIT09ICc8JT0gY3VycmVudF91c2VyLmxhbmd1YWdlICU+Jyl7Cg==</text>
+        <text encoding="base64">ICAgIGZpbHRlcnMgPSBbXQogICAgdXNlcl9pZHMuZWFjaCBkbyB8dXNlcl9pZHwKICAgICAgZmlsdGVycy5wdXNoKHsgZmllbGQ6ICd0YWcnLCBrZXk6ICd1c2VyX2lkJywgcmVsYXRpb246ICc9JywgdmFsdWU6IHVzZXJfaWQgfSkKICAgICAgZmlsdGVycy5wdXNoKHsgb3BlcmF0b3I6ICdPUicgfSkKICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBhbmQgUmFpbHMubG9nZ2VyLmRlYnVnKCdQdXNoIG5vdGlmaWNhdGlvbiB3YXMgbm90IHNlbmQgaW4gdGVzdCcpIGlmIFJhaWxzLmVudi50ZXN0Pwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -691,7 +690,6 @@
         <entry encoding="base64">XDxzaG93X3Byb21wdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>vsplit</entry>
@@ -710,6 +708,7 @@
         <entry>wq</entry>
         <entry>action QuickJavaDoc</entry>
         <entry>action Find</entry>
+        <entry>action GotoImplementation</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
