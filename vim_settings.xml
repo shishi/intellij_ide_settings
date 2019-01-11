@@ -296,12 +296,13 @@
         <mark key="^" line="49" column="64" />
         <mark key="." line="54" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1547199788813">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1547202204321">
         <mark key="a" line="7" column="4" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="48" column="67" />
+        <mark key="s" line="7" column="4" />
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/cast.rb" timestamp="1536303718720">
         <mark key="[" line="164" column="25" />
@@ -619,7 +620,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
