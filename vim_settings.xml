@@ -204,6 +204,12 @@
         <mark key="." line="157" column="45" />
         <mark key="^" line="157" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/ci/Gemfile.lock" timestamp="1547294211960">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/config/master.key" timestamp="1545288492872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -358,7 +364,7 @@
         <mark key="^" line="51" column="11" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547286293926">
+      <file name="/Dummy.txt" timestamp="1547294007039">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="26" />
@@ -513,8 +519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
-      <jump line="61" column="40" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" />
       <jump line="420" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/auction.rb" />
       <jump line="10" column="26" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/system/user/auction_spec.rb" />
       <jump line="5" column="12" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/user/videos_spec.rb" />
@@ -613,6 +617,8 @@
       <jump line="15" column="34" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
       <jump line="14" column="63" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
       <jump line="5" column="4" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
+      <jump line="14" column="4" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/ci/Gemfile.lock" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/ci/Gemfile.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -634,31 +640,31 @@
         <text>titles_with_language, contents_with_language, url, user_ids = []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlZF9zZWdtZW50czogWydUZXN0IFVzZXJzJ10sCg==</text>
+        <text encoding="base64">R0VNCiAgcmVtb3RlOiBodHRwczovL3J1YnlnZW1zLm9yZy8KICBzcGVjczoKICAgIGFkZHJlc3NhYmxlICgyLjUuMikKICAgICAgcHVibGljX3N1ZmZpeCAoPj0gMi4wLjIsIDwgNC4wKQogICAgY2lyY2xlY2kgKDIuMC4yKQogICAgZmFyYWRheSAoMC4xNS40KQogICAgICBtdWx0aXBhcnQtcG9zdCAoPj0gMS4yLCA8IDMpCiAgICBtdWx0aXBhcnQtcG9zdCAoMi4wLjApCiAgICBtdXN0ZXJtYW5uICgxLjAuMykKICAgIG9jdG9raXQgKDQuMTMuMCkKICAgICAgc2F3eWVyICh+PiAwLjguMCwgPj0gMC41LjMpCiAgICBwdWJsaWNfc3VmZml4ICgzLjAuMykKICAgIHJhY2sgKDIuMC42KQogICAgcmFjay1wcm90ZWN0aW9uICgyLjAuNSkKICAgICAgcmFjawogICAgc2F3eWVyICgwLjguMSkKICAgICAgYWRkcmVzc2FibGUgKD49IDIuMy41LCA8IDIuNikKICAgICAgZmFyYWRheSAofj4gMC44LCA8IDEuMCkKICAgIHNpbmF0cmEgKDIuMC41KQogICAgICBtdXN0ZXJtYW5uICh+PiAxLjApCiAgICAgIHJhY2sgKH4+IDIuMCkKICAgICAgcmFjay1wcm90ZWN0aW9uICg9IDIuMC41KQogICAgICB0aWx0ICh+PiAyLjApCiAgICB0aWx0ICgyLjAuOSkKClBMQVRGT1JNUwogIHJ1YnkKCkRFUEVOREVOQ0lFUwogIGNpcmNsZWNpCiAgb2N0b2tpdAogIHNpbmF0cmEKCkJVTkRMRUQgV0lUSAogICAxLjE2LjYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlZF9zZWdtZW50czogWydUZXN0IFVzZXJzJ10sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6YnVpbGRfcGFyYW1zX3dpdGhfdXNlcl9pZHMsIDpjcmVhdGVfd2ViX3B1c2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6YnVpbGRfcGFyYW1zX3dpdGhfdXNlcl9pZHMsIDpjcmVhdGVfd2ViX3B1c2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHVzZXJfaWRzLmVtcHR5Pwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHVzZXJfaWRzLmVtcHR5Pwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IGJ1aWxkX3Jlc3BvbnNlKHRpdGxlc193aXRoX2xhbmd1YWdlLCBjb250ZW50c193aXRoX2xhbmd1YWdlLCB1cmwsIHVzZXJfaWRzID0gW10pCiAgICByZXNwb25zZSA9IGNyZWF0ZV93ZWJfcHVzaChwYXJhbXMpCgogICAgUmFpbHMubG9nZ2VyLmRlYnVnKHBhcmFtcykKICAgIFJhaWxzLmxvZ2dlci5kZWJ1ZyhyZXNwb25zZS5ib2R5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcyA9IGJ1aWxkX3Jlc3BvbnNlKHRpdGxlc193aXRoX2xhbmd1YWdlLCBjb250ZW50c193aXRoX2xhbmd1YWdlLCB1cmwsIHVzZXJfaWRzID0gW10pCiAgICByZXNwb25zZSA9IGNyZWF0ZV93ZWJfcHVzaChwYXJhbXMpCgogICAgUmFpbHMubG9nZ2VyLmRlYnVnKHBhcmFtcykKICAgIFJhaWxzLmxvZ2dlci5kZWJ1ZyhyZXNwb25zZS5ib2R5KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
