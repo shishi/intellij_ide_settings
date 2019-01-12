@@ -358,11 +358,11 @@
         <mark key="^" line="51" column="11" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547275458699">
+      <file name="/Dummy.txt" timestamp="1547286293926">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="20" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/concerns/push_notification.rb" timestamp="1546224644044">
         <mark key="[" line="1" column="31" />
@@ -435,10 +435,10 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/ci/Dockerfile" timestamp="1547275318871">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/ci/Dockerfile" timestamp="1547286860147">
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/application.html.erb" timestamp="1546074732869">
         <mark key="[" line="30" column="0" />
@@ -625,7 +625,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>update alpine ruby version</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
