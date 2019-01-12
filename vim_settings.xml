@@ -358,7 +358,7 @@
         <mark key="^" line="51" column="11" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547199863477">
+      <file name="/Dummy.txt" timestamp="1547275458699">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
@@ -434,6 +434,11 @@
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/ci/Dockerfile" timestamp="1547275318871">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/application.html.erb" timestamp="1546074732869">
         <mark key="[" line="30" column="0" />
