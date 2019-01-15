@@ -376,12 +376,12 @@
         <mark key="." line="643" column="41" />
         <mark key="^" line="643" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1547544820527">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1547552333098">
         <mark key="'" line="95" column="0" />
-        <mark key="[" line="520" column="62" />
-        <mark key="]" line="520" column="62" />
-        <mark key="^" line="520" column="62" />
-        <mark key="." line="520" column="62" />
+        <mark key="[" line="514" column="60" />
+        <mark key="]" line="514" column="60" />
+        <mark key="^" line="513" column="59" />
+        <mark key="." line="514" column="60" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/sty/tatsumacro.sty" timestamp="1545494819518">
         <mark key="[" line="98" column="20" />
@@ -578,13 +578,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ6aF9IYW50IjogJycsCiAgICAgICAgICAiemgtSGFucyI6ICcnLAogICAgICAgICAgdGg6ICcnLAogICAgICAgICAga286ICcnLAogICAgICAgICAgdmk6ICcnLAogICAgICAgICAgZnI6ICcnLAo=</text>
+      <register name="0" type="4">
+        <text>I18n.t('push_notification.title', locale: :en),</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
