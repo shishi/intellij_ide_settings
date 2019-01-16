@@ -141,14 +141,16 @@
         <mark key="." line="36" column="10" />
         <mark key="^" line="36" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/ja.yml" timestamp="1547479990031">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/ja.yml" timestamp="1547652668848">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1547046700105">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="51" column="11" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1547652871733">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="62" column="17" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/concerns/push_notification.rb" timestamp="1546224644044">
         <mark key="[" line="1" column="31" />
@@ -609,45 +611,45 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmRlYnVnKHJlc3BvbnNlLmJvZHkpCg==</text>
+      <register name="0" type="4">
+        <text>t('push_notiiication.accept'),</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb21wdE9wdGlvbnM6IHsKICAgICAgICAgICAgICAgIC8qIGFjdGlvbk1lc3NhZ2UgbGltaXRlZCB0byA5MCBjaGFyYWN0ZXJzICovCiAgICAgICAgICAgICAgICBhY3Rpb25NZXNzYWdlOiB0KCdwdXNoX25vdGlmaWNhdGlvbi5wcm9tcHRfbWVzc2FnZScpCiAgICAgICAgICAgICAgICAgICAgLyogYWNjZXB0QnV0dG9uVGV4dCBsaW1pdGVkIHRvIDE1IGNoYXJhY3RlcnMgKi8KICAgICAgICAgICAgICAgIGFjY2VwdEJ1dHRvblRleHQ6IHQoJ3B1c2hfbm90aWlpY2F0aW9uLmFjY2VwdCcpLAogICAgICAgICAgICAgICAgICAgIC8qIGNhbmNlbEJ1dHRvblRleHQgbGltaXRlZCB0byAxNSBjaGFyYWN0ZXJzICovCiAgICAgICAgICAgICAgICAgICAgY2FuY2VsQnV0dG9uVGV4dDogdCgncHVzaF9ub3RpaWljYXRpb24uZGVueScpCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHdlbGNvbWVOb3RpZmljYXRpb246IHsKICAgICAgICAgICAgICAgICJ0aXRsZSI6ICJNeSBDdXN0b20gVGl0bGUiLAogICAgICAgICAgICAgICAgICAgICJtZXNzYWdlIjogIlRoYW5rcyBmb3Igc3Vic2NyaWJpbmchIiwKICAgICAgICAgICAgICAgIC8vICJ1cmwiOiAiIiAvKiBMZWF2ZSBjb21tZW50ZWQgZm9yIHRoZSBub3RpZmljYXRpb24gdG8gbm90IG9wZW4gYSB3aW5kb3cgb24gQ2hyb21lIGFuZCBGaXJlZm94IChvbiBTYWZhcmksIGl0IG9wZW5zIHRvIHlvdXIgd2VicGFnZSkgKi8KICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="2" type="4">
         <text>send web push with 100 user_ids each
 
 OneSignal receive only 200 filter entries at a time and our user_id filter use 2 entries each user_id</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgb3B0aW9ucyA9IHsgY2hyb21lX3dlYl9pY29uOiAiaHR0cHM6Ly9uYW5haXJvLm5ncm9rLmlvL2ltYWdlcy9wdXNoLW5vdGlmaWNhdGlvbi1pY29uLnBuZyIsIGNocm9tZV93ZWJfaW1hZ2U6ICJodHRwczojeyBSZWZpbGUuYXR0YWNobWVudF91cmwoc2VsZiwgOnBsYXllcl9pbWFnZSkgfSIgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;&quot;</text>
-      </register>
       <register name="4" type="4">
-        <text>zh_Hant</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="6" type="4">
-        <text>zh-Hans</text>
-      </register>
-      <register name="7" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="8" type="4">
         <text>zh_Hant</text>
       </register>
-      <register name="9" type="4">
+      <register name="6" type="4">
         <text>&quot;&quot;</text>
       </register>
+      <register name="7" type="4">
+        <text>zh-Hans</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="9" type="4">
+        <text>zh_Hant</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -698,11 +700,11 @@ OneSignal receive only 200 filter entries at a time and our user_id filter use 2
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action GotoTest</entry>
-        <entry>action GotoImplementation</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>action QuickJavaDoc</entry>
         <entry>w</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
