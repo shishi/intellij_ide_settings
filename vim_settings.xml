@@ -54,6 +54,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="18" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/vi.yml" timestamp="1547623212808">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180905075425_delete_subject_from_video.rb" timestamp="1536134134738">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="2" column="34" />
@@ -90,10 +96,6 @@
         <mark key="^" line="2" column="117" />
         <mark key="." line="2" column="117" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/services/notification_service.rb" timestamp="1546156042950">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="47" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/video/downloads/index.html.erb" timestamp="1536728413784">
         <mark key="[" line="42" column="57" />
         <mark key="]" line="42" column="60" />
@@ -118,13 +120,19 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1547619800391">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/fr.yml" timestamp="1547623189913">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1547622110662">
         <mark key="a" line="7" column="4" />
         <mark key="s" line="7" column="4" />
-        <mark key="[" line="1" column="98" />
-        <mark key="]" line="1" column="102" />
-        <mark key="." line="1" column="102" />
-        <mark key="^" line="1" column="102" />
+        <mark key="[" line="30" column="47" />
+        <mark key="]" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+        <mark key="^" line="31" column="3" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Dockerfile" timestamp="1545482993116">
         <mark key="[" line="36" column="10" />
@@ -153,11 +161,23 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/th.yml" timestamp="1547623241336">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/extra_bars_controller.rb" timestamp="1536650751017">
         <mark key="[" line="36" column="79" />
         <mark key="]" line="36" column="82" />
         <mark key="^" line="36" column="82" />
         <mark key="." line="36" column="82" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/zh-hans.yml" timestamp="1547623327392">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/RailsGuides-pdf/book.tex" timestamp="1545485967619">
         <mark key="[" line="0" column="17" />
@@ -222,6 +242,12 @@
         <mark key="]" line="19" column="3" />
         <mark key="^" line="19" column="3" />
         <mark key="." line="19" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/ko.yml" timestamp="1547623265041">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/label.rb" timestamp="1536293427731">
         <mark key="[" line="154" column="18" />
@@ -349,9 +375,6 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/.RubyMine2018.3/system/ruby_stubs/3606368/-1024762808/gems/actionpack-5.2.2/lib/action_dispatch/routing/url_for.rb" timestamp="1546225954653">
-        <mark key="'" line="88" column="10" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/.circleci/docker-compose.yml" timestamp="1545466348669">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -376,12 +399,12 @@
         <mark key="." line="643" column="41" />
         <mark key="^" line="643" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1547619715021">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1547624092151">
         <mark key="'" line="95" column="0" />
-        <mark key="[" line="540" column="0" />
-        <mark key="]" line="542" column="5" />
-        <mark key="^" line="542" column="5" />
-        <mark key="." line="542" column="5" />
+        <mark key="[" line="546" column="44" />
+        <mark key="]" line="546" column="59" />
+        <mark key="^" line="546" column="59" />
+        <mark key="." line="546" column="59" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/sty/tatsumacro.sty" timestamp="1545494819518">
         <mark key="[" line="98" column="20" />
@@ -413,9 +436,14 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/concerns/author.rb" timestamp="1546224625626">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="31" />
+      <file name="/Dummy.txt" timestamp="1547622422247">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/zh-hant.yml" timestamp="1547623301958">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/home_controller.rb" timestamp="1536650795254">
         <mark key="[" line="4" column="64" />
@@ -578,43 +606,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>I18n.t('push_notification.title', locale: :en),</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgb3B0aW9ucyA9IHsgY2hyb21lX3dlYl9pY29uOiAiI3twcm90b2NvbH06Ly8je2hvc3R9L2ltYWdlcy9wdXNoLW5vdGlmaWNhdGlvbi1pY29uLnBuZyIsIGNocm9tZV93ZWJfaW1hZ2U6ICJodHRwczovLyN7IFJlZmlsZS5hdHRhY2htZW50X3VybChzZWxmLCA6cGxheWVyX2ltYWdlKSB9IiB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIyBwIHVzZXJfaWRzLmluY2x1ZGU/KDExMjI5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICJ6aF9IYW50IjogJycsCiAgICAgICAgICAiemgtSGFucyI6ICcnLAogICAgICAgICAgdGg6ICcnLAogICAgICAgICAga286ICcnLAogICAgICAgICAgdmk6ICcnLAogICAgICAgICAgZnI6ICcnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcCB1c2VyX2lkcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcCB1cmwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcCBjb250ZW50c193aXRoX2xhbmd1YWdlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcCB0aXRsZXNfd2l0aF9sYW5ndWFnZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIyBwIHVzZXJfaWRzLmluY2x1ZGU/KDExMjI5KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcCB1c2VyX2lkcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcCB1cmwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcCBjb250ZW50c193aXRoX2xhbmd1YWdlCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdXNlcl9pZHMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgcCB0aXRsZXNfd2l0aF9sYW5ndWFnZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action QuickJavaDoc</text>
       </register>
     </registers>
     <search>
@@ -650,12 +678,10 @@
         <entry encoding="base64">XDxzaG93X3Byb21wdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action MethodUp</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>vsplit</entry>
         <entry>vsp</entry>
         <entry>action ShowUsages</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>exit</entry>
         <entry>gotoaction</entry>
@@ -665,11 +691,13 @@
         <entry>actionlist</entry>
         <entry>action Exit</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
+        <entry>action GotoTest</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>w</entry>
+        <entry>q</entry>
         <entry>wq</entry>
         <entry>action QuickJavaDoc</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>action Find</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
