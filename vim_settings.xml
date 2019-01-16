@@ -126,14 +126,14 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1547635395823">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1547638093901">
         <mark key="a" line="7" column="4" />
         <mark key="s" line="7" column="4" />
         <mark key="'" line="12" column="31" />
-        <mark key="[" line="29" column="46" />
-        <mark key="]" line="29" column="53" />
-        <mark key="." line="29" column="53" />
-        <mark key="^" line="29" column="53" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Dockerfile" timestamp="1545482993116">
         <mark key="[" line="36" column="10" />
@@ -400,12 +400,12 @@
         <mark key="." line="643" column="41" />
         <mark key="^" line="643" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1547630032053">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="545" column="120" />
-        <mark key="]" line="545" column="120" />
-        <mark key="^" line="546" column="59" />
-        <mark key="." line="545" column="120" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1547638367128">
+        <mark key="'" line="510" column="18" />
+        <mark key="[" line="547" column="84" />
+        <mark key="]" line="548" column="5" />
+        <mark key="^" line="548" column="5" />
+        <mark key="." line="548" column="5" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/sty/tatsumacro.sty" timestamp="1545494819518">
         <mark key="[" line="98" column="20" />
@@ -437,8 +437,10 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547622422247">
+      <file name="/Dummy.txt" timestamp="1547638412984">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/zh-hant.yml" timestamp="1547623301958">
         <mark key="[" line="3" column="12" />
@@ -495,9 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="9" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
-      <jump line="228" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
-      <jump line="229" column="2" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
       <jump line="222" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
       <jump line="220" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
       <jump line="218" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
@@ -589,12 +588,15 @@
       <jump line="471" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="507" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="506" column="50" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
-      <jump line="510" column="23" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="509" column="24" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="516" column="59" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="328" column="26" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="95" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="13" column="31" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
+      <jump line="522" column="18" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
+      <jump line="521" column="18" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
+      <jump line="511" column="18" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
+      <jump line="510" column="18" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -607,7 +609,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
@@ -615,32 +617,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmRlYnVnKHJlc3BvbnNlLmJvZHkpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5kZWJ1Zyh1c2VyX2lkcy5jb3VudCkK</text>
+      <register name="1" type="4">
+        <text>send web push with 100 user_ids each
+
+OneSignal receive only 200 filter entries at a time and our user_id filter use 2 entries each user_id</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmRlYnVnKCJ1c2VyX2lkIGFydXlvb29vb29vb29vbyIpIGlmIHNsaWNlZF9pZHMuaW5jbHVkZT8oMTEyMjkpCg==</text>
+        <text encoding="base64">ICAgICAgb3B0aW9ucyA9IHsgY2hyb21lX3dlYl9pY29uOiAiaHR0cHM6Ly9uYW5haXJvLm5ncm9rLmlvL2ltYWdlcy9wdXNoLW5vdGlmaWNhdGlvbi1pY29uLnBuZyIsIGNocm9tZV93ZWJfaW1hZ2U6ICJodHRwczojeyBSZWZpbGUuYXR0YWNobWVudF91cmwoc2VsZiwgOnBsYXllcl9pbWFnZSkgfSIgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHAgInlvYmFyZXRheW9vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb28gI3tzdW19Igo=</text>
+      <register name="3" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1bSA9IDAK</text>
+      <register name="4" type="4">
+        <text>zh_Hant</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmRlYnVnKCkK</text>
+      <register name="5" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="6" type="4">
+        <text>zh-Hans</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ6aF9IYW50IjogJycsCiAgICAgICAgICAiemgtSGFucyI6ICcnLAogICAgICAgICAgdGg6ICcnLAogICAgICAgICAga286ICcnLAogICAgICAgICAgdmk6ICcnLAogICAgICAgICAgZnI6ICcnLAo=</text>
+      <register name="7" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>zh_Hant</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyBwIHVzZXJfaWRzLmluY2x1ZGU/KDExMjI5KQo=</text>
+      <register name="9" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
