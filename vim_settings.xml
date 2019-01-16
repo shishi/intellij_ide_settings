@@ -54,11 +54,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/vi.yml" timestamp="1547623212808">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="22" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/vi.yml" timestamp="1547656626991">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180905075425_delete_subject_from_video.rb" timestamp="1536134134738">
         <mark key="[" line="1" column="12" />
@@ -120,11 +120,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/fr.yml" timestamp="1547623189913">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="26" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/fr.yml" timestamp="1547656613802">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1547653221759">
         <mark key="a" line="7" column="4" />
@@ -141,17 +141,17 @@
         <mark key="." line="36" column="10" />
         <mark key="^" line="36" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/ja.yml" timestamp="1547654646482">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/ja.yml" timestamp="1547656597332">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="7" column="34" />
         <mark key="^" line="3" column="30" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1547655679527">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="73" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1547658310108">
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="46" column="10" />
+        <mark key="." line="46" column="10" />
+        <mark key="^" line="46" column="10" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/concerns/push_notification.rb" timestamp="1546224644044">
         <mark key="[" line="1" column="31" />
@@ -165,7 +165,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/th.yml" timestamp="1547623241336">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/th.yml" timestamp="1547656623558">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
@@ -177,11 +177,11 @@
         <mark key="^" line="36" column="82" />
         <mark key="." line="36" column="82" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/zh-hans.yml" timestamp="1547623327392">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="27" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/zh-hans.yml" timestamp="1547656630381">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/RailsGuides-pdf/book.tex" timestamp="1545485967619">
         <mark key="[" line="0" column="17" />
@@ -247,11 +247,11 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/ko.yml" timestamp="1547623265041">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="3" column="22" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/ko.yml" timestamp="1547656619203">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/label.rb" timestamp="1536293427731">
         <mark key="[" line="154" column="18" />
@@ -440,16 +440,11 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547653572641">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/zh-hant.yml" timestamp="1547623301958">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="27" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/zh-hant.yml" timestamp="1547657563739">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/home_controller.rb" timestamp="1536650795254">
         <mark key="[" line="4" column="64" />
@@ -492,11 +487,11 @@
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/en.yml" timestamp="1547480099280">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
-        <mark key="^" line="3" column="28" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/en.yml" timestamp="1547656609587">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -612,22 +607,36 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>t('push_notiiication.accept'),</text>
+        <text>お気に入り</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>add send_favorite_notification when video is active
+
+locale files is n
+            OneSignal.push(function() {
+                OneSignal.showHttpPrompt();
+})
+            OneSignal.push(function() {
+                OneSignal.showHttpPrompt();
+})
+            OneSignal.push(function() {
+                OneSignal.showHttpPrompt();
+})
+            OneSignal.push(function() {
+                OneSignal.showHttpPrompt();
+})</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnB1c2goZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICBPbmVTaWduYWwuc2hvd0h0dHBQcm9tcHQoKTsKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnB1c2goZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICBPbmVTaWduYWwuc2hvd0h0dHBQcm9tcHQoKTsKICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -639,13 +648,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnNlbmRUYWcoJ3VzZXJfaWQnLCAnPCU9IGN1cnJlbnRfdXNlci5pZCAlPicpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPbmVTaWduYWwuc2VuZFRhZygndXNlcl9pZCcsICc8JT0gY3VycmVudF91c2VyLmlkICU+Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnNlbmRUYWcoJ3VzZXJfaWQnLCAnPCU9IGN1cnJlbnRfdXNlci5pZCAlPicpOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnNlbmRUYWcoJ3VzZXJfaWQnLCAnPCU9IGN1cnJlbnRfdXNlci5pZCAlPicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPbmVTaWduYWwuc2VuZFRhZygndXNlcl9pZCcsICc8JT0gY3VycmVudF91c2VyLmlkICU+Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
