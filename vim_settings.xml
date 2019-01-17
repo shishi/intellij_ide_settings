@@ -120,10 +120,10 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/fr.yml" timestamp="1547656613802">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/fr.yml" timestamp="1547714377056">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="21" />
         <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1547653221759">
@@ -165,10 +165,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/th.yml" timestamp="1547656623558">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/th.yml" timestamp="1547714297553">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="21" />
         <mark key="^" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/extra_bars_controller.rb" timestamp="1536650751017">
@@ -177,11 +177,11 @@
         <mark key="^" line="36" column="82" />
         <mark key="." line="36" column="82" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/zh-hans.yml" timestamp="1547656630381">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-        <mark key="^" line="2" column="27" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/zh-hans.yml" timestamp="1547714336539">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="36" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/RailsGuides-pdf/book.tex" timestamp="1545485967619">
         <mark key="[" line="0" column="17" />
@@ -247,10 +247,10 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/ko.yml" timestamp="1547656619203">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/ko.yml" timestamp="1547714318306">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="21" />
         <mark key="^" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/label.rb" timestamp="1536293427731">
@@ -403,12 +403,12 @@
         <mark key="." line="643" column="41" />
         <mark key="^" line="643" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1547653185059">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1547715177540">
         <mark key="'" line="510" column="18" />
-        <mark key="[" line="518" column="86" />
-        <mark key="]" line="518" column="86" />
-        <mark key="^" line="518" column="85" />
-        <mark key="." line="518" column="86" />
+        <mark key="[" line="547" column="79" />
+        <mark key="]" line="547" column="79" />
+        <mark key="^" line="519" column="65" />
+        <mark key="." line="547" column="79" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/sty/tatsumacro.sty" timestamp="1545494819518">
         <mark key="[" line="98" column="20" />
@@ -440,11 +440,11 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/zh-hant.yml" timestamp="1547657563739">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="27" />
-        <mark key="^" line="2" column="27" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/zh-hant.yml" timestamp="1547714277123">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="3" column="13" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/home_controller.rb" timestamp="1536650795254">
         <mark key="[" line="4" column="64" />
@@ -487,11 +487,11 @@
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/en.yml" timestamp="1547656609587">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-        <mark key="^" line="2" column="28" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/en.yml" timestamp="1547714965821">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="5" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -607,13 +607,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>お気に入り</text>
+        <text>Thank you for subscribing!</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnNlbmRUYWcoJ3VzZXJfaWQnLCAnPCU9IGN1cnJlbnRfdXNlci5pZCAlPicpOwo=</text>
