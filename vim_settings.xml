@@ -54,11 +54,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/vi.yml" timestamp="1547656626991">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="22" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/vi.yml" timestamp="1547717117248">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="29" />
         <mark key="^" line="2" column="22" />
-        <mark key="." line="2" column="22" />
+        <mark key="." line="2" column="11" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180905075425_delete_subject_from_video.rb" timestamp="1536134134738">
         <mark key="[" line="1" column="12" />
@@ -440,6 +440,11 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
+      <file name="/Dummy.txt" timestamp="1547717220788">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/push_notification/zh-hant.yml" timestamp="1547714277123">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="28" />
@@ -607,7 +612,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>nanairo お気に入り</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
@@ -615,10 +620,20 @@
       <register name="0" type="4">
         <text>Thank you for subscribing!</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnNlbmRUYWcoJ3VzZXJfaWQnLCAnPCU9IGN1cnJlbnRfdXNlci5pZCAlPicpOwo=</text>
+      <register name="1" type="4">
+        <text>add send_favorite_notification when video is active
+
+locale files is not finished</text>
       </register>
       <register name="2" type="4">
+        <text>add send_favorite_notification when video is active
+
+locale files is not finished</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnNlbmRUYWcoJ3VzZXJfaWQnLCAnPCU9IGN1cnJlbnRfdXNlci5pZCAlPicpOwo=</text>
+      </register>
+      <register name="4" type="4">
         <text>add send_favorite_notification when video is active
 
 locale files is n
@@ -635,17 +650,11 @@ locale files is n
                 OneSignal.showHttpPrompt();
 })</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnB1c2goZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICBPbmVTaWduYWwuc2hvd0h0dHBQcm9tcHQoKTsKICAgICAgICAgICAgfSkK</text>
-      </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnB1c2goZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICBPbmVTaWduYWwuc2hvd0h0dHBQcm9tcHQoKTsKICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -654,7 +663,7 @@ locale files is n
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnNlbmRUYWcoJ3VzZXJfaWQnLCAnPCU9IGN1cnJlbnRfdXNlci5pZCAlPicpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
