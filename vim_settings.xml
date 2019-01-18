@@ -126,14 +126,14 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1547653221759">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1547805786384">
         <mark key="a" line="7" column="4" />
         <mark key="s" line="7" column="4" />
         <mark key="'" line="12" column="31" />
-        <mark key="[" line="1" column="52" />
-        <mark key="]" line="1" column="58" />
-        <mark key="." line="1" column="58" />
-        <mark key="^" line="1" column="58" />
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="2" column="9" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Dockerfile" timestamp="1545482993116">
         <mark key="[" line="36" column="10" />
@@ -237,9 +237,10 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/application.rb" timestamp="1547467408031">
-        <mark key="[" line="85" column="4" />
-        <mark key="]" line="85" column="44" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/application.rb" timestamp="1547805947303">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/services/transcode/read_service.rb" timestamp="1546172460109">
         <mark key="[" line="19" column="4" />
@@ -403,12 +404,12 @@
         <mark key="." line="643" column="41" />
         <mark key="^" line="643" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1547715177540">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1547803379292">
         <mark key="'" line="510" column="18" />
-        <mark key="[" line="547" column="79" />
-        <mark key="]" line="547" column="79" />
+        <mark key="[" line="522" column="13" />
+        <mark key="]" line="522" column="14" />
         <mark key="^" line="519" column="65" />
-        <mark key="." line="547" column="79" />
+        <mark key="." line="522" column="14" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/sty/tatsumacro.sty" timestamp="1545494819518">
         <mark key="[" line="98" column="20" />
@@ -440,7 +441,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547724016802">
+      <file name="/Dummy.txt" timestamp="1547805203015">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -612,58 +613,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>nanairo お気に入り</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>Thank you for subscribing!</text>
+        <text>ENV['ONE_SIGNAL_APP_ID']</text>
       </register>
-      <register name="1" type="4">
-        <text>add send_favorite_notification when video is active
-
-locale files is not finished</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAjRU5WWydPTkVfU0lHTkFMX0FQUF9JRCddID0gJycK</text>
       </register>
-      <register name="2" type="4">
-        <text>add send_favorite_notification when video is active
-
-locale files is not finished</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnNlbmRUYWcoJ3VzZXJfaWQnLCAnPCU9IGN1cnJlbnRfdXNlci5pZCAlPicpOwo=</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5tZWRyZ2UoeyBmaWx0ZXJzOiBmaWx0ZXJzIH0pLm1lcmdlKG9wdGlvbnMpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>add send_favorite_notification when video is active
-
-locale files is n
-            OneSignal.push(function() {
-                OneSignal.showHttpPrompt();
-})
-            OneSignal.push(function() {
-                OneSignal.showHttpPrompt();
-})
-            OneSignal.push(function() {
-                OneSignal.showHttpPrompt();
-})
-            OneSignal.push(function() {
-                OneSignal.showHttpPrompt();
-})</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnB1c2goZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICBPbmVTaWduYWwuc2hvd0h0dHBQcm9tcHQoKTsKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIHBhcmFtcyA9IHsKICAgICAgICBhcHBfaWQ6IEVOVlsnT05FX1NJR05BTF9BUFBfSUQnXSwKICAgICAgICBoZWFkaW5nczogdGl0bGVzX3dpdGhfbGFuZ3VhZ2UsCiAgICAgICAgY29udGVudHM6IGNvbnRlbnRzX3dpdGhfbGFuZ3VhZ2UsCiAgICAgICAgdXJsOiB1cmwKICAgIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcyA9IHBhcmFtcy5tZXJnZShvcHRpb25zKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -676,7 +659,7 @@ locale files is n
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdWN0aW9uXD4=</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
