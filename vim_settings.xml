@@ -404,12 +404,12 @@
         <mark key="." line="643" column="41" />
         <mark key="^" line="643" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1547803379292">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" timestamp="1547814147006">
         <mark key="'" line="510" column="18" />
-        <mark key="[" line="522" column="13" />
-        <mark key="]" line="522" column="14" />
-        <mark key="^" line="519" column="65" />
-        <mark key="." line="522" column="14" />
+        <mark key="[" line="506" column="30" />
+        <mark key="]" line="506" column="43" />
+        <mark key="^" line="506" column="43" />
+        <mark key="." line="506" column="43" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/sty/tatsumacro.sty" timestamp="1545494819518">
         <mark key="[" line="98" column="20" />
@@ -613,7 +613,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
