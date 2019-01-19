@@ -484,6 +484,11 @@
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="67" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/ci/import-upstream" timestamp="1547868424344">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/docker-compose/app/docker-prehook.sh" timestamp="1545208030546">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="20" />
@@ -624,31 +629,31 @@
         <text encoding="base64">ICBkZWYgc2VsZi5idWlsZF9wYXJhbXNfd2l0aF91c2VyX2lkcyh0aXRsZXNfd2l0aF9sYW5ndWFnZSwgY29udGVudHNfd2l0aF9sYW5ndWFnZSwgdXJsLCB1c2VyX2lkcywgb3B0aW9ucykKICAgIGZpbHRlcnMgPSBbXQogICAgdXNlcl9pZHMuZWFjaF93aXRoX2luZGV4IGRvIHx1c2VyX2lkLCBpbmRleHwKICAgICAgZmlsdGVycy5wdXNoKHsgZmllbGQ6ICd0YWcnLCBrZXk6ICd1c2VyX2lkJywgcmVsYXRpb246ICc9JywgdmFsdWU6IHVzZXJfaWQgfSkKICAgICAgZmlsdGVycy5wdXNoKHsgb3BlcmF0b3I6ICdPUicgfSkgdW5sZXNzIHVzZXJfaWRzLnNpemUgPT0gaW5kZXggKyAxCiAgICBlbmQKCiAgICB7CiAgICAgICAgYXBwX2lkOiBFTlZbJ09ORV9TSUdOQUxfQVBQX0lEJ10sCiAgICAgICAgaGVhZGluZ3M6IHRpdGxlc193aXRoX2xhbmd1YWdlLAogICAgICAgIGNvbnRlbnRzOiBjb250ZW50c193aXRoX2xhbmd1YWdlLAogICAgICAgIHVybDogdXJsLAogICAgICAgIGZpbHRlcnM6IGZpbHRlcnMKICAgIH0ubWVyZ2Uob3B0aW9ucykKICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9saWI2NCAmJiBsbiAtcyAvbGliL2xpYmMubXVzbC14ODZfNjQuc28uMSAvbGliNjQvbGQtbGludXgteDg2LTY0LnNvLjIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjRU5WWydPTkVfU0lHTkFMX0FQUF9JRCddID0gJycK</text>
+        <text encoding="base64">ICBiaW4vcmFrZSBtZDJyZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBidW5kbGUgaW5zdGFsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5tZWRyZ2UoeyBmaWx0ZXJzOiBmaWx0ZXJzIH0pLm1lcmdlKG9wdGlvbnMpCg==</text>
+        <text encoding="base64">UlVOIG1rZGlyIC9saWI2NCAmJiBsbiAtcyAvbGliL2xpYmMubXVzbC14ODZfNjQuc28uMSAvbGliNjQvbGQtbGludXgteDg2LTY0LnNvLjIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAjRU5WWydPTkVfU0lHTkFMX0FQUF9JRCddID0gJycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IHsKICAgICAgICBhcHBfaWQ6IEVOVlsnT05FX1NJR05BTF9BUFBfSUQnXSwKICAgICAgICBoZWFkaW5nczogdGl0bGVzX3dpdGhfbGFuZ3VhZ2UsCiAgICAgICAgY29udGVudHM6IGNvbnRlbnRzX3dpdGhfbGFuZ3VhZ2UsCiAgICAgICAgdXJsOiB1cmwKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5tZWRyZ2UoeyBmaWx0ZXJzOiBmaWx0ZXJzIH0pLm1lcmdlKG9wdGlvbnMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
