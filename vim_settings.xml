@@ -418,11 +418,11 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/ci/Dockerfile" timestamp="1547864275287">
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/ci/Dockerfile" timestamp="1547870980492">
         <mark key="[" line="9" column="89" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/application.html.erb" timestamp="1546074732869">
         <mark key="[" line="30" column="0" />
