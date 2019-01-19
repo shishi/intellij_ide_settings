@@ -417,11 +417,11 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/ci/Dockerfile" timestamp="1547864238135">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="28" />
-        <mark key="^" line="7" column="28" />
+      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/ci/Dockerfile" timestamp="1547864275287">
+        <mark key="[" line="9" column="89" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/application.html.erb" timestamp="1546074732869">
         <mark key="[" line="30" column="0" />
@@ -614,7 +614,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
