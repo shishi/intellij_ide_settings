@@ -276,12 +276,12 @@
         <mark key="^" line="49" column="64" />
         <mark key="." line="54" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1547820016065">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1548070169677">
         <mark key="a" line="7" column="4" />
         <mark key="s" line="7" column="4" />
         <mark key="'" line="12" column="31" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="20" column="78" />
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="36" />
         <mark key="." line="20" column="78" />
         <mark key="^" line="20" column="78" />
       </file>
@@ -624,8 +624,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi5idWlsZF9wYXJhbXNfd2l0aF91c2VyX2lkcyh0aXRsZXNfd2l0aF9sYW5ndWFnZSwgY29udGVudHNfd2l0aF9sYW5ndWFnZSwgdXJsLCB1c2VyX2lkcywgb3B0aW9ucykKICAgIGZpbHRlcnMgPSBbXQogICAgdXNlcl9pZHMuZWFjaF93aXRoX2luZGV4IGRvIHx1c2VyX2lkLCBpbmRleHwKICAgICAgZmlsdGVycy5wdXNoKHsgZmllbGQ6ICd0YWcnLCBrZXk6ICd1c2VyX2lkJywgcmVsYXRpb246ICc9JywgdmFsdWU6IHVzZXJfaWQgfSkKICAgICAgZmlsdGVycy5wdXNoKHsgb3BlcmF0b3I6ICdPUicgfSkgdW5sZXNzIHVzZXJfaWRzLnNpemUgPT0gaW5kZXggKyAxCiAgICBlbmQKCiAgICB7CiAgICAgICAgYXBwX2lkOiBFTlZbJ09ORV9TSUdOQUxfQVBQX0lEJ10sCiAgICAgICAgaGVhZGluZ3M6IHRpdGxlc193aXRoX2xhbmd1YWdlLAogICAgICAgIGNvbnRlbnRzOiBjb250ZW50c193aXRoX2xhbmd1YWdlLAogICAgICAgIHVybDogdXJsLAogICAgICAgIGZpbHRlcnM6IGZpbHRlcnMKICAgIH0ubWVyZ2Uob3B0aW9ucykKICBlbmQK</text>
+      <register name="0" type="4">
+        <text>{ operator: 'OR' }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UlVOIGFwdCB1cGRhdGUgJiYgYXB0IHVwZ3JhZGUgLXkK</text>
