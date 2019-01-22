@@ -48,6 +48,10 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="33" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20181221123535_create_restrict_bid_logs.rb" timestamp="1548148422152">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="94" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/frontend/user/index.ts" timestamp="1548142431953">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="28" />
@@ -82,6 +86,12 @@
         <mark key="]" line="51" column="0" />
         <mark key="^" line="5" column="2" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" timestamp="1548150913032">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="351" column="0" />
+        <mark key="]" line="351" column="0" />
+        <mark key="." line="351" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/test.sh" timestamp="1545044975781">
         <mark key="[" line="7" column="8" />
@@ -173,6 +183,12 @@
         <mark key="^" line="52" column="1" />
         <mark key="." line="51" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20190122090239_create_user_devices.rb" timestamp="1548149264989">
+        <mark key="[" line="4" column="61" />
+        <mark key="]" line="4" column="62" />
+        <mark key="^" line="4" column="62" />
+        <mark key="." line="4" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/fixtures/videos.yml" timestamp="1536572663064">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
@@ -196,6 +212,12 @@
         <mark key="]" line="19" column="18" />
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user_devices_controller.rb" timestamp="1548150379599">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+        <mark key="^" line="13" column="11" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/views/defaults/ja.yml" timestamp="1535077584735">
         <mark key="[" line="104" column="9" />
@@ -329,6 +351,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="53" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/user_device.rb" timestamp="1548149091703">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="55" />
+        <mark key="^" line="3" column="55" />
+        <mark key="." line="3" column="55" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_not_draft.erb" timestamp="1536742484477">
         <mark key="[" line="62" column="25" />
         <mark key="]" line="62" column="30" />
@@ -362,10 +390,16 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547817214542">
+      <file name="/Dummy.txt" timestamp="1548150714030">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/user.rb" timestamp="1548149822046">
+        <mark key="[" line="84" column="46" />
+        <mark key="]" line="85" column="44" />
+        <mark key="^" line="85" column="44" />
+        <mark key="." line="85" column="44" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/concerns/push_notification.rb" timestamp="1546224644044">
         <mark key="[" line="1" column="31" />
@@ -525,7 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
       <jump line="220" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
       <jump line="218" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
       <jump line="216" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/requests/webmaster/auctions_spec.rb" />
@@ -625,6 +658,7 @@
       <jump line="511" column="18" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="510" column="18" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="13" column="16" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
+      <jump line="167" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -637,42 +671,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>var OneSignal = window.OneSignal || [];</text>
+        <text>, foreign_key: true, type: :integer, null: false, comment: &quot;入札禁止ユーザーID&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWxlcnQoImhvZ2Vob2dlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgcmVzb3VyY2VzIDp1c2VyX2RldmljZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXhpb3MuZ2V0KCIvdXNlcj9JRD0xMjM0NSIpOwo=</text>
+        <text encoding="base64">ICByZXNvdXJjZXMgOnVzZXJfZGV2aWNlcwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>.catch(function (error) {
-    console.log(error);
-  });</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHVzZXJfZGV2aWNlc191cmwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coImhvZ2Vob2dlIik7Cg==</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHVzZXJfZGV2aWNlc191cmwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lCg==</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHVzZXJfZGV2aWNlIGlmIEB1c2VyX2RldmljZS5zYXZlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBheGlvcy5wb3N0KCcvdXNlcicsIHsKICAgICAgICAgICAgZmlyc3ROYW1lOiAnRnJlZCcsCiAgICAgICAgICAgIGxhc3ROYW1lOiAnRmxpbnRzdG9uZScKICAgICAgICB9KQogICAgICAgICAgICAudGhlbihmdW5jdGlvbiAocmVzcG9uc2UpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLmNhdGNoKGZ1bmN0aW9uIChlcnJvcikgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3IpOwogICAgICAgICAgICB9KTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coImhvZ2Vob2dlIikK</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
