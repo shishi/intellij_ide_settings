@@ -270,20 +270,20 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/env.yml" timestamp="1546849421313">
-        <mark key="[" line="54" column="15" />
-        <mark key="]" line="54" column="15" />
-        <mark key="^" line="49" column="64" />
-        <mark key="." line="54" column="15" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/env.yml" timestamp="1548119557964">
+        <mark key="[" line="49" column="2" />
+        <mark key="]" line="49" column="34" />
+        <mark key="^" line="49" column="25" />
+        <mark key="." line="49" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1548070169677">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" timestamp="1548119649442">
         <mark key="a" line="7" column="4" />
         <mark key="s" line="7" column="4" />
-        <mark key="'" line="12" column="31" />
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="36" />
-        <mark key="." line="20" column="78" />
-        <mark key="^" line="20" column="78" />
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="51" column="68" />
+        <mark key="." line="51" column="36" />
+        <mark key="^" line="2" column="48" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/Dockerfile" timestamp="1545482993116">
         <mark key="[" line="36" column="10" />
@@ -602,11 +602,11 @@
       <jump line="516" column="59" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="328" column="26" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="95" column="0" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
-      <jump line="13" column="31" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
       <jump line="522" column="18" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="521" column="18" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="511" column="18" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
       <jump line="510" column="18" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/models/video.rb" />
+      <jump line="13" column="16" filename="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/lib/push_notification.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -619,13 +619,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>{ operator: 'OR' }</text>
+        <text>ONE_SIGNAL_NOTIFICATION_ENDPOINT</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UlVOIGFwdCB1cGRhdGUgJiYgYXB0IHVwZ3JhZGUgLXkK</text>
