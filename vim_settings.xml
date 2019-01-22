@@ -310,11 +310,11 @@
         <mark key="^" line="506" column="43" />
         <mark key="." line="506" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/frontend/user/layout/one-signal.ts" timestamp="1548124447479">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/frontend/user/layout/one-signal.ts" timestamp="1548125406007">
         <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-        <mark key="^" line="11" column="7" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/sty/tatsumacro.sty" timestamp="1545494819518">
         <mark key="[" line="98" column="20" />
@@ -353,11 +353,11 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1548122268149">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="47" />
-        <mark key="^" line="67" column="8" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1548125963025">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="68" column="10" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180625080840_alter_content_reviews.rb" timestamp="1536650841026">
         <mark key="[" line="8" column="42" />
@@ -489,6 +489,10 @@
         <mark key="]" line="7" column="91" />
         <mark key="^" line="7" column="91" />
         <mark key="." line="7" column="91" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/frontend/user/layout/modal.ts" timestamp="1548125483298">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="18" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user/search_controller.rb" timestamp="1536650806733">
         <mark key="[" line="17" column="64" />
@@ -640,35 +644,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgT25lU2lnbmFsID0gd2luZG93Lk9uZVNpZ25hbCB8fCBbXTsK</text>
+      <register name="0" type="4">
+        <text>closeModal</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJob2dlaG9nZWhvZ2UiKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBheGlvcyA9IHJlcXVpcmUoJ2F4aW9zJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJob2dlaG9nZWhvZ2UiKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGF4aW9zLnBvc3QoJy91c2VyJywgeyBmaXJzdE5hbWU6ICdGcmVkJywgbGFzdE5hbWU6ICdGbGludHN0b25lJ30pOwogICAgICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSk7CiAgICAgICAgfSBjYXRjaChlcnJvcikgewogICAgICAgICAgICBjb25zb2xlLmxvZyhlcnJvcik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludCgiaG9nZWhvZ2UiKQo=</text>
+        <text encoding="base64">aG9nZWhvZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiaG9nZWhvZ2UiKQo=</text>
+        <text encoding="base64">ICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLnNlbmRUYWcoJ3VzZXJfaWQnLCAnPCU9IGN1cnJlbnRfdXNlci5pZCAlPicpOwogICAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBob2dlaG9nZSgpIHsKICAgICAgY29uc29sZS5sb2coImhvZ2Vob2dlIikKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnNob3dIdHRwUHJvbXRwKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE9uZVNpZ25hbCA9IHdpbmRvdy5PbmVTaWduYWwgfHwgW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT25lU2lnbmFsLnNob3dIdHRwUHJvbXB0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJob2dlaG9nZWhvZ2UiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLnNob3dIdHRwUHJvbXB0KCk7CiAgICAgICAgICAgIE9uZVNpZ25hbC5zZW5kVGFnKCd1c2VyX2lkJywgJzwlPSBjdXJyZW50X3VzZXIuaWQgJT4nKTsKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJob2dlaG9nZWhvZ2UiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludCgiaG9nZWhvZ2UiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
