@@ -87,7 +87,7 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" timestamp="1548150913032">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/routes.rb" timestamp="1548150991116">
         <mark key="'" line="167" column="0" />
         <mark key="[" line="351" column="0" />
         <mark key="]" line="351" column="0" />
@@ -213,11 +213,11 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user_devices_controller.rb" timestamp="1548150379599">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="11" />
-        <mark key="^" line="13" column="11" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/controllers/user_devices_controller.rb" timestamp="1548155601252">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="19" column="55" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/config/locales/views/defaults/ja.yml" timestamp="1535077584735">
         <mark key="[" line="104" column="9" />
@@ -390,7 +390,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548150714030">
+      <file name="/Dummy.txt" timestamp="1548150992793">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -680,31 +680,31 @@
         <text>, foreign_key: true, type: :integer, null: false, comment: &quot;入札禁止ユーザーID&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgT25seSBhbGxvdyBhIHRydXN0ZWQgcGFyYW1ldGVyICJ3aGl0ZSBsaXN0IiB0aHJvdWdoLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VzIDp1c2VyX2RldmljZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOnVzZXJfZGV2aWNlcwo=</text>
+        <text encoding="base64">ICAgICAgcmVzb3VyY2VzIDp1c2VyX2RldmljZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHVzZXJfZGV2aWNlc191cmwK</text>
+        <text encoding="base64">ICByZXNvdXJjZXMgOnVzZXJfZGV2aWNlcwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHVzZXJfZGV2aWNlc191cmwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHVzZXJfZGV2aWNlIGlmIEB1c2VyX2RldmljZS5zYXZlCg==</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHVzZXJfZGV2aWNlc191cmwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHVzZXJfZGV2aWNlIGlmIEB1c2VyX2RldmljZS5zYXZlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
