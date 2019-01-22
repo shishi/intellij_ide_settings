@@ -204,12 +204,6 @@
         <mark key="." line="157" column="45" />
         <mark key="^" line="157" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/ci/Gemfile.lock" timestamp="1547294211960">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180910065230_add_period_to_auction.rb" timestamp="1536562546200">
         <mark key="[" line="2" column="111" />
         <mark key="]" line="2" column="117" />
@@ -310,11 +304,21 @@
         <mark key="^" line="506" column="43" />
         <mark key="." line="506" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/frontend/user/layout/one-signal.ts" timestamp="1548122688121">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/sty/tatsumacro.sty" timestamp="1545494819518">
         <mark key="[" line="98" column="20" />
         <mark key="]" line="98" column="20" />
         <mark key="." line="98" column="20" />
         <mark key="^" line="104" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/frontend/user/layout/gemini-scrollbar.ts" timestamp="1548122162603">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="53" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/nanairo_webmaster/auctions/_form_not_draft.erb" timestamp="1536742484477">
         <mark key="[" line="62" column="25" />
@@ -343,11 +347,11 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1548063945187">
-        <mark key="[" line="65" column="17" />
-        <mark key="]" line="67" column="8" />
-        <mark key="." line="67" column="8" />
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/views/layouts/user.erb" timestamp="1548122268149">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="47" />
         <mark key="^" line="67" column="8" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/db/migrate/20180625080840_alter_content_reviews.rb" timestamp="1536650841026">
         <mark key="[" line="8" column="42" />
@@ -625,40 +629,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93X3Byb21wdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>ONE_SIGNAL_NOTIFICATION_ENDPOINT</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgT25lU2lnbmFsID0gd2luZG93Lk9uZVNpZ25hbCB8fCBbXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIGFwdCB1cGRhdGUgJiYgYXB0IHVwZ3JhZGUgLXkK</text>
+        <text encoding="base64">ICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLnNob3dIdHRwUHJvbXB0KCk7CiAgICAgICAgICAgIE9uZVNpZ25hbC5zZW5kVGFnKCd1c2VyX2lkJywgJzwlPSBjdXJyZW50X3VzZXIuaWQgJT4nKTsKICAgICAgICB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIGFwdCB1cGRhdGUgJiYgYXB0IHVwZ3JhZGUgLXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLnNob3dIdHRwUHJvbXB0KCk7CiAgICAgICAgICAgIE9uZVNpZ25hbC5zZW5kVGFnKCd1c2VyX2lkJywgJzwlPSBjdXJyZW50X3VzZXIuaWQgJT4nKTsKICAgICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiaW4vcmFrZSBtZDJyZQo=</text>
+        <text encoding="base64">UlVOIGFwdCB1cGRhdGUgJiYgYXB0IHVwZ3JhZGUgLXkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBidW5kbGUgaW5zdGFsbAo=</text>
+        <text encoding="base64">UlVOIGFwdCB1cGRhdGUgJiYgYXB0IHVwZ3JhZGUgLXkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9saWI2NCAmJiBsbiAtcyAvbGliL2xpYmMubXVzbC14ODZfNjQuc28uMSAvbGliNjQvbGQtbGludXgteDg2LTY0LnNvLjIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAjRU5WWydPTkVfU0lHTkFMX0FQUF9JRCddID0gJycK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBiaW4vcmFrZSBtZDJyZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBidW5kbGUgaW5zdGFsbAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5tZWRyZ2UoeyBmaWx0ZXJzOiBmaWx0ZXJzIH0pLm1lcmdlKG9wdGlvbnMpCg==</text>
+        <text encoding="base64">UlVOIG1rZGlyIC9saWI2NCAmJiBsbiAtcyAvbGliL2xpYmMubXVzbC14ODZfNjQuc28uMSAvbGliNjQvbGQtbGludXgteDg2LTY0LnNvLjIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
