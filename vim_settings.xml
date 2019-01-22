@@ -334,6 +334,9 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/dummy.sql" timestamp="1548120725161">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/takeyuweb-rails/app/controllers/admin/announcements_controller.rb" timestamp="1545744014604">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="8" />
@@ -504,6 +507,9 @@
         <mark key="]" line="7" column="46" />
         <mark key="." line="7" column="21" />
         <mark key="^" line="5" column="16" />
+      </file>
+      <file name="/nanairo_development.content_favorite_assignments [ubuntu]" timestamp="1548120722575">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
