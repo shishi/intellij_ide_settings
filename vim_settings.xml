@@ -48,6 +48,12 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="33" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/frontend/user/index.ts" timestamp="1548122855946">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/spec/support/session_helper_with_factory_bot.rb" timestamp="1535355249710">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="20" />
@@ -304,11 +310,11 @@
         <mark key="^" line="506" column="43" />
         <mark key="." line="506" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/frontend/user/layout/one-signal.ts" timestamp="1548122688121">
+      <file name="$USER_HOME$/dev/src/github.com/takeyuwebinc/nanairo/app/frontend/user/layout/one-signal.ts" timestamp="1548123497952">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="7" />
-        <mark key="." line="1" column="7" />
-        <mark key="^" line="1" column="7" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/yasslab/railsguides.jp_ebook/sty/tatsumacro.sty" timestamp="1545494819518">
         <mark key="[" line="98" column="20" />
@@ -638,31 +644,31 @@
         <text encoding="base64">ICAgICAgICB2YXIgT25lU2lnbmFsID0gd2luZG93Lk9uZVNpZ25hbCB8fCBbXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLnNob3dIdHRwUHJvbXB0KCk7CiAgICAgICAgICAgIE9uZVNpZ25hbC5zZW5kVGFnKCd1c2VyX2lkJywgJzwlPSBjdXJyZW50X3VzZXIuaWQgJT4nKTsKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJob2dlaG9nZWhvZ2UiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludCgiaG9nZWhvZ2UiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLnNob3dIdHRwUHJvbXB0KCk7CiAgICAgICAgICAgIE9uZVNpZ25hbC5zZW5kVGFnKCd1c2VyX2lkJywgJzwlPSBjdXJyZW50X3VzZXIuaWQgJT4nKTsKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiaG9nZWhvZ2UiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIGFwdCB1cGRhdGUgJiYgYXB0IHVwZ3JhZGUgLXkK</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBob2dlaG9nZSgpIHsKICAgICAgY29uc29sZS5sb2coImhvZ2Vob2dlIikKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIGFwdCB1cGRhdGUgJiYgYXB0IHVwZ3JhZGUgLXkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IE9uZVNpZ25hbCA9IHdpbmRvdy5PbmVTaWduYWwgfHwgW107Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJob2dlaG9nZWhvZ2UiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiaW4vcmFrZSBtZDJyZQo=</text>
+        <text encoding="base64">ICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLnNob3dIdHRwUHJvbXB0KCk7CiAgICAgICAgICAgIE9uZVNpZ25hbC5zZW5kVGFnKCd1c2VyX2lkJywgJzwlPSBjdXJyZW50X3VzZXIuaWQgJT4nKTsKICAgICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBidW5kbGUgaW5zdGFsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9saWI2NCAmJiBsbiAtcyAvbGliL2xpYmMubXVzbC14ODZfNjQuc28uMSAvbGliNjQvbGQtbGludXgteDg2LTY0LnNvLjIK</text>
+        <text encoding="base64">ICAgICAgICBPbmVTaWduYWwucHVzaChmdW5jdGlvbigpIHsKICAgICAgICAgICAgT25lU2lnbmFsLnNob3dIdHRwUHJvbXB0KCk7CiAgICAgICAgICAgIE9uZVNpZ25hbC5zZW5kVGFnKCd1c2VyX2lkJywgJzwlPSBjdXJyZW50X3VzZXIuaWQgJT4nKTsKICAgICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
