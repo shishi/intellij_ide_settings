@@ -1,7 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="wsl.exe" />
+    <option name="myShellPath" value="" />
     <option name="mySoundBell" value="false" />
-    <option name="myTabName" value="WSL" />
+    <option name="myTabName" value="local" />
   </component>
 </application>
