@@ -1,9 +1,4 @@
 <keymap version="1" name="Default tweak" parent="$default">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
-    <keyboard-shortcut first-keystroke="ctrl insert" />
-    <keyboard-shortcut first-keystroke="shift ctrl c" />
-  </action>
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="shift back_space" />
@@ -29,10 +24,6 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt k" />
-  </action>
-  <action id="CopyPaths" />
-  <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="Editor Delete">
     <keyboard-shortcut first-keystroke="shift back_space" />
