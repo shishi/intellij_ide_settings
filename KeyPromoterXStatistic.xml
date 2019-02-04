@@ -89,6 +89,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Next Highlighted Error">
+        <Item>
+          <IdeaActionID>GotoNextError</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Next Highlighted Error</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
