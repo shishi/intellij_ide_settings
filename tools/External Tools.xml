@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="unison" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="ngrok" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="unison" />
-      <option name="PARAMETERS" value="-auto -times -batch -repeat watch" />
+      <option name="COMMAND" value="ngrok" />
+      <option name="PARAMETERS" value="http -subdomain=nanairo 3000" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
