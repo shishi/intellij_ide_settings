@@ -63,9 +63,7 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
-  <action id="QuickChangeScheme">
-    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
-  </action>
+  <action id="QuickChangeScheme" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
