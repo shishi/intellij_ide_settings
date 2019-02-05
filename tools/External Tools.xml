@@ -1,7 +1,7 @@
 <toolSet name="External Tools">
   <tool name="ngrok" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="ngrok" />
+      <option name="COMMAND" value="$USER_HOME$/dev/bin/ngrok " />
       <option name="PARAMETERS" value="http -subdomain=nanairo 3000" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
