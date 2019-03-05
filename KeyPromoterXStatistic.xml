@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDockerToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Docker</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -190,7 +190,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Terminal</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
