@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="dev" type="Dockerfile" />
-      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping pattern=".envrc.sample" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>

@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Database detector" displayType="NONE" />
-    <notification groupId="Docker: Dockerfile detection" displayType="NONE" />
-    <notification groupId="Ruby Module Manager" displayType="NONE" />
-  </component>
-</application>
